@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: About IOHA
+title: About NAS
 permalink: /about-nas/
 breadcrumb: About NAS
 ---
