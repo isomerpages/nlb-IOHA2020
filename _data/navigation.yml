@@ -5,16 +5,19 @@
 ##################################
 
 
-- title: About IOHA
+- title: Who We Are
   url: /about-ioha
+  sub-links:
+  - title: About IOHA
+    url: /about-ioha
+  - title: About NAS
+    url: /who-we-are/
 - title: Programme
-  url: /programme
+  url: /programme/conference-programme/
   sub-links:
   - title: Conference Programme
     url: /programme/conference-programme/
   - title: Call for Paper & Workshops
     url: /programme/call-for-paper-workshop/
-- title: Who We Are
-  url: /who-we-are/
 - title: Contact Us
   url: /contact-us/
