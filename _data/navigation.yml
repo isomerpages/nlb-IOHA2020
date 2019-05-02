@@ -14,13 +14,6 @@
     url: /programme/conference-programme/
   - title: Call for Paper & Workshops
     url: /programme/call-for-paper-workshop/
-- title: Registration
-  url: /registration
-  sub-links:
-  - title: Registration Information
-    url: /registration/registration-information/
-  - title: Registration Fee & Payment Method
-    url: /registration/registration-fee-payment-method/
 - title: Who We Are
   url: /who-we-are/
 - title: Contact Us
