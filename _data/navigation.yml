@@ -19,5 +19,12 @@
     url: /programme/conference-programme/
   - title: Call for Paper & Workshops
     url: /programme/call-for-paper-workshop/
+- title: Registration
+  url: /registration/register-now/
+  sub-links:
+  - title: Register Now
+    url: /registration/register-now/
+  - title: Registration Fee
+    url: /registration/registration-fee/
 - title: Contact Us
   url: /contact-us/
