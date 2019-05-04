@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: About IOHA
-permalink: /who-we-are/about-ioha/
+permalink: /about-ioha/
 breadcrumb: About IOHA
 ---
 

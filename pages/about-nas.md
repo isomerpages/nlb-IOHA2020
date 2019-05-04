@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: About NAS
-permalink: /who-we-are/about-nas/
+permalink: /about-nas/
 breadcrumb: About NAS
 ---
 
