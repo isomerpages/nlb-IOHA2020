@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Conference Programme
 permalink: /programme/conference-programme
 breadcrumb: Conference Programme
-collection: programme
+collection_name: programme
 ---
 
 ![IOHA 2020 Blue Pink on White banner](/images/ioha2020bluepinkonwhite-825x510.png)
