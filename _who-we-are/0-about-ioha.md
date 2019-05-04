@@ -5,6 +5,9 @@ permalink: /who-we-are/about-ioha/
 breadcrumb: About IOHA
 collection_name: who-we-are
 ---
+
+## ABOUT INTERNATIONAL ORAL HISTORY ASSOCIATION (IOHA)
+
 The International Oral History Association (IOHA) is a professional association of oral history practitioners and exists to:
 * Provide a forum for oral historians around the world, and a means for cooperation among those concerned with the documentation of human experience
 * Stimulate and publish the results of research in the techniques of oral history
