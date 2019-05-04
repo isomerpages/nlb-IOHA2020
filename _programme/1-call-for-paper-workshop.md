@@ -1,9 +1,11 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Call for Papers & Workshop Proposals
 permalink: /programme/call-for-paper-workshop
 breadcrumb: Call for Papers & Workshop Proposals
+collection: programme
 ---
+
 The International Oral History Association (IOHA) is pleased to announce the call for papers and workshop proposals for the next conference to be held in Singapore from 22 to 26 June 2020. The conference is organised by the National Archives of Singapore, an institution of the National Library Board, Singapore.
 
 The theme of the XXI IOHA Conference is Harmony and Disharmony: Bringing Together Many Voices.

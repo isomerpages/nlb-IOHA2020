@@ -43,6 +43,8 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 collections:
   who-we-are:
     output: true
+  programme:
+    output: true
   registration:
     output: true
 resources_name: conference
