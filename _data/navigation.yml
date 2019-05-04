@@ -17,7 +17,9 @@
   sub-links:
   - title: Conference Programme
     url: /programme/conference-programme/
-  - title: Call for Paper & Workshops
-    url: /programme/call-for-paper-workshop/
+  - title: Call for Paper Proposals
+    url: /programme/call-for-paper-proposals/
+  - title: Call for Workshop Proposals
+    url: /programme/call-for-workshop-proposals/
 - title: Contact Us
   url: /contact-us/
