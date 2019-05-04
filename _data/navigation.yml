@@ -9,9 +9,9 @@
   url: /about-ioha
   sub-links:
   - title: About IOHA
-    url: /who-we-are/about-ioha
+    url: /who-we-are/about-ioha/?utm_source=top_nav
   - title: About NAS
-    url: /who-we-are/about-nas/
+    url: /who-we-are/about-nas/?utm_source=top_nav
 - title: Programme
   url: /programme/conference-programme/
   sub-links:
