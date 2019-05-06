@@ -8,7 +8,7 @@ collection_name: programme
 
 <table class="table-v">
   <tr>
-    <td>![IOHA 2020 Blue Pink on White banner](/images/ioha2020bluepinkonwhite-825x510.png)</td>
+    <td><img src="./images/speakers-presenters/user-icon.png" alt="Mr Lorem Ipsum" height="10%" /></td>
     <td>
 		Mr Lorem Ipsum<br/>
 		Director, Discovery Services<br/>
@@ -16,7 +16,7 @@ collection_name: programme
 	</td>
   </tr>
   <tr>
-    <td>![Mr Lorem Ipsum](/images/speakers-presenters/user-icon.png)</td>
+    <td><img src="./images/speakers-presenters/user-icon.png" alt="Mr Lorem Ipsum" height="10%" /></td>
     <td>
 		Mr Lorem Ipsum Junior<br/>
 		Deputy Director, Discovery Services<br/>
