@@ -1,9 +1,9 @@
-# Paper Presenters
-  - name: Mr Loreum Ipsum
-    title: Director, Discovery Services
-    organisation: National Archives of Faraway Land
-    image-url: /images/speakers-presenters/photo-template.webp
-  - name: Mr Loreum Ipsum II
-    title: Deputy Director, Some National Archives
-    organisation: National Archives of Far Far Away
-    image-url: /images/speakers-presenters/photo-template.webp
+# Board of Directors
+- name: Mr Loreum Ipsum
+  title: Director, Discovery Services
+  organisation: National Archives of Faraway Land
+  image-url: /images/speakers-presenters/photo-template.webp
+- name: Mr Loreum Ipsum II
+  title: Deputy Director, Some National Archives
+  organisation: National Archives of Far Far Away
+  image-url: /images/speakers-presenters/user-icon.png
