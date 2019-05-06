@@ -1,0 +1,15 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+#Contact Us
+
+column:
+  - title: General Enquiries & Feedback
+    content:
+    - line: ioha2020@nlb.gov.sg (email)
+    - line: <a href="https://form.gov.sg/5ccff2c0f4552800107651c2"> Submit a Feedback </a>
+# Image
+image-url:
