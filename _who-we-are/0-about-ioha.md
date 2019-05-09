@@ -16,6 +16,7 @@ The International Oral History Association (IOHA) is a professional association 
 * Foster a better understanding of the nature and value of oral history
 * Participate in international projects, or devise such projects, and to work with those organising such projects
 * Support and develop national oral history organisations
+
 The IOHA was formally constituted in June 1996 at the IXth International Oral History Conference in Gothenburg, Sweden.
 
 ## ABOUT INTERNATIONAL ORAL HISTORY ASSOCIATION CONFERENCE
