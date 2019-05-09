@@ -13,25 +13,12 @@ agency-logo: /images/ioha2020-logo.png
 # Hero Banner
 hero-title: International Oral History Association Conference 2020
 hero-subtitle: Singapore | 22-26 Jun 2020
-hero-banner: /images/hero-banner.png
+hero-banner: /images/hero-banner-ioha2020.png
 
 #Call to Action Button
 button:
   - text: Learn More
     url: /programme/conference-programme
-    
-key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
 
 resources-title: Resources
 resources-subtitle: Be in the know
