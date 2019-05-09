@@ -48,3 +48,24 @@ Submit an abstract of no more than 300 words and a biography of no more than 50 
 Instructions on how to submit your audio-visual materials will be provided later.
 
 The deadline for all proposals is 31 August 2019. A notification of acceptance/rejection will be sent in November 2019.
+
+## Call for Workshop Proposals
+
+IOHA 2020 will be hosting a series of workshops on 22 June 2020 and is inviting workshop proposals from the international community. This will be a rare opportunity to facilitate learning and the exchange of ideas and information among international participants.
+
+Full-day or half-day workshops may address specific methodological issues or emerging trends.
+
+We invite individuals or teams interested in conducting such a workshop to submit proposals. Please include the following in your submission to <ioha2020@nlb.gov.sg>:
+
+* Workshop title
+* Objective and description (max. 300 words)
+* Target audience and expected size
+* Names, contact information and brief biographies (max. 50 words each) of the workshop facilitators
+* Details on where this workshop was previously conducted (if applicable)
+* Technical requirements, including space, audio/visual, computer and communication needs
+
+## Registration
+
+All paper presenters (including posters and audio-visual presentations) and workshop facilitators must also register for IOHA 2020. Registration and payment details will be available on the conference website in early 2020. Please check the website for further information.
+
+If you have any questions concerning the call for papers and workshop proposals, please email: <ioha2020@nlb.gov.sg>
