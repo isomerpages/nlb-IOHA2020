@@ -11,14 +11,14 @@ favicon: /images/IOHA2020-Logo-Black-128x128.ico
 agency-logo: /images/ioha2020-logo.png
 
 # Hero Banner
-hero-title: International Oral History Association Conference 2020
-hero-subtitle: 22-26 Jun | Singapore | National Library Building
+hero-title: 
+hero-subtitle: 
 hero-banner: /images/IOHA2020designs-websitebanners-40.png
 
 #Call to Action Button
-button:
-  - text: Learn More
-    url: /programme/conference-programme
+#button:
+#  - text: Learn More
+#    url: /programme/conference-programme
 
 resources-title: Resources
 resources-subtitle: Be in the know
