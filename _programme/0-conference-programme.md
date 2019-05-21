@@ -29,4 +29,4 @@ Our panels and presentations will be structured around the following sub-themes:
 * Inter- and cross-disciplinary applications of oral history (journalism, therapy, etc.)
 * Comparative studies of oral history
 
-We are also inviting workshop proposals. Please view our [Call for Papers and Workshop Proposals](//programme/call-for-paper-workshop-proposals) for more information.
+We are also inviting workshop proposals. Please view our [Call for Papers and Workshop Proposals](/programme/call-for-paper-workshop-proposals) for more information.
