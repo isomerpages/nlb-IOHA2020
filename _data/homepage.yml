@@ -5,7 +5,7 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-ioha.ico
+favicon: /images/IOHA2020-Logo-Black-128x128.ico
 
 # Agency logo
 agency-logo: /images/ioha2020-logo.png
@@ -13,7 +13,7 @@ agency-logo: /images/ioha2020-logo.png
 # Hero Banner
 hero-title: International Oral History Association Conference 2020
 hero-subtitle: Singapore | 22-26 Jun 2020
-hero-banner: /images/hero-banner-ioha2020.png
+hero-banner: /images/IOHA2020designs-websitebanners-34_white.png
 
 #Call to Action Button
 button:
