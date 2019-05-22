@@ -18,7 +18,13 @@ hero-banner: /images/IOHA2020designs-websitebanners-34_white.png
 #Call to Action Button
 #button:
 #  - text: Learn More
-#    url: /programme/conference-programme
+#    url: /programme/conference-theme
+
+key-highlights:
+  - title: Conference Theme
+    description: Harmony & Disharmony: Bringing Many Voices Together
+    url: /programme/conference-theme
+    external: false
 
 resources-title: Resources
 resources-subtitle: Be in the know
