@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Conference Programme
-permalink: /programme/conference-programme
-breadcrumb: Conference Programme
+title: Conference Theme
+permalink: /programme/conference-theme
+breadcrumb: Conference Theme
 collection_name: programme
 ---
 
