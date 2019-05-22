@@ -25,7 +25,7 @@ We look forward to receiving abstracts on the following themes:
 * Oral history and business
 * Oral history and sports
 * Oral history and conflict
-* Oral history and indigenous issues
+* Oral history and indigenous communities
 * Inter- and cross-disciplinary applications of oral history (journalism, therapy, etc.)
 * Comparative studies of oral history
 
@@ -36,6 +36,8 @@ The official language of the congress is English, but presentations in Spanish w
 You can propose either 1) a paper, 2) a poster, or 3) an audio-visual presentation. Please read the instructions below before making a proposal and submitting your abstract.
 
 Please note that each individual may only submit one solo-authored paper, poster or audio-visual presentation proposal, but additional co-authored proposals can also be submitted. If more than one solo-authored paper is received by the same author, the last submitted proposal will be considered for acceptance.
+
+We would appreciate it if Spanish submissions could come with an English translation.
 
 ### To propose a paper or a poster: 
 

@@ -25,7 +25,7 @@ Our panels and presentations will be structured around the following sub-themes:
 * Oral history and business
 * Oral history and sports
 * Oral history and conflict
-* Oral history and indigenous issues
+* Oral history and indigenous communities
 * Inter- and cross-disciplinary applications of oral history (journalism, therapy, etc.)
 * Comparative studies of oral history
 
