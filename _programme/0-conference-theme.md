@@ -10,7 +10,7 @@ collection_name: programme
 
 The [National Archives of Singapore](https://wwww.nas.gov.sg), an institution of the [National Library Board](https://nas.gov.sg), welcomes the [International Oral History Association](https://www.ioha.org/) (IOHA) to Singapore from 22 to 26 June 2020.
 
-The theme of the conference is **Harmony & Disharmony: Bringing Many Voices Together**.
+The theme of the conference is **Harmony & Disharmony: Bringing Together Many Voices**.
 
 At the core of oral history is a desire for a more complex and nuanced understanding of the world around us. While we value each oral account as unique, personal and subjective, bringing together many voices – whether in agreement or disagreement – allows greater meaning to be gleaned, refined and accumulated. Oral history teaches us to be considerate and empathetic to different voices and perspectives. What does this mean in the context of oral history taking root in more places and different cultures around the world? Where it is used in more and different contexts and disciplines? Aided and even led by changing technologies? Presented in different forms and bearing multiple uses? This conference invites papers which shed light on the growing diversity, multidimensionality and interdisciplinary applications of oral history.
 
