@@ -49,7 +49,7 @@ Submit an abstract of no more than 300 words and a biography of no more than 50 
 
 Instructions on how to submit your audio-visual materials will be provided later.
 
-The deadline for all proposals is 31 August 2019. A notification of acceptance/rejection will be sent in November 2019.
+The deadline for all proposals is 30 August 2019. A notification of acceptance/rejection will be sent in November 2019.
 
 ## Call for Workshop Proposals
 
