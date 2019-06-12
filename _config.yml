@@ -48,3 +48,5 @@ collections:
   registration:
     output: true
 resources_name: conference
+
+is_government: false
