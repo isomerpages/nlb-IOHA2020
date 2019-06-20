@@ -1,7 +1,7 @@
-title: Title
-title-abbreviated: Title
+title: National Archives of Singapore
+title-abbreviated: NAS
 description: >- # this means to ignore newlines until "baseurl:"
-  Description
+  Official website of the XXI International Oral History Association Conference 2020 held in Singapore, 22-26 Jun 2020
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -25,10 +25,10 @@ paginate: 12
 
 # Homepage sections
 homepage_hero_i_want_to: false
-homepage_resources: true
+homepage_resources: false
 
 # Feedback Form URL
-feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
+feedback_form_url: "https://form.gov.sg/5ccff2c0f4552800107651c2"
 
 # FAQ URL
 faq_url: "/faq/"
@@ -41,8 +41,12 @@ custom_print_css_path: "/assets/css/print.css"
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 
 collections:
-  left-nav-one:
+  who-we-are:
     output: true
-  left-nav-two:
+  programme:
     output: true
-resources_name: resource-room
+  registration:
+    output: true
+resources_name: conference
+
+is_government: false

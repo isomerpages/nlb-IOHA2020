@@ -5,33 +5,25 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/logov3_e10_icon.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/iohalogo.png
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
+hero-title: International Oral History Association Conference 2020
+hero-subtitle: 22—26 June 2020 | National Library Building, Singapore
+hero-banner: images/hero_2_bkgd.png
 
 #Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
-    
+#button:
+#  - text: Learn More
+#    url: /programme/conference-theme
+
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+  - title: Conference Theme
+    description: Find out more about our themes
+    url: /programme/conference-theme/
 
 resources-title: Resources
 resources-subtitle: Be in the know

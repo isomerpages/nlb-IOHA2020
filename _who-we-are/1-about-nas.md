@@ -1,9 +1,13 @@
 ---
-layout: simple-page
-title: Who We Are
-permalink: /who-we-are/
-breadcrumb: Who We Are
+layout: leftnav-page-content
+title: About NAS
+permalink: /who-we-are/about-nas/
+breadcrumb: About NAS
+collection_name: who-we-are
 ---
+
+## About National Archives of Singapore
+
 The [National Archives of Singapore](https://www.nas.gov.sg) (NAS) is the keeper of records of national or historical significance. The records acquired by NAS come from both public agencies and private sources. Records in various mediums and formats are safeguarded and preserved.
 
 The immensely rich collection continues to grow as NAS fulfils its mission to actively acquire records that will serve as the corporate memory of the Government and the social memory of our people. This memory allows current and future generations of Singaporeans to understand our different cultures, explore our common heritage and appreciate who we are and how we became a nation.
