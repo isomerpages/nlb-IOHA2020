@@ -8,7 +8,7 @@ collection_name: programme
 
 The International Oral History Association (IOHA) is pleased to announce the call for papers and workshop proposals for the next conference to be held in Singapore from 22 to 26 June 2020. The conference is organised by the National Archives of Singapore, an institution of the National Library Board, Singapore.
 
-The theme of the XXI IOHA Conference is Harmony and Disharmony: Bringing Together Many Voices.
+The theme of the XXI IOHA Conference is *Harmony and Disharmony: Bringing Together Many Voices*.
 
 ## Call for Papers
 
@@ -31,7 +31,7 @@ We look forward to receiving abstracts on the following themes:
 
 The official language of the congress is English, but presentations in Spanish will also be accepted.
 
-## SUBMISSION GUIDELINES
+## Submission Guidelines
 
 You can propose either 1) a paper, 2) a poster, or 3) an audio-visual presentation. Please read the instructions below before making a proposal and submitting your abstract.
 
