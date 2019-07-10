@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Call for Papers & Workshop Proposals
-permalink: /programme/call-for-papers-workshop-proposals
+permalink: /programme/call-for-paper-workshop-proposals
 breadcrumb: Call for Papers & Workshop Proposals
 collection_name: programme
 ---
