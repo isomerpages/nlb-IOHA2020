@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Call for Paper & Workshop Proposals
+title: Call for Papers & Workshop Proposals
 permalink: /programme/call-for-paper-workshop-proposals
-breadcrumb: Call for Paper & Workshop Proposals
+breadcrumb: Call for Papers & Workshop Proposals
 collection_name: programme
 ---
 
