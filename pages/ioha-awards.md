@@ -1,27 +1,35 @@
 ---
 layout: simple-page
-title: Who We Are
-permalink: /who-we-are/
-breadcrumb: Who We Are
+title: IOHA Awards
+permalink: /ioha-award/
+breadcrumb: IOHA Awards
 ---
-The [National Archives of Singapore](https://www.nas.gov.sg) (NAS) is the keeper of records of national or historical significance. The records acquired by NAS come from both public agencies and private sources. Records in various mediums and formats are safeguarded and preserved.
+**Inaugural International Oral History Association Awards**
 
-The immensely rich collection continues to grow as NAS fulfils its mission to actively acquire records that will serve as the corporate memory of the Government and the social memory of our people. This memory allows current and future generations of Singaporeans to understand our different cultures, explore our common heritage and appreciate who we are and how we became a nation.
+Oral historians (anyone engaging with oral history) are encouraged to apply for these biennial awards presented by the International Oral History Association (IOHA). The awards are open to oral historians working in any field, across community, academia, media or professions. The award winners will have been responsible for oral history productions that are innovative, excellent and inspirational. Two awards are available:
 
-## Our Mandate
+**International Oral History Association Book Award 2020**
 
-The NAS is an institution of the [National Library Board](https://www.nlb.gov.sg) (NLB). NAS is guided by the National Library Act to:
+**International Oral History Association Media Award 2020** (available to an oral history production in any medium other than a book)
 
-* Advise public agencies on recordkeeping standard practices, take custody of records transferred from public agencies and act as the Official Keeper
-* Acquire, through deposit, audio visual recordings that have been broadcasted or made public in Singapore
-* Collect oral history interviews on the history of Singapore
-* Acquire, by purchase, bequest, donations or otherwise, any document, book or other material which is or is likely to be of national or historical significance
-* Make known information concerning archives by any means, including publications, exhibitions and heritage promotional activities.
+**Eligibility:** To be eligible, the oral history production must have been ‘published’ in the calendar years 2017, 2018 and up until 31 December 2019. Applicants must be members of the IOHA.
 
-## About Oral History Centre
+The two award winners will each receive a scholarship to attend the 2020 conference, and all shortlisted applicants will also be posted on the IOHA website. The judging panel may award a joint prize and/or Commendations for Excellence to outstanding runners-up. Winners will be announced at the IOHA conference in Singapore, 22 – 26 June 2020.
 
-The Oral History Centre (OHC) was set up in 1979 and is today a department of the NAS. Using life stories and eye witness accounts of individuals across the spectrum of society, we record, document, preserve and disseminate oral history interviews of national and historical significance. We also acquire oral history interviews from other institutions or individuals, preserving and disseminating them for the benefit of our patrons. These recordings serve as valuable research resources on Singapore.
+**How to Apply:** *Applicants must email an application as a Word document or pdf attachment, to each of the judges listed below, to reach them by* the **closing date, 31 January 2020.**
 
-Our projects are both broad and deep in scope, covering aspects of the social, economic and political history of Singapore.
+ **Your application must include:**
 
-Visit [Oral History Interviews @ Archives Online](http://www.nas.gov.sg/archivesonline/oral_history_interviews/) to listen to our collection.
+\1. Applicant/s name (individual/s and organisational affiliation, if applicable).
+
+\2. You must specify which of the two awards you are applying for: IOHA Book Award or IOHA Media Award.
+
+\3. Book or media production details, including author/producers, title, format, date of production and web address (as appropriate).
+
+\4. Applicant/s contact address, phone number, email and (where available) web address.
+
+\5. In no more than 500 words, a description of the production and an explanation of why it is deserving of an award for innovation, excellence and inspiration in oral history. 
+
+\6. If the production has a material presence (e.g. book, audio or video recording, or some other format that can be provided to the judges), then one copy must be posted to each of the judges at the following addresses:
+
+**Sue.Anderson@unisa.edu.au****; Outi.Fingerroos@jyu.fi; TianMiao80@163.com; Mark_Wong@nlb.gov.sg**
