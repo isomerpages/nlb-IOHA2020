@@ -6,7 +6,7 @@ breadcrumb: Conference Theme
 collection_name: programme
 ---
 
-![IOHA 2020 Blue Pink on White banner](/images/IOHA2020-ConferenceBanner.webp)
+![IOHA 2020 Blue Pink on White banner](/images/IOHA2020-ConferenceBanner.jpg)
 
 The [National Archives of Singapore](https://wwww.nas.gov.sg), an institution of the [National Library Board](https://nas.gov.sg), welcomes the [International Oral History Association](https://www.ioha.org/) (IOHA) to Singapore from 22 to 26 June 2020.
 
