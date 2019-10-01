@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: 2022 Conference - Expressions of Interest
+title: IOHA 2022
 permalink: /exp-interest/
 breadcrumb: 2022 Conference - Expressions of Interest
 ---
@@ -10,7 +10,7 @@ breadcrumb: 2022 Conference - Expressions of Interest
 
  
 
-The international Oral History Association Conference is held biennially at different venues around the world.  It brings together the oral history community to share knowledge of the theory and practice of oral history.
+The International Oral History Association Conference is held biennially at different venues around the world.  It brings together the oral history community to share knowledge of the theory and practice of oral history.
 
 The XX Conference was held in Finland in 2018.  It was attended by 338 people (255 from abroad and 83 from Finland) from over 50 different countries.  
 
