@@ -1,8 +1,9 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: IOHA Awards
-permalink: /ioha-award/
+permalink: /programme/ioha-award/
 breadcrumb: IOHA Awards
+collection_name: programme
 ---
 # **Inaugural International Oral History Association Awards**
 
