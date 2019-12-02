@@ -12,6 +12,8 @@
     url: /who-we-are/about-ioha/
   - title: About NAS
     url: /who-we-are/about-nas/
+- title: Registration
+  url: /registration/
 - title: Programme
   url: /programme/conference-theme/
   sub-links:
