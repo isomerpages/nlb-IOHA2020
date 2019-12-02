@@ -12,7 +12,7 @@ Please note the registration fees below.
 
 All fees are in Singapore Dollars and before 7% Goods and Services Tax (GST).
 
-To become an IOHA member, please visit [IOHA Membership](http://www.ioha.org/membership-account/membership-levels/)
+To become an IOHA member, please visit [IOHA Membership](http://www.ioha.org/membership-account/membership-levels/).
 
 | **Registration Type**                      | **Early Bird (Until 31 Mar 2020)** | **Normal**  |
 | ------------------------------------------ | ---------------------------------- | ----------- |
