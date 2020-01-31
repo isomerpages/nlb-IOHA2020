@@ -33,7 +33,11 @@
   
 - title: Welcome to Singapore
   url: /sg/accomodation/
-  url: /sg/attractions/
+   sub-links:
+  - title: Accomodation
+    url: /sg/accomodation/
+  - title: Attractions
+    url: /sg/attractions/
   
 - title: Contact Us
   url: /contact-us/
