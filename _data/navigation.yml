@@ -12,8 +12,10 @@
     url: /who-we-are/about-ioha/
   - title: About NAS
     url: /who-we-are/about-nas/
+  
 - title: Registration
   url: /registration/
+  
 - title: Programme
   url: /programme/conference-theme/
   sub-links:
@@ -25,7 +27,13 @@
     url: /programme/conference-travel-grants/
   - title: IOHA Awards
     url: /programme/ioha-award/
+  
 - title: IOHA 2022
   url: /exp-interest/
+  
+- title: Welcome to Singapore
+  url: /sg/accomodation/
+  url: /sg/attractions/
+  
 - title: Contact Us
   url: /contact-us/
