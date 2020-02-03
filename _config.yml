@@ -45,6 +45,8 @@ collections:
     output: true
   registration:
     output: true
+  sg:
+    output: true
 resources_name: conference
 
 is_government: false
