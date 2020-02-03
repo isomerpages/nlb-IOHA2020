@@ -31,7 +31,8 @@
   - title: Accomodation
     url: /welcome/accomodation/
   - title: Attractions
-    url: /welcome/attractions/
+    
+url: /welcome/attractions/
 - title: IOHA 2022
   url: /exp-interest/
 - title: Contact Us
