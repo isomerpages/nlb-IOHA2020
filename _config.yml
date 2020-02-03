@@ -43,8 +43,6 @@ collections:
     output: true
   programme:
     output: true
-  registration:
-    output: true
   sg:
     output: true
 resources_name: conference
