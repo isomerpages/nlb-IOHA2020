@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Attractions
-permalink: /sg/attractions
+permalink: /sg/attractions/
 breadcrumb: Attractions
 collection_name: sg
 ---
