@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Conference Theme
-permalink: /programme/conference-theme
+permalink: /welcome/accomodation/
 breadcrumb: Conference Theme
-collection_name: programme
+collection_name: welcome
 ---
 
 ![IOHA 2020 Blue Pink on White banner](/images/IOHA2020-ConferenceBanner.jpg)

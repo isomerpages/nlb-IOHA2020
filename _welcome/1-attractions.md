@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Call for Papers & Workshop Proposals
-permalink: /programme/call-for-paper-workshop-proposals
+permalink: /welcome/attractions/
 breadcrumb: Call for Papers & Workshop Proposals
-collection_name: programme
+collection_name: welcome
 ---
 ***Submission deadline extended to 30 September!***
 
