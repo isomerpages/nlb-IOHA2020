@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Attractions
 permalink: /sg/attractions/
 breadcrumb: Attractions
-collection_name: sg
+collection_name:sg
 ---
 ## Attractions
 

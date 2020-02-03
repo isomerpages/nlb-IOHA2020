@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Accomodation
 permalink: /sg/accomodation/
 breadcrumb: Accomodation
-collection_name: sg
+collection_name:sg
 ---
 
 ## Accomodation
