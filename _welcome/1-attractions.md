@@ -1,31 +1,60 @@
 ---
 layout: leftnav-page-content
-title: About NAS
-permalink: /who-we-are/about-nas/
-breadcrumb: About NAS
-collection_name: who-we-are
+title: Attractions
+permalink: /welcome/attractions/
+breadcrumb: Attractions
+collection_name: welcome
 ---
 
-## About National Archives of Singapore
+## Attractions
 
-The [National Archives of Singapore](https://www.nas.gov.sg) (NAS) is the keeper of records of national or historical significance. The records acquired by NAS come from both public agencies and private sources. Records in various mediums and formats are safeguarded and preserved.
+The conference venue lies in Singapore’s Civic District, with many popular attractions a walk or a short ride away by public transport.
 
-The immensely rich collection continues to grow as NAS fulfils its mission to actively acquire records that will serve as the corporate memory of the Government and the social memory of our people. This memory allows current and future generations of Singaporeans to understand our different cultures, explore our common heritage and appreciate who we are and how we became a nation.
+**Asian Civilisations Museum** **is devoted to exploring the rich artistic heritage of Asia, especially the ancestral cultures of Singaporeans.** 
+ 1 Empress Place, Singapore 179555
+ Tel: +65 6332 7798
+ Nearest MRT: Raffles Place (EW14/NS26)
 
-## Our Mandate
 
-The NAS is an institution of the [National Library Board](https://www.nlb.gov.sg) (NLB). NAS is guided by the National Library Act to:
 
-* Advise public agencies on recordkeeping standard practices, take custody of records transferred from public agencies and act as the Official Keeper
-* Acquire, through deposit, audio visual recordings that have been broadcasted or made public in Singapore
-* Collect oral history interviews on the history of Singapore
-* Acquire, by purchase, bequest, donations or otherwise, any document, book or other material which is or is likely to be of national or historical significance
-* Make known information concerning archives by any means, including publications, exhibitions and heritage promotional activities.
+**Chinatown Heritage Centre** **is located within three beautifully restored shophouses and tells the stories of Singapore’s early Chinese migrants.**
+ 48 Pagoda Street, Singapore 059207
+ Tel: +65 6224 3928
+ Nearest MRT: Chinatown (NE4/DT19)
 
-## About Oral History Centre
 
-The Oral History Centre (OHC) was set up in 1979 and is today a department of the NAS. Using life stories and eye witness accounts of individuals across the spectrum of society, we record, document, preserve and disseminate oral history interviews of national and historical significance. We also acquire oral history interviews from other institutions or individuals, preserving and disseminating them for the benefit of our patrons. These recordings serve as valuable research resources on Singapore.
 
-Our projects are both broad and deep in scope, covering aspects of the social, economic and political history of Singapore.
+**Indian Heritage Centre** **traces the history of Indian and South Asian communities in Singapore and the Southeast Asian region.**
+ 5 Campbell Lane, Singapore 209924
+ Tel: +65 6291 1601
+ Nearest MRT: Little India (NE7/DT12)
 
-Visit [Oral History Interviews @ Archives Online](http://www.nas.gov.sg/archivesonline/oral_history_interviews/) to listen to our collection.
+
+
+**Malay Heritage Centre** **is a vital heritage institution for the Malay community in Singapore, with exhibits, programmes and activities to honour the past while providing a means for present-day expression.**
+ 85 Sultan Gate, Singapore 198501
+ Tel: +65 6391 0450
+ Nearest MRT: Bugis (EW12/DT14)
+
+
+
+**National Gallery Singapore** **is a leading visual arts institution which oversees the world’s largest public collection of Singapore and Southeast Asian modern art.**
+ 1 St Andrew’s Road, Singapore 178957
+ Tel: +65 6271 7000
+ Nearest MRT: City Hall (NS25/EW13)
+
+
+
+**National Museum of Singapore** **is the nation’s oldest museum that seeks to inspire with stories of Singapore and the world. Its permanent Singapore History Gallery narrates the development of the island from pre-modern times to its post-independence years.**
+ 93 Stamford Road, Singapore 178897
+ Tel: +65 6332 3659 Nearest MRTs**:** Bras Basah (CC2), Dhoby Ghaut (NS24/NE6/CC1), City Hall (NS25/EW13)
+
+
+
+**Singapore DUCKtours** **organises unique city sightseeing experiences, including a land and sea adventure onboard a refurbished World War II amphibious craft from Vietnam, unlimited rides with multilingual onboard commentaries on open-top double-decker buses, concept bus tours which combine sightseeing with the sampling of local cuisine, and more.** Tel: +65 6338 6877
+
+
+
+For more recommendations, please visit <https://www.visitsingapore.com/en/>
+
+The above information is accurate as of January 2020. Please check the respective websites for the latest information.
