@@ -130,7 +130,7 @@ We have listed here various other accommodation options for conference delegates
 <p><strong>2</strong></p>
 </td>
 <td width="158">
-<p><strong>InterContinental Singapore<br /> <br /> </strong></p>
+<p><strong>InterContinental Singapore</strong></p>
 <p>80 Middle Road, Singapore 188966</p>
 <p>T: +65 6338 7600</p>
 </td>
@@ -152,8 +152,8 @@ We have listed here various other accommodation options for conference delegates
 <p><strong>3</strong></p>
 </td>
 <td width="158">
-<p><strong>Mercure Singapore Bugis<br /> <br /> </strong></p>
-<p>122 Middle Road,<br /> Singapore 188973</p>
+<p><strong>Mercure Singapore Bugis<br /></strong></p>
+<p>122 Middle Road, Singapore 188973</p>
 <p>T: +65 6521 6088</p>
 </td>
 <td width="116">
@@ -203,7 +203,7 @@ We have listed here various other accommodation options for conference delegates
 <p><strong>5</strong></p>
 </td>
 <td width="158">
-<p><strong>Hotel G Singapore<br /> <br /> </strong></p>
+<p><strong>Hotel G Singapore</strong></p>
 <p>200 Middle Road, Singapore 188980</p>
 <p>T: +65 6809 7998</p>
 </td>
