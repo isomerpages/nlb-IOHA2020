@@ -83,6 +83,8 @@ The following hotels are offering conference rates for delegates. Please contact
 
 We have listed here various other accommodation options for conference delegates. Please note that the fees are based on internet rates which may fluctuate for various reasons. Do contact the respective establishments for the latest information. For more choices, you may also wish to check online booking portals for establishments in the Bugis/Bras Basah areas.
 
+
+
 <table width="0">
 <tbody>
 <tr>
@@ -515,8 +517,6 @@ We have listed here various other accommodation options for conference delegates
 </tr>
 </tbody>
 </table>
-
-
 
 
 **Pricing Legend**
