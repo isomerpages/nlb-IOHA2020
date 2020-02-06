@@ -10,7 +10,7 @@ collection_name: welcome
 
 **Updated: 31 Jan 2020**
 
-Singapore is a popular tourist destination and there are a wide range of accommodation types available for all budgets, including luxury hotels, capsule hotels, backpackers’ guesthouses and shared hostels. The National Library Building is in the highly central Bugis area with many accommodation choices within walking distance.
+Singapore is a popular tourist destination and there are a wide range of accomodation types available for all budgets, including luxury hotels, capsule hotels, backpackers’ guesthouses and shared hostels. The National Library Building is in the highly central Bugis area with many accommodation choices within walking distance.
 
 **Conference Rates**
 
@@ -130,7 +130,7 @@ We have listed here various other accommodation options for conference delegates
 <p><strong>2</strong></p>
 </td>
 <td width="158">
-<p><strong>InterContinental Singapore<br /> <br /> </strong></p>
+<p><strong>InterContinental Singapore</strong></p>
 <p>80 Middle Road, Singapore 188966</p>
 <p>T: +65 6338 7600</p>
 </td>
@@ -152,8 +152,8 @@ We have listed here various other accommodation options for conference delegates
 <p><strong>3</strong></p>
 </td>
 <td width="158">
-<p><strong>Mercure Singapore Bugis<br /> <br /> </strong></p>
-<p>122 Middle Road,<br /> Singapore 188973</p>
+<p><strong>Mercure Singapore Bugis</strong></p>
+<p>122 Middle Road, Singapore 188973</p>
 <p>T: +65 6521 6088</p>
 </td>
 <td width="116">
@@ -539,6 +539,7 @@ We have listed here various other accommodation options for conference delegates
 </table>
 
 **Pricing Legend**
+
 <table>
 <tbody>
 <tr>
@@ -546,7 +547,7 @@ We have listed here various other accommodation options for conference delegates
 <p><strong>$</strong></p>
 </td>
 <td width="189">
-<p><strong>$100 and under</strong></p>
+<p><strong>SGD$100 and under</strong></p>
 </td>
 </tr>
 <tr>
@@ -554,7 +555,7 @@ We have listed here various other accommodation options for conference delegates
 <p><strong>$$</strong></p>
 </td>
 <td width="189">
-<p><strong>$101&ndash;$150</strong></p>
+<p><strong>SGD$101&ndash;$150</strong></p>
 </td>
 </tr>
 <tr>
@@ -562,7 +563,7 @@ We have listed here various other accommodation options for conference delegates
 <p><strong>$$$</strong></p>
 </td>
 <td width="189">
-<p><strong>$151&ndash;$200 </strong></p>
+<p><strong>SGD$151&ndash;$200 </strong></p>
 </td>
 </tr>
 <tr>
@@ -570,9 +571,10 @@ We have listed here various other accommodation options for conference delegates
 <p><strong>$$$$</strong></p>
 </td>
 <td width="189">
-<p><strong>$200 and above </strong></p>
+<p><strong>SGD$200 and above </strong></p>
 </td>
 </tr>
 </tbody>
 </table>
+
 
