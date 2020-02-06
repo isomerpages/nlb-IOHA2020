@@ -518,6 +518,7 @@ We have listed here various other accommodation options for conference delegates
 
 
 
+
 **Pricing Legend**
 
 <table>
