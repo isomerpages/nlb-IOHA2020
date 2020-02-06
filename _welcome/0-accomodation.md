@@ -202,7 +202,7 @@ We have listed here various other accommodation options for conference delegates
 <p><strong>5</strong></p>
 </td>
 <td width="158">
-<p><strong>Hotel G Singapore<br /> <br /> </strong></p>
+<p><strong>Hotel G Singapore</strong></p>
 <p>200 Middle Road, Singapore 188980</p>
 <p>T: +65 6809 7998</p>
 </td>
