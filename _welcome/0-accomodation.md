@@ -53,9 +53,7 @@ The following hotels are offering conference rates for delegates. Please contact
 </td>
 <td width="127">
 <p><strong>Hotel Grand Pacific Singapore</strong></p>
-<p><strong>&nbsp;</strong></p>
 <p>101 Victoria Street, Singapore 188018</p>
-<p>&nbsp;</p>
 <p>T: +65 6334 0630</p>
 </td>
 <td width="110">
@@ -78,6 +76,7 @@ The following hotels are offering conference rates for delegates. Please contact
 </tr>
 </tbody>
 </table>
+
 
 
 **List of Other Accomodation Types Near the National Library Building**
@@ -154,7 +153,8 @@ We have listed here various other accommodation options for conference delegates
 <td width="158">
 <p><strong>Mercure Singapore Bugis</strong></p>
 <p>122 Middle Road, Singapore 188973</p>
-<p>T: +65 6521 6088</p>
+<p>T: +65 6
+    521 6088</p>
 </td>
 <td width="116">
 <p>$$$</p>
@@ -177,7 +177,6 @@ We have listed here various other accommodation options for conference delegates
 <p>490 North Bridge Road</p>
 <p>2<sup>nd</sup> Floor</p>
 <p>Singapore 188736</p>
-<p>&nbsp;</p>
 <p>T: +65 6338 8826</p>
 <p>+65 6224 6859</p>
 <p>+65 8818 1868</p>
@@ -225,9 +224,7 @@ We have listed here various other accommodation options for conference delegates
 <td width="158">
 <p><strong>JW Marriott Hotel Singapore South Beach</strong></p>
 <p>30 Beach Road,</p>
-<p>Access via Nicoll Highway,</p>
-<p>Singapore 189763</p>
-<p>&nbsp;</p>
+<p>Access via Nicoll Highway,Singapore 189763</p>
 <p>T: +65 6818 1888</p>
 <p>&nbsp;</p>
 </td>
@@ -251,7 +248,6 @@ We have listed here various other accommodation options for conference delegates
 <td width="158">
 <p><strong>Ibis Singapore On Bencoolen</strong></p>
 <p>170 Bencoolen Street, Singapore 189657</p>
-<p>&nbsp;</p>
 <p>T: +65 6593 2888</p>
 <p>&nbsp;</p>
 </td>
@@ -274,7 +270,6 @@ We have listed here various other accommodation options for conference delegates
 <td width="158">
 <p><strong>Andaz Singapore</strong></p>
 <p>5 Fraser Street, Singapore 189354</p>
-<p>&nbsp;</p>
 <p>T: +65 6408 1234</p>
 <p>&nbsp;</p>
 </td>
@@ -317,7 +312,7 @@ We have listed here various other accommodation options for conference delegates
 <p><strong>10</strong></p>
 </td>
 <td width="158">
-<p><strong>Village Hotel Bugis<br /></strong></p>
+<p><strong>Village Hotel Bugis</strong></p>
 <p>390 Victoria Street,<br /> Singapore 188061</p>
 <p>T: +65 6881 8888</p>
 </td>
@@ -362,9 +357,7 @@ We have listed here various other accommodation options for conference delegates
 </td>
 <td width="158">
 <p><strong>Grand Park City Hall</strong></p>
-<p>&nbsp;</p>
 <p>10 Coleman Street, Singapore 179809</p>
-<p>&nbsp;</p>
 <p>T: +65 6336 3456</p>
 <p>&nbsp;</p>
 </td>
@@ -380,20 +373,14 @@ We have listed here various other accommodation options for conference delegates
 <td width="147">
 <p><strong><a href="https://www.parkhotelgroup.com/en/cityhall">Website</a></strong></p>
 </td>
-</tr>
 </tbody>
-</table>
-<table width="0">
 <tbody>
-<tr>
 <td width="52">
 <p><strong>13</strong></p>
 </td>
 <td width="158">
 <p><strong>BOND Boutique Capsule Hotel</strong></p>
-<p><strong>&nbsp;</strong></p>
 <p>7A Jalan Pinang, Singapore 199139</p>
-<p>&nbsp;</p>
 <p>Tel: +65 62995975</p>
 <p>&nbsp;</p>
 </td>
@@ -418,7 +405,7 @@ We have listed here various other accommodation options for conference delegates
 </td>
 <td width="158">
 <p><strong>Rest Bugis Hotel</strong></p>
-<p><br /> 8 Jalan Kubor,<br /> Singapore 199207</p>
+<p>8 Jalan Kubor,Singapore 199207</p>
 <p>T: +65 6298 8889</p>
 </td>
 <td width="116">
@@ -438,8 +425,6 @@ We have listed here various other accommodation options for conference delegates
 <td width="158">
 <p><strong>MET A Space Pod @ Arab Street</strong></p>
 <p>56 Arab Street, Singapore 199753</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td width="116">
 <p>$</p>
@@ -463,7 +448,6 @@ We have listed here various other accommodation options for conference delegates
 <td width="158">
 <p><strong>Beary Best! Kampong Glam</strong></p>
 <p>64 Arab Street, Singapore 199761</p>
-<p>&nbsp;</p>
 <p>T: +65 8814 8509 or +65 9727 7011</p>
 <p>&nbsp;</p>
 </td>
@@ -486,7 +470,6 @@ We have listed here various other accommodation options for conference delegates
 </td>
 <td width="158">
 <p><strong>Reddoorz Hostel @ Beach Road</strong></p>
-<p><strong>&nbsp;</strong></p>
 <p>285 Beach Road, Singapore 199550</p>
 <p>&nbsp;</p>
 </td>
@@ -512,7 +495,6 @@ We have listed here various other accommodation options for conference delegates
 <td width="158">
 <p><strong>The Pod @ Beach Road Boutique Capsule Hotel</strong></p>
 <p>289 Beach Road, Singapore 199552</p>
-<p>&nbsp;</p>
 <p>T: +65 6298 8505</p>
 <p>&nbsp;</p>
 </td>
