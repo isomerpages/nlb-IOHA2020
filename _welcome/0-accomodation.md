@@ -24,7 +24,6 @@ The following hotels are offering conference rates for delegates. Please contact
 </td>
 <td width="127">
 <p><strong>RedDoorz Plus Victoria Hotel (aka RedDoorz Plus @ Victoria)</strong></p>
-<p><strong>&nbsp;</strong></p>
 <p>87 Victoria Street, Singapore 188016</p>
 <p>&nbsp;</p>
 </td>
@@ -79,6 +78,7 @@ The following hotels are offering conference rates for delegates. Please contact
 </tr>
 </tbody>
 </table>
+
 
 **List of Other Accomodation Types Near the National Library Building**
 
@@ -174,7 +174,6 @@ We have listed here various other accommodation options for conference delegates
 </td>
 <td width="158">
 <p><strong>Backpacker Cozy Corner Guesthouse</strong></p>
-<p>&nbsp;</p>
 <p>490 North Bridge Road</p>
 <p>2<sup>nd</sup> Floor</p>
 <p>Singapore 188736</p>
@@ -251,7 +250,6 @@ We have listed here various other accommodation options for conference delegates
 </td>
 <td width="158">
 <p><strong>Ibis Singapore On Bencoolen</strong></p>
-<p><strong>&nbsp;</strong></p>
 <p>170 Bencoolen Street, Singapore 189657</p>
 <p>&nbsp;</p>
 <p>T: +65 6593 2888</p>
@@ -275,7 +273,6 @@ We have listed here various other accommodation options for conference delegates
 </td>
 <td width="158">
 <p><strong>Andaz Singapore</strong></p>
-<p>&nbsp;</p>
 <p>5 Fraser Street, Singapore 189354</p>
 <p>&nbsp;</p>
 <p>T: +65 6408 1234</p>
@@ -320,7 +317,7 @@ We have listed here various other accommodation options for conference delegates
 <p><strong>10</strong></p>
 </td>
 <td width="158">
-<p><strong>Village Hotel Bugis<br /> <br /> </strong></p>
+<p><strong>Village Hotel Bugis<br /></strong></p>
 <p>390 Victoria Street,<br /> Singapore 188061</p>
 <p>T: +65 6881 8888</p>
 </td>
@@ -342,7 +339,7 @@ We have listed here various other accommodation options for conference delegates
 <p><strong>11</strong></p>
 </td>
 <td width="158">
-<p><strong>Peninsula Excelsior Hotel<br /> <br /> </strong></p>
+<p><strong>Peninsula Excelsior Hotel</strong></p>
 <p>5 Coleman Street,<br /> Singapore 179805</p>
 <p>T: +65 6337 2200<strong>&nbsp;</strong></p>
 </td>
@@ -366,8 +363,7 @@ We have listed here various other accommodation options for conference delegates
 <td width="158">
 <p><strong>Grand Park City Hall</strong></p>
 <p>&nbsp;</p>
-<p>10 Coleman Street,</p>
-<p>Singapore 179809</p>
+<p>10 Coleman Street, Singapore 179809</p>
 <p>&nbsp;</p>
 <p>T: +65 6336 3456</p>
 <p>&nbsp;</p>
