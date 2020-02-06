@@ -375,7 +375,10 @@ We have listed here various other accommodation options for conference delegates
 <td width="147">
 <p><strong><a href="https://www.parkhotelgroup.com/en/cityhall">Website</a></strong></p>
 </td>
+</tr>
 </tbody>
+</table>
+<table width="0">
 <tbody>
 <td width="52">
 <p><strong>13</strong></p>
