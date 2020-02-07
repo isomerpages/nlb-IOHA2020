@@ -384,6 +384,7 @@ We have listed here various other accommodation options for conference delegates
 </table>
 <table width="0">
   <tbody>
+   <tr>
     <td width="52">
       <p><strong>13</strong></p>
     </td>
@@ -526,6 +527,7 @@ We have listed here various other accommodation options for conference delegates
     </tr>
   </tbody>
 </table>
+
 
 
 **Pricing Legend**
