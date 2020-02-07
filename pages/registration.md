@@ -6,7 +6,7 @@ breadcrumb: Registration
 ---
 # Registration
 
-We will be opening early bird registration in early February 2020.
+We will be opening early bird registration in January 2020.
 
 Please note the registration fees below.
 

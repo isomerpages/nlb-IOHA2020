@@ -25,7 +25,15 @@
     url: /programme/conference-travel-grants/
   - title: IOHA Awards
     url: /programme/ioha-award/
+- title: Welcome to Singapore
+  url: /welcome/accomodation/
+  sub-links:
+  - title: Accomodation
+    url: /welcome/accomodation/
+  - title: Attractions
+    url: /welcome/attractions
 - title: IOHA 2022
   url: /exp-interest/
 - title: Contact Us
   url: /contact-us/
+
