@@ -8,7 +8,7 @@ collection_name: welcome
 
 ## Accomodation
 
-**Updated: 31 Jan 2020**
+**Updated: 13 Feb 2020**
 
 Singapore is a popular tourist destination and there are a wide range of accomodation types available for all budgets, including luxury hotels, capsule hotels, backpackers’ guesthouses and shared hostels. The National Library Building is in the highly central Bugis area with many accommodation choices within walking distance.
 
@@ -16,66 +16,126 @@ Singapore is a popular tourist destination and there are a wide range of accomod
 
 The following hotels are offering conference rates for delegates. Please contact them directly to enjoy these rates and be mindful that there are limited rooms available.
 
-<table width="0">
+**RedDoorz**
+<table>
 <tbody>
 <tr>
-<td width="37">
-<p>1.</p>
+<td width="201">
+<p><strong>Hotel Name </strong></p>
 </td>
-<td width="127">
-<p><strong>RedDoorz Plus Victoria Hotel (aka RedDoorz Plus @ Victoria)</strong></p>
-<p>87 Victoria Street, Singapore 188016</p>
-<p>&nbsp;</p>
+<td width="139">
+<p><strong>Room Type </strong></p>
 </td>
-<td width="110">
-<p>Twin or Double at $95.00</p>
-<p>&nbsp;</p>
-<p>King at $110.00</p>
-<p>&nbsp;</p>
-<p>Rate Validity: 21&ndash;26 Jun 2020</p>
-</td>
-<td width="151">
-<p>3-star hotel</p>
-<p>Breakfast not included</p>
-<p>Complimentary Wi-Fi</p>
-<p>&nbsp;</p>
-<p>3-min walk to National Library Building</p>
-</td>
-<td width="247">
-<p><strong><u><a href="https://www.reddoorz.com/en-sg/hotel/singapore/singapore/bugis/bras-basah/reddoorz-plus-victoria-street">Website</a></u></strong></p>
-<p><strong><u>&nbsp;</u></strong></p>
-<p>To book, contact <a href="mailto:jani.mohamad@reddoorz.com">jani.mohamad@reddoorz.com</a> and quote IOHA Conference</p>
+<td width="120">
+<p><strong>Rate per night </strong></p>
 </td>
 </tr>
 <tr>
-<td width="37">
-<p>2.</p>
+<td width="201">
+<p><strong>RedDoorz Plus @ Victoria<br /> </strong>87 Victoria Street, Singapore 188016</p>
 </td>
-<td width="127">
-<p><strong>Hotel Grand Pacific Singapore</strong></p>
-<p>101 Victoria Street, Singapore 188018</p>
-<p>T: +65 6334 0630</p>
+<td width="139">
+<p>Twin or Double</p>
+<p>King Room</p>
 </td>
-<td width="110">
-<p>Premier Room at $160+</p>
-<p>(valid 20&ndash;25 Jun) / $190+ (valid 25&ndash;26 Jun)</p>
+<td width="120">
+<p>$95.00</p>
+<p>$110.00</p>
 </td>
-<td width="151">
-<p>4-star hotel</p>
-<p>Breakfast included</p>
-<p>Complimentary Wi-Fi</p>
-<p>&nbsp;</p>
-<p>4-min walk to National Library Building</p>
-<p>&nbsp;</p>
+</tr>
+<tr>
+<td width="201">
+<p><strong>RedDoorz Premium @ Serangoon<br /> </strong>3 Veerasamy Road, Singapore 207309</p>
 </td>
-<td width="247">
-<p><strong><u><a href="http://www.hotelgrandpacific.com.sg/">Website</a></u></strong></p>
-<p><strong><u>&nbsp;</u></strong></p>
-<p>To book, contact <a href="mailto:adrian.goh@hotelgrandpacific.com.sg">adrian.goh@hotelgrandpacific.com.sg</a> &nbsp;and quote IOHA Conference</p>
+<td width="139">
+<p>Twin or Double</p>
+<p>Triple or Family</p>
+</td>
+<td width="120">
+<p>$95.00</p>
+<p>$150.00</p>
+</td>
+</tr>
+<tr>
+<td width="201">
+<p><strong>RedDoorz Premium @ Balestier <br /> </strong>387 Balestier Road, Singapore 329795</p>
+</td>
+<td width="139">
+<p>Single</p>
+<p>Twin or Double</p>
+</td>
+<td width="120">
+<p>$70.00</p>
+<p>$90.00</p>
+</td>
+</tr>
+<tr>
+<td width="201">
+<p><strong>RedDoorz @ Aljunied<br /> </strong>34 Lorong 22 Geylang, Singapore 398691</p>
+</td>
+<td width="139">
+<p>Twin &amp; Double</p>
+<p>Triple</p>
+</td>
+<td width="120">
+<p>$70.00</p>
+<p>$90.00</p>
 </td>
 </tr>
 </tbody>
 </table>
+*Rates quoted are not inclusive of breakfast.*
+
+The nearest RedDoorz hotel is RedDoorz Plus @ Victoria, which is 3-min walk from the National Library Building.
+
+Bookings are to be sent to **vina.ps@reddoorz.com** or **jani.mohamad@reddoorz.com** with the booking quote **IOHA2020** to enjoy the agreed rates. 
+
+All reservations are subject to the hotel’s acceptance, which will be confirmed by fax or email. 
+
+ 
+
+**Hotel Grand Pacific** 
+
+101 Victoria Street, Singapore 188018 (4-min walk to National Library Building)
+
+<table>
+<tbody>
+<tr>
+<td width="122">
+<p><strong>DATE</strong></p>
+</td>
+<td width="125">
+<p><strong>ROOM TYPE</strong></p>
+</td>
+<td width="223">
+<p><strong>ROOM RATE </strong></p>
+<p><strong>(PER ROOM PER NIGHT)</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" width="122">
+<p>&nbsp;20 to 26 June</p>
+</td>
+<td rowspan="2" width="125">
+<p>Premier Room</p>
+</td>
+<td width="223">
+<p>21/22/23/24 June 2020</p>
+<p>$160.00++</p>
+<p>(Inclusive of daily 01 buffet breakfast &amp; 24-hr internet access)</p>
+</td>
+</tr>
+<tr>
+<td width="223">
+<p>25 June 2020</p>
+<p>$190.00++</p>
+<p>(Inclusive of daily 01 buffet breakfast &amp; 24-hr internet access peak period surcharge)</p>
+</td>
+</tr>
+</tbody>
+</table>
+Bookings are to be sent to **<reservations@hotelgrandpacific.com.sg>**
+with the booking quote **IOHA Conference** to enjoy the agreed rates.
 
 
 
