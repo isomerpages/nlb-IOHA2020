@@ -134,7 +134,7 @@ All reservations are subject to the hotel’s acceptance, which will be confirme
 </tr>
 </tbody>
 </table>
-Bookings are to be sent to **<reservations@hotelgrandpacific.com.sg>**
+Bookings are to be made [here](http://bookings.ihotelier.com/bookings.jsp?groupID=2779226&hotelID=10798) or sent to [**reservations@hotelgrandpacific.com.sg**](mailto:reservations@hotelgrandpacific.com.sg)
 with the booking quote **IOHA Conference** to enjoy the agreed rates.
 
 
