@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Programme
-permalink: /programme/programme
+permalink: /programme/programme/
 breadcrumb: Programme
 collection_name: programme
 ---
