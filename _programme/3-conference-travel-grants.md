@@ -5,15 +5,16 @@ permalink: /programme/conference-travel-grants
 breadcrumb: Conference Travel Grants
 collection_name: programme
 ---
-**20 Feb 2020 update: 
-The evaluation committee has made its decision and notifications have been sent to all applicants. Thank you to all applicants for your submissions and to the successful applicants, congratulations and see you in Singapore!**
+**Updated: 20 Feb 2020**
+
+**The evaluation committee has made its decision and notifications have been sent to all applicants. Thank you to all applicants for your submissions and to the successful applicants, congratulations and see you in Singapore!**
+
+
 
 
 **IOHA 2020 SINGAPORE**
 
 **CONFERENCE TRAVEL GRANTS**
-
- 
 
 The IOHA offers a limited number of travel grants to attend the biennial conference. The grant can be used to cover some travel costs, accommodation and conference fees. Applicants are strongly advised to look for additional funding as the IOHA grants are meant to supplement funding from other sources.
 
