@@ -93,7 +93,7 @@ Bookings are to be sent to **vina.ps@reddoorz.com** or **jani.mohamad@reddoorz.c
 All reservations are subject to the hotel’s acceptance, which will be confirmed by fax or email. 
 
  
- 
+
 
 **Hotel Grand Pacific** 
 
