@@ -6,7 +6,7 @@ breadcrumb: Registration
 ---
 # Registration
 
-We will be opening early bird registration in February 2020.
+Registration is now open at https://www.nlb.gov.sg/golibrary2/e/ioha2020
 
 Please note the registration fees below.
 

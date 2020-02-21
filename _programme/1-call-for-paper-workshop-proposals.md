@@ -5,7 +5,7 @@ permalink: /programme/call-for-paper-workshop-proposals
 breadcrumb: Call for Papers & Workshop Proposals
 collection_name: programme
 ---
-***Submission deadline extended to 30 September!***
+***Thank you for your submissions. The call is now closed. All submissions have been reviewed and notifications sent out.***
 
 The International Oral History Association (IOHA) is pleased to announce the call for papers and workshop proposals for the next conference to be held in Singapore from 22 to 26 June 2020. The conference is organised by the National Archives of Singapore, an institution of the National Library Board, Singapore.
 
