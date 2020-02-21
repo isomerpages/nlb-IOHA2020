@@ -6,15 +6,12 @@ breadcrumb: Programme
 collection_name: programme
 ---
 
-**International Oral History Association Conference 
-Draft Programme**
+## International Oral History Association Conference 
+## Draft Programme
 
 Update: 20 Feb 2020
 
- 
-
 Theme: Harmony and Disharmony: Bringing Together Many Voices
-
 Location: National Library Building, Singapore
 
 <table>
