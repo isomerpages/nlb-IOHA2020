@@ -27,6 +27,11 @@
     url: /programme/conference-travel-grants/
   - title: IOHA Awards
     url: /programme/ioha-award/
+- title: Pre-conference Workshops
+  url: /workshop/schedule/
+  sub-links:
+  - title: Workshop Schedule
+    url: /workshop/schedule/
 - title: Welcome to Singapore
   url: /welcome/accomodation/
   sub-links:
