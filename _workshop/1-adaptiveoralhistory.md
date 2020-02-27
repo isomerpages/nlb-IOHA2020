@@ -47,7 +47,7 @@ collection_name: workshop
 </tr>
 <tr>
 <td width="471">
-<img src="/images/patricialee.png" alt="Patricia Lee" style="height:300px;" /> 
+<img src="/images/patricialee.png" alt="Patricia Lee" style="width:215px;" /> 
 <p><strong>About the Trainer</strong></p>
 <p><strong>&nbsp;</strong></p>
 <p><strong>Patricia Lee</strong> is a Senior Oral History Specialist with the National Archives of Singapore. She has conducted interviews with more than 200 people from all walks of life. She also designs and conducts customised oral history training workshops for public institutions on documenting corporate memories.</p>
