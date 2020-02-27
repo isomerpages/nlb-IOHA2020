@@ -44,17 +44,17 @@ collection_name: workshop
 <p><strong>Synopsis of Workshop</strong></p>
 <p>Oral history applies to the field of history as well as to areas such as education, health, welfare, anthropology, sociology and psychology. Oral history balances out the written history and crucially contributes to memory itself. Increasingly, there is a need to capture the valuable stories of women, minority groups and people whose life histories have been overlooked. The members of the larger community can design a structure that supports developing, preserving, protecting and maintaining access to oral history collections of these stories for many generations to come.</p>
 <p>This half-day workshop seeks to:</p>
-<p>i.&nbsp; advocate the importance of practicing oral history techniques to enrich community oral history;</p>
-<p>ii.&nbsp; provide guidelines to develop and manage community oral history collections; and</p>
-<p>iii.&nbsp; enable the members of the larger community to identify and prioritise oral history programmes.</p>
+<p>i.&nbsp;&nbsp;advocate the importance of practicing oral history techniques to enrich community oral history;</p>
+<p>ii.&nbsp;&nbsp;provide guidelines to develop and manage community oral history collections; and</p>
+<p>iii.&nbsp;&nbsp;enable the members of the larger community to identify and prioritise oral history programmes.</p>
 <p>The workshop will introduce participants to seven aspects in the development and management of oral history collections by oral history practitioners, including:</p>
-<p>i.&nbsp; Co-creation
-<br>ii.&nbsp; Subject identification
-<br>iii.&nbsp; Interviewees
-<br>iv.&nbsp; Evidence
-<br>v.&nbsp;Encoding systems
-<br>vi.&nbsp;Legal and ethical issues
-<br>vii.&nbsp;Engagement</p>
+<p>i.&nbsp;&nbsp;Co-creation
+<br>ii.&nbsp;&nbsp;Subject identification
+<br>iii.&nbsp;&nbsp;Interviewees
+<br>iv.&nbsp;&nbsp;Evidence
+<br>v.&nbsp;&nbsp;Encoding systems
+<br>vi.&nbsp;&nbsp;Legal and ethical issues
+<br>vii.&nbsp;&nbsp;Engagement</p>
 </td>
 </tr>
 <tr>
