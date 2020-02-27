@@ -27,6 +27,7 @@ collection_name: workshop
 <br>National Library Building
 <br>100 Victoria Street
 <br>Singapore 188064</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
