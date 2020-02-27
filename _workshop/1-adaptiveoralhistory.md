@@ -1,11 +1,10 @@
 ---
 layout: leftnav-page-content
 title: "Tell Me Your Story!" Use of Adaptive Oral History in Reminiscence Work amongst the Elderly
-permalink: /workshop/adaptiveoralhistory
+permalink: /workshop/adaptiveoralhistory/
 breadcrumb: "Tell Me Your Story!" Use of Adaptive Oral History in Reminiscence Work amongst the Elderly
 collection_name: workshop
 ---
-
 
 <table>
 <tbody>
@@ -58,4 +57,5 @@ collection_name: workshop
 </tr>
 </tbody>
 </table>
+
 
