@@ -21,12 +21,12 @@ collection_name: workshop
 </tr>
 <tr>
 <td width="471">
-<p><strong>Date: </strong>22 June 2020</p>
+<p><strong>Date: </strong>22 June 2020
 <br><strong>Time: </strong>9.00am&ndash;12.30pm</br>
 <br><strong>Venue: </strong>Central Public Library &ndash; Multi-purpose Room, Basement 1</br>
 <br>National Library Building</br>
 <br>100 Victoria Street</br>
-<br>Singapore 188064</br>
+<br>Singapore 188064</br></p>
 <p>&nbsp;</p>
 </td>
 </tr>
