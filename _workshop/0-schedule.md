@@ -8,7 +8,7 @@ collection_name: workshop
 
 ## Workshop Schedule
 
-**Monday, 22 June 2020
+**Monday, 22 June 2020**
 
 <table>
 <tbody>
