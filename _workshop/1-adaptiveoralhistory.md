@@ -46,8 +46,8 @@ collection_name: workshop
 </tr>
 <tr>
 <td width="471">
-<img src="/images/patricialee.png" alt="Patricia Lee" style="width:215px;" /> 
 <p><strong>About the Trainer</strong></p>
+<img src="/images/patricialee.png" alt="Patricia Lee" style="width:215px;" /> 
 <p><strong>Patricia Lee</strong> is a Senior Oral History Specialist with the National Archives of Singapore. She has conducted interviews with more than 200 people from all walks of life. She also designs and conducts customised oral history training workshops for public institutions on documenting corporate memories.</p>
 <p>She champions the use of oral narratives to give meaning to one's identity.&nbsp;As a trained accredited Facilitator of Reminiscence Arts in Dementia Care by the European Reminiscence Network (ERN), her current research interest involves the use of adaptive oral history in reminiscence work among the growing population of elderly, especially those with dementia, in Singapore.</p>
 </td>
