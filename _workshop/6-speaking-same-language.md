@@ -21,7 +21,7 @@ collection_name: workshop
 </tr>
 <tr>
 <td width="471">
-<p><strong>Date: 22 June 2020</strong>
+<p><strong>Date: </strong>22 June 2020
 <br><strong>Time: </strong>2.00pm&ndash;5.30pm
 <br><strong>Venue:</strong> Possibility Room, Level 5
 <br>National Library Building
@@ -35,7 +35,6 @@ collection_name: workshop
 <p><strong>Target Audience</strong></p>
 <p>Anyone responsible for creating, preserving or making oral histories accessible to researchers</p>
 <p>Anyone involved in metadata and/or who wishes to better understand metadata</p>
-<p><em><u>&nbsp;</u></em></p>
 <p><em><u>Note:</u></em><em> Participants are requested to bring their personal laptops</em>. <em>Technical expertise is not required for participation in this workshop.</em></p>
 <p>&nbsp;</p>
 </td>
