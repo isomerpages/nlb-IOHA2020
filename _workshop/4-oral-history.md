@@ -33,8 +33,8 @@ collection_name: workshop
 <tr>
 <td width="471">
 <p><strong>Target Audience</strong></p>
-<p>College and university educators who teach undergraduates</p>
-<p>Educators interested in oral history and pedagogy</p>
+<p>College and university educators who teach undergraduates
+<br>Educators interested in oral history and pedagogy</p>
 <p><em>&nbsp;</em></p>
 </td>
 </tr>
