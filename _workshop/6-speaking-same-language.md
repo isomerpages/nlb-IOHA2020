@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Speaking the Same Language: How Data About Our Interviews Can Help Us at Every Stage of Our Projects and Make it Possible for Users to Discover Around the World
+title: Speaking the Same Language - How Data About Our Interviews Can Help Us at Every Stage of Our Projects and Make it Possible for Users to Discover Around the World
 permalink: /workshop/speaking-same-language/
-breadcrumb: Speaking the Same Language: How Data About Our Interviews Can Help Us at Every Stage of Our Projects and Make it Possible for Users to Discover Around the World
+breadcrumb: Speaking the Same Language - How Data About Our Interviews Can Help Us at Every Stage of Our Projects and Make it Possible for Users to Discover Around the World
 collection_name: workshop
 ---
 <table>
