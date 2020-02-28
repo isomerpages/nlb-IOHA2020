@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: PUSH PLAY - A Workshop on Imagination and the Interview
+title: A Workshop on Imagination and the Interview
 permalink: /workshop/imagination/
-breadcrumb: PUSH PLAY - A Workshop on Imagination and the Interview
+breadcrumb: A Workshop on Imagination and the Interview
 collection_name: workshop
 ---
 <table>
@@ -62,3 +62,4 @@ The exercises will also enable the workshop participants to fully grasp what it 
 </tr>
 </tbody>
 </table>
+
