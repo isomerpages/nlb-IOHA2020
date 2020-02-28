@@ -54,10 +54,10 @@ collection_name: workshop
 <tr>
 <td width="471">
 <p><strong>About the Trainers</strong></p>
-<p>&nbsp;</p>
+<img src="/images/kristin.jpg" alt="Kristin Bolgård" style="width:384px;" />
 <p><strong>Kristin Bolg&aring;rd</strong> works in Arts Council Norway. Her work on digital stories has focused on the dissemination of heritage and history. She has held many workshops and has been responsible for a website that contains thousands of stories from volunteers and cultural institutions. She has also made her own digital story.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<img src="/images/beate.jpg" alt="Beate Heide" style="width:423px;" />
 <p><strong>Beate Heide</strong> has been working with digital stories since 2010, and has made more than 200 stories. The topics of her stories offer different points of views, historical insights, memories and reflections. She has held workshops in digital storytelling and making digital stories is a much-loved hobby. She is also an oral &ldquo;live&rdquo; storyteller.</p>
 </td>
 </tr>
