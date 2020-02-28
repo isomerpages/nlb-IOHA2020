@@ -26,7 +26,7 @@ collection_name: workshop
 <p><strong>Venue:</strong> Possibility Room, Level 5
 <br>National Library Building
 <br>100 Victoria Street
-<br>Singapore 188064</p>
+<br>Singapore 188064
 <p><strong>&nbsp;</strong></p>
 </td>
 </tr>
