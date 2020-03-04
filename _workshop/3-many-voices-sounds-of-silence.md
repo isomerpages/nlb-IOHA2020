@@ -42,7 +42,7 @@ collection_name: workshop
 <td width="471">
 <p><strong>Synopsis of Workshop</strong></p>
 <p>To consider the building blocks of legal release forms and other agreements used in relation to oral history.&nbsp;This will be grounded on the sharing from participants who will be encouraged to tell their stories of real life problems faced. The workshop will discuss the use of practical legal provisions that can help to resolve the issues raised with a focus on what will allow for greater use and access to oral history.</p>
-<p>&nbsp;</p>
+<p><strong><a href="https://www.nlb.gov.sg/golibrary2/e/ioha2020workshop3">Register now!</a></strong></p>
 </td>
 </tr>
 <tr>

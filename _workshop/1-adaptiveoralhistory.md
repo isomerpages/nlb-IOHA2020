@@ -41,7 +41,8 @@ collection_name: workshop
 <td width="471">
 <p><strong>Synopsis of Workshop</strong></p>
 <p>This hands-on workshop provides a theoretical and practical framework for the value and use of adaptive oral history in reminiscence work to improve the well-being of the elderly, including persons living with dementia. Participants will learn the skills of connecting and communicating with the elderly, through interviewing and recording their life stories. Participants will also learn the skills of constructing and asking appropriate questions, with the aid of the elderly&rsquo;s personal belongings such as photographs, documents and objects. At the end of this workshop, participants will appreciate the value of reviewing the oral narratives together with the elderly, helping them restructure their negative life events while affirming their positive experiences, leading to the discovery of self-worth towards the end stage of their lives.</p>
-<p>&nbsp;</p>
+<p></p>
+<p><strong><a href="https://www.nlb.gov.sg/golibrary2/e/ioha2020workshop1">Register now!</a></strong></p>
 </td>
 </tr>
 <tr>

@@ -49,6 +49,7 @@ collection_name: workshop
 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; scriptwriting, the revision process, storyboarding and the production process</p>
 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; using images, narration, music and motion to tell a story</p>
 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to explore an idea with technology</p>
+<p><strong><a href="https://www.nlb.gov.sg/golibrary2/e/ioha2020workshop7">Register now!</a></strong></p>
 </td>
 </tr>
 <tr>

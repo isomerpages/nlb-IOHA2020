@@ -55,6 +55,7 @@ collection_name: workshop
 <br>v.&nbsp;&nbsp;Encoding systems
 <br>vi.&nbsp;&nbsp;Legal and ethical issues
 <br>vii.&nbsp;&nbsp;Engagement</p>
+<p><strong><a href="https://www.nlb.gov.sg/golibrary2/e/ioha2020workshop2">Register now!</a></strong></p>
 </td>
 </tr>
 <tr>
@@ -67,3 +68,4 @@ collection_name: workshop
 </tr>
 </tbody>
 </table>
+

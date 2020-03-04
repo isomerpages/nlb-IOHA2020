@@ -1,16 +1,16 @@
 ---
 layout: leftnav-page-content
-title: Accomodation
-permalink: /welcome/accomodation/
-breadcrumb: Accomodation
+title: Accommodation
+permalink: /welcome/accommodation/
+breadcrumb: Accommodation
 collection_name: welcome
 ---
 
-## Accomodation
+## Accommodation
 
 **Updated: 13 Feb 2020**
 
-Singapore is a popular tourist destination and there are a wide range of accomodation types available for all budgets, including luxury hotels, capsule hotels, backpackers’ guesthouses and shared hostels. The National Library Building is in the highly central Bugis area with many accommodation choices within walking distance.
+Singapore is a popular tourist destination and there are a wide range of accommodation types available for all budgets, including luxury hotels, capsule hotels, backpackers’ guesthouses and shared hostels. The National Library Building is in the highly central Bugis area with many accommodation choices within walking distance.
 
 **Conference Rates**
 
@@ -140,7 +140,7 @@ with the booking quote **IOHA Conference** to enjoy the agreed rates.
 
 
 
-**List of Other Accomodation Types Near the National Library Building**
+**List of Other Accommodation Types Near the National Library Building**
 
 We have listed here various other accommodation options for conference delegates. Please note that the fees are based on internet rates which may fluctuate for various reasons. Do contact the respective establishments for the latest information. For more choices, you may also wish to check online booking portals for establishments in the Bugis/Bras Basah areas.
 

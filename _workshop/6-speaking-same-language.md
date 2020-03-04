@@ -45,7 +45,7 @@ collection_name: workshop
 <p>This workshop is an opportunity for peer learning through discovering the contrasts and similarities in oral history practices across cultural contexts. It also offers participants a holistic way of thinking about metadata that moves away from technical lingo and towards a shared understanding of what is useful to know about oral histories.</p>
 <p>The two trainers from the Oral History Association&rsquo;s Metadata Task Force will paint a picture of oral history practice in the United States, by sharing results gathered from focus group sessions and online surveys conducted over the past few years. They will also debut, at the international level, a comprehensive &ldquo;What&rsquo;s Important to Know&rdquo; set of metadata elements, followed by a facilitated discussion with workshop participants. The primary aim is to assess the universal utility of these (North American) metadata elements as critical to creating, preserving and making oral histories accessible to researchers.</p>
 <p>The trainers will also demonstrate their interactive online tool &ndash; currently in development &ndash; designed to assist practitioners in metadata decision-making and how oral history metadata maps to various cataloguing standards. Lastly, participants will engage in a hands-on exercise with the online tool and begin thinking about their own metadata practices. The group work will centre on the question of improving metadata practices to make oral history collections more accessible and easier to administer in the future.</p>
-<p>&nbsp;</p>
+<p><strong><a href="https://www.nlb.gov.sg/golibrary2/e/ioha2020workshop6">Register now!</a></strong></p>
 </td>
 </tr>
 <tr>

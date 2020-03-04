@@ -43,7 +43,7 @@ collection_name: workshop
 <p><strong>Synopsis of Workshop</strong></p>
 <p>This workshop will enable college and university educators to design and implement effective oral history projects with undergraduate students. It is an interactive workshop, with the trainer facilitating small group discussions on effective practices for the students&rsquo; real world engagement in oral history.</p>
 <p>Educators interested in introducing oral history in the classroom are also welcome.</p>
-<p>&nbsp;</p>
+<p><strong><a href="https://www.nlb.gov.sg/golibrary2/e/ioha2020workshop4">Register now!</a></strong></p>
 </td>
 </tr>
 <tr>

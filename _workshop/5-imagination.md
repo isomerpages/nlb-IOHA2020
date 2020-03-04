@@ -46,7 +46,7 @@ collection_name: workshop
 <p>iii. What happens when we translate oral history to other forms?
 The exercises will also enable the workshop participants to fully grasp what it means to ask a narrator to share their &ldquo;stories.&rdquo; By observing what provokes us and where our own limits may lie, we can better understand the vulnerability in the basics of oral history i.e. to make public the private domain of memory. In keeping with the IOHA 2020 theme of &ldquo;Harmony &amp; Disharmony: Bringing Together Many Voices&rdquo;, the workshop will pay special attention to when our voices are in consonance or dissonance, as well as the moments of connection and misunderstanding.</p>
 <p>The Push Play workshop is a collaboration between Liza Zapol and Nicki Pombier Berger, and has been performed at the Oral History Association (OHA) Annual Meetings in 2016 and 2017, the Archives of American Art, Smithsonian Institution in 2018, and numerous times at Columbia University in conjunction with the Oral History Master of Arts (OHMA) programme. It is the foundation for a semester-long course that Liza Zapol and Nicki Pombier Berger teach at OHMA, called SERIOUS PLAY: Oral History and the Art of Story.</p>
-<p>&nbsp;</p>
+<p><strong><a href="https://www.nlb.gov.sg/golibrary2/e/ioha2020workshop5">Register now!</a></strong></p>
 </td>
 </tr>
 <tr>
