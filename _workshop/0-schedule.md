@@ -109,21 +109,8 @@ collection_name: workshop
 <td width="236">
 <p>Speaking the Same Language: How Data About Our Interviews Can Help Us at Every Stage of Our Projects and Make it Possible for Users to Discover Around the World</p>
 <p>Trainers: Lauren Kata &amp; Natalie Milbrodt</p>
-<p><em>&nbsp;</em></p>
-</td>
-</tr>
-<tr>
-<td width="114">
-<p>2.00pm&ndash;5.30pm</p>
-</td>
-<td width="121">
-<p>Imagination Room, Level 5</p>
-</td>
-<td width="236">
-<p>What is a Digital Story if not an Oral Story in a Digital Form?</p>
-<p>Trainers: Kristin Bolg&aring;rd &amp; Beate Heide</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
+
