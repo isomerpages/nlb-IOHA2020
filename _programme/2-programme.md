@@ -6,7 +6,6 @@ breadcrumb: Programme
 collection_name: programme
 ---
 
-
 **Updated: 20 Feb 2020**
 
 Theme: Harmony and Disharmony: Bringing Together Many Voices
@@ -265,4 +264,3 @@ Location: National Library Building, Singapore
 </tbody>
 </table>
 <p>&nbsp;</p>
-
