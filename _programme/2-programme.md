@@ -40,7 +40,6 @@ Location: National Library Building, Singapore
 <p>Pre-Conference Workshops (Afternoon Concurrent Workshops with 1 tea break):</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PUSH PLAY: A Workshop on Imagination and the Interview (Nicki Pombier Berger &amp; Liza Zapol, USA)</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaking the Same Language: How Data About Our Interviews Can Help Us at Every Stage of Our Projects and Make it Possible for Users to Discover Around the World (Lauren Kata &amp; Natalie Milbrodt, USA)</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is a Digital Story if Not an Oral Story in a Digital Form? (Kristin Bolg&aring;rd &amp; Beate Heide, Norway)</p>
 </td>
 </tr>
 <tr>
