@@ -6,7 +6,7 @@ breadcrumb: Programme
 collection_name: programme
 ---
 
-**Updated: 20 Feb 2020**
+**Updated: 26 Mar 2020**
 
 Theme: Harmony and Disharmony: Bringing Together Many Voices
 
@@ -16,7 +16,7 @@ Location: National Library Building, Singapore
 <tbody>
 <tr>
 <td colspan="2" width="471">
-<p><b>Monday, 22 June 2020 &ndash; Day 0</b></p>
+<p><b>Day 0</b></p>
 </td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ Location: National Library Building, Singapore
 </tr>
 <tr>
 <td colspan="2" width="471">
-<p><b>Tue, 23 June 2020 &ndash; Day 1</b></p>
+<p><b>Day 1</b></p>
 </td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ Location: National Library Building, Singapore
 </tr>
 <tr>
 <td colspan="2" width="471">
-<p><b>Wed, 24 June 2020 &ndash; Day 2</b></p>
+<p><b>Day 2</b></p>
 </td>
 </tr>
 <tr>
@@ -197,7 +197,7 @@ Location: National Library Building, Singapore
 </tr>
 <tr>
 <td colspan="2" width="471">
-<p><b>Thu, 25 June 2020 &ndash; Day 3</b></p>
+<p><b>Day 3</b></p>
 </td>
 </tr>
 <tr>
@@ -250,7 +250,7 @@ Location: National Library Building, Singapore
 </tr>
 <tr>
 <td colspan="2" width="471">
-<p><b>Fri, 26 June 2020 &ndash; Day 4</b></p>
+<p><b>Day 4</b></p>
 </td>
 </tr>
 <tr>
@@ -264,3 +264,5 @@ Location: National Library Building, Singapore
 </tbody>
 </table>
 <p>&nbsp;</p>
+
+Programme content and schedule may be subject to change and will be updated here once confirmed.

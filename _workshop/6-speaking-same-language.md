@@ -21,8 +21,8 @@ collection_name: workshop
 </tr>
 <tr>
 <td width="471">
-<p><strong>Date: </strong>22 June 2020
-<br><strong>Time: </strong>2.00pm&ndash;5.30pm
+<p><strong>Date: </strong>TBC
+<br><strong>Time: </strong>TBC
 <br><strong>Venue:</strong> Possibility Room, Level 5
 <br>National Library Building
 <br>100 Victoria Street

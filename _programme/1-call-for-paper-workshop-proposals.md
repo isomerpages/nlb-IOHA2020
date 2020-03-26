@@ -7,8 +7,6 @@ collection_name: programme
 ---
 ***Thank you for your submissions. The call is now closed. All submissions have been reviewed and notifications sent out.***
 
-The International Oral History Association (IOHA) is pleased to announce the call for papers and workshop proposals for the next conference to be held in Singapore from 22 to 26 June 2020. The conference is organised by the National Archives of Singapore, an institution of the National Library Board, Singapore.
-
 The theme of the XXI IOHA Conference is **Harmony and Disharmony: Bringing Together Many Voices**.
 
 ## Call for Papers
@@ -54,7 +52,7 @@ The deadline for all proposals has been extended to 30 September 2019. A notific
 
 ## Call for Workshop Proposals
 
-IOHA 2020 will be hosting a series of workshops on 22 June 2020 and is inviting workshop proposals from the international community. This will be a rare opportunity to facilitate learning and the exchange of ideas and information among international participants.
+The XXI IOHA Conference will be hosting a series of workshops and is inviting workshop proposals from the international community. This will be a rare opportunity to facilitate learning and the exchange of ideas and information among international participants.
 
 Full-day or half-day workshops may address specific methodological issues or emerging trends.
 
@@ -69,6 +67,6 @@ We invite individuals or teams interested in conducting such a workshop to submi
 
 ## Registration
 
-All paper presenters (including posters and audio-visual presentations) and workshop facilitators must also register for IOHA 2020. Registration and payment details will be available on the conference website in early 2020. Please check the website for further information.
+All paper presenters (including posters and audio-visual presentations) and workshop facilitators must also register for the XXI IOHA Conference. Registration and payment details will be available on the conference website in late 2020. Please check the website for further information.
 
 If you have any questions concerning the call for papers and workshop proposals, please email: <NLB_IOHA2020@nlb.gov.sg>

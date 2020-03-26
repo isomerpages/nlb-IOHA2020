@@ -6,9 +6,9 @@ breadcrumb: Conference Theme
 collection_name: programme
 ---
 
-![IOHA 2020 Blue Pink on White banner](/images/IOHA2020-ConferenceBanner.jpg)
+![IOHA 2021 Blue Pink on White banner](/images/banner_2021.png)
 
-The [National Archives of Singapore](https://wwww.nas.gov.sg), an institution of the [National Library Board](https://nas.gov.sg), welcomes the [International Oral History Association](https://www.ioha.org/) (IOHA) to Singapore from 22 to 26 June 2020.
+The National Archives of Singapore, an institution of the National Library Board, will host the XXI International Oral History Association (IOHA) Conference in 2021.
 
 The theme of the conference is **Harmony & Disharmony: Bringing Together Many Voices**.
 
@@ -29,5 +29,5 @@ Our panels and presentations will be structured around the following sub-themes:
 * Inter- and cross-disciplinary applications of oral history (journalism, therapy, etc.)
 * Comparative studies of oral history
 
-Conference registration is now open. Book your tickets [now](https://www.ioha2020.sg/registration/)!
+
 
