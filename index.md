@@ -5,6 +5,7 @@ permalink: /
 ---
 <!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage --> 
 
-*Please be assured we are closely monitoring the evolving situation concerning  the 2019 novel coronavirus (COVID-19). For the safety  of all visitors, the conference venue has implemented precautionary  measures such as temperature screenings and declarations of symptoms and  travel history (including details for contact tracing). There has also been the increased frequency of cleaning and  sanitisation to make the spaces safe for everyone.* 
+In accordance with the World Health Organization declaring the COVID-19 outbreak a global pandemic on 11 March 2020, and in view of the Ministry of Health, Singapore’s recommendations for social-distancing measures, the IOHA Conference Organising Team, with the support of the IOHA Council, have decided to postpone the IOHA Conference in Singapore, originally scheduled to be held on 22–26 June. We will announce revised dates once these can be confirmed. We wish good health and safety to everyone in the international oral history community and we look forward to inviting you again to Singapore under more favourable conditions.    
 
-*As safety is at our foremost concern, we seek everyone’s cooperation to be  socially responsible, practise good personal hygiene and seek medical assistance promptly if unwell. For the latest information on the COVID-19 situation, please visit the Singapore Ministry of Health website at www.moh.gov.sg.*
+*-IOHA Conference 2020 Organising Team*
+  
