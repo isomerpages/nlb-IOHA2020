@@ -22,8 +22,8 @@ collection_name: workshop
 </tr>
 <tr>
 <td width="471">
-<p><strong>Date: </strong>22 June 2020
-<br><strong>Time:</strong> 9.00am&ndash;1.30pm
+<p><strong>Date: </strong>TBC
+<br><strong>Time:</strong>TBC
 <br><strong>Venue</strong>: Visitors Briefing Room, Level 1
 <br>National Library Building
 <br>100 Victoria Street
