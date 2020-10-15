@@ -2,7 +2,7 @@ title: Hosted by National Archives of Singapore, an institution of the National 
 title-abbreviated: NAS
 description: >- # this means to ignore newlines until "baseurl:"
   Official website of the XXI International Oral History Association Conference 2020 held in Singapore, 22-26 Jun 2020
-url: "https://www.ioha2020.sg" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.ioha2021.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
