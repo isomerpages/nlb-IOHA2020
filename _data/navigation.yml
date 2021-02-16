@@ -7,8 +7,23 @@ links:
     - title: Programme
       collection: programme
     - title: 'Pre-conference Workshops'
-      collection: pre-conference-workshops
+      false_collection: true 
+      sublinks:
+      - title: Workshop Schedule
+        url: /workshop/schedule/
+      - title: Tell Me Your Story!
+        url: /workshop/adaptiveoralhistory/
+      - title: Developing Untold Community Oral History Collections
+        url: /workshop/community-oral-history/
+      - title: Many Voices v Sounds of Silence
+        url: /workshop/many-voices-sounds-of-silence/
+      - title: Oral History for College and University Educators
+        url: /workshop/oral-history/
+      - title: PUSH PLAY - A Workshop on Imagination and the Interview
+        url: /workshop/imagination/
+      - title: Speaking the Same Language
+        url: /workshop/speaking-same-language/
     - title: 'Welcome to Singapore'
-      collection: welcome-to-singapore
+      collection: welcome
     - title: 'Contact Us'
       url: /contact-us/
