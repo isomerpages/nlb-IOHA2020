@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Call for Papers & Workshop Proposals
+title: 'Call for Papers & Workshop Proposals'
 permalink: /programme/call-for-paper-workshop-proposals
-breadcrumb: Call for Papers & Workshop Proposals
-collection_name: programme
+breadcrumb: 'Call for Papers & Workshop Proposals'
+
 ---
+
 ***Thank you for your submissions. The call is now closed. All submissions have been reviewed and notifications sent out.***
 
 The theme of the XXI IOHA Conference is **Harmony and Disharmony: Bringing Together Many Voices**.
