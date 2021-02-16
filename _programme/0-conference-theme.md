@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Conference Theme
+title: 'Conference Theme'
 permalink: /programme/conference-theme
-breadcrumb: Conference Theme
-collection_name: programme
+breadcrumb: 'Conference Theme'
+
 ---
+
 
 ![IOHA 2021 Blue Pink on White banner](/images/banner_2021.png)
 
