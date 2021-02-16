@@ -1,58 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-
-- title: Who We Are
-  url: /who-we-are/about-ioha/
-  sub-links:
-  - title: About IOHA
-    url: /who-we-are/about-ioha/
-  - title: About NAS
-    url: /who-we-are/about-nas/
-- title: Registration
-  url: /registration/
-- title: Programme
-  url: /programme/conference-theme/
-  sub-links:
-  - title: Conference Theme
-    url: /programme/conference-theme/
-  - title: Call for Papers & Workshop Proposals
-    url: /programme/call-for-paper-workshop-proposals/
-  - title: Programme
-    url: /programme/programme/
-  - title: Keynotes
-    url: /programme/keynotes/
-  - title: Conference Travel Grants
-    url: /programme/conference-travel-grants/
-  - title: IOHA Awards
-    url: /programme/ioha-award/
-- title: Pre-conference Workshops
-  url: /workshop/schedule/
-  sub-links:
-  - title: Workshop Schedule
-    url: /workshop/schedule/
-  - title: Tell Me Your Story!
-    url: /workshop/adaptiveoralhistory/
-  - title: Developing Untold Community Oral History Collections
-    url: /workshop/community-oral-history/
-  - title: Many Voices v Sounds of Silence
-    url: /workshop/many-voices-sounds-of-silence/
-  - title: Oral History for College and University Educators
-    url: /workshop/oral-history/
-  - title: PUSH PLAY - A Workshop on Imagination and the Interview
-    url: /workshop/imagination/
-  - title: Speaking the Same Language
-    url: /workshop/speaking-same-language/
-- title: Welcome to Singapore
-  url: /welcome/accommodation/
-  sub-links:
-  - title: Accommodation
-    url: /welcome/accommodation/
-  - title: Attractions
-    url: /welcome/attractions
-- title: Contact Us
-  url: /contact-us/
-
+logo: /images/iohalogov2.png
+links:
+    - title: 'Who We Are'
+      collection: who-we-are
+    - title: Registration
+      url: /registration/
+    - title: Programme
+      collection: programme
+    - title: 'Pre-conference Workshops'
+      collection: pre-conference-workshops
+    - title: 'Welcome to Singapore'
+      collection: welcome-to-singapore
+    - title: 'Contact Us'
+      url: /contact-us/
