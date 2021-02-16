@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Accommodation
 permalink: /welcome/accommodation/
 breadcrumb: Accommodation
-collection_name: welcome
+
 ---
+
 
 
 
