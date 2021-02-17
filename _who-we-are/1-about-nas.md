@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: About NAS
+title: 'About NAS'
 permalink: /who-we-are/about-nas/
-breadcrumb: About NAS
-collection_name: who-we-are
+breadcrumb: 'About NAS'
+
 ---
+
 
 ## About National Archives of Singapore
 

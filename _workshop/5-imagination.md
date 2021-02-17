@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: A Workshop on Imagination and the Interview
+title: 'A Workshop on Imagination and the Interview'
 permalink: /workshop/imagination/
-breadcrumb: A Workshop on Imagination and the Interview
-collection_name: workshop
+breadcrumb: 'A Workshop on Imagination and the Interview'
+
 ---
+
 <table>
 <tbody>
 <tr>

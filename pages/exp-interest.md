@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: IOHA 2022
+title: 'IOHA 2022'
 permalink: /exp-interest/
-breadcrumb: IOHA 2022
+breadcrumb: 'IOHA 2022'
+
 ---
+
 # **XXII INTERNATIONAL ORAL HISTORY CONFERENCE 2022**
 
 ### **CALL FOR EXPRESSIONS OF INTEREST**

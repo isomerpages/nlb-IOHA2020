@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Attractions
 permalink: /welcome/attractions/
 breadcrumb: Attractions
-collection_name: welcome
+
 ---
+
 
 ## Attractions
 

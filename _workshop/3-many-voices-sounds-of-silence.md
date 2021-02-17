@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Many Voices v Sounds of Silence - How Agreements (Can) Make a Difference
+title: 'Many Voices v Sounds of Silence - How Agreements (Can) Make a Difference'
 permalink: /workshop/many-voices-sounds-of-silence
-breadcrumb: Many Voices v Sounds of Silence - How Agreements (Can) Make a Difference
-collection_name: workshop
+breadcrumb: 'Many Voices v Sounds of Silence - How Agreements (Can) Make a Difference'
+
 ---
+
 <table>
 <tbody>
 <tr>

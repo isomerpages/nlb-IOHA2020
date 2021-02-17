@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Conference Travel Grants
+title: 'Conference Travel Grants'
 permalink: /programme/conference-travel-grants
-breadcrumb: Conference Travel Grants
-collection_name: programme
+breadcrumb: 'Conference Travel Grants'
+
 ---
+
 **Updated: 20 Feb 2020**
 
 **The evaluation committee has made its decision and notifications have been sent to all applicants. Thank you to all applicants for your submissions and to the successful applicants, congratulations and see you in Singapore!**
