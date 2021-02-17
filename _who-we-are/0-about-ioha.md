@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: About IOHA
+title: 'About IOHA'
 permalink: /who-we-are/about-ioha/
-breadcrumb: About IOHA
-collection_name: who-we-are
+breadcrumb: 'About IOHA'
+
 ---
+
 
 ## About International Oral History Association (IOHA)
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Keynote Speakers
+title: 'Keynote Speakers'
 permalink: /programme/keynotes/
-breadcrumb: Keynote Speakers
-collection_name: programme
+breadcrumb: 'Keynote Speakers'
+
 ---
+
 
 ## Keynote Speakers
 

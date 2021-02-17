@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Speaking the Same Language
+title: 'Speaking the Same Language'
 permalink: /workshop/speaking-same-language/
-breadcrumb: Speaking the Same Language
-collection_name: workshop
+breadcrumb: 'Speaking the Same Language'
+
 ---
+
 <table>
 <tbody>
 <tr>

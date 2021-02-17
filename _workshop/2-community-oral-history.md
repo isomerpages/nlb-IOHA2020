@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Developing Untold Community Oral History Collections (Community Oral History Collections Development Protocol)
+title: 'Developing Untold Community Oral History Collections (Community Oral History Collections Development Protocol)'
 permalink: /workshop/community-oral-history
-breadcrumb: Developing Untold Community Oral History Collections (Community Oral History Collections Development Protocol)
-collection_name: workshop
+breadcrumb: 'Developing Untold Community Oral History Collections (Community Oral History Collections Development Protocol)'
+
 ---
+
 
 <table>
 <tbody>

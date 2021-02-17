@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Oral History for College and University Educators
+title: 'Oral History for College and University Educators'
 permalink: /workshop/oral-history/
-breadcrumb: Oral History for College and University Educators
-collection_name: workshop
+breadcrumb: 'Oral History for College and University Educators'
+
 ---
+
 <table>
 <tbody>
 <tr>

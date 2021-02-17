@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Workshop Schedule
+title: 'Workshop Schedule'
 permalink: /workshop/schedule
-breadcrumb: Workshop Schedule
-collection_name: workshop
+breadcrumb: 'Workshop Schedule'
+
 ---
+
 
 ## Workshop Schedule
 
