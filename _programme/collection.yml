@@ -1,0 +1,10 @@
+collections:
+  programme:
+    output: true
+    order:
+      - conference-theme.md
+      - call-for-papers-workshop-proposals.md
+      - programme.md
+      - keynote-speakers.md
+      - conference-travel-grants.md
+      - ioha-awards.md
