@@ -10,5 +10,6 @@ sections:
         - title: Conference Theme
           description: Find out more about our themes
           url: /programme/conference-theme/
+      subtitle: 23—27 August 2021
 notification: ""
 ---
