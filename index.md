@@ -4,7 +4,7 @@ title: IOHA 2021
 permalink: /
 sections:
   - hero:
-      title: International Oral History Association Conference Singapore
+      title: International Oral History Association Virtual Conference
       background: images/hero_2_bkgd.jpg
       key_highlights:
         - title: Conference Theme
