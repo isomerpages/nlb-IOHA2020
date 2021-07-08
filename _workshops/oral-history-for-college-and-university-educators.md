@@ -1,10 +1,8 @@
 ---
-title: 'Oral History for College and University Educators'
+title: Oral History for College and University Educators
 permalink: /workshop/oral-history/
-breadcrumb: 'Oral History for College and University Educators'
-
+breadcrumb: Oral History for College and University Educators
 ---
-
 <table>
 <tbody>
 <tr>
@@ -21,13 +19,9 @@ breadcrumb: 'Oral History for College and University Educators'
 </tr>
 <tr>
 <td width="471">
-<p><strong>Date: </strong>TBC
-<br><strong>Time: </strong>TBC
-<br><strong>Venue:</strong> Imagination Room, Level 5
-<br>National Library Building
-<br>100 Victoria Street
-<br>Singapore 188064</p>
-<p><strong>&nbsp;</strong></p>
+<p><strong>Date: </strong>23 August
+<br><strong>Time: </strong>5-7pm
+
 </td>
 </tr>
 <tr>
