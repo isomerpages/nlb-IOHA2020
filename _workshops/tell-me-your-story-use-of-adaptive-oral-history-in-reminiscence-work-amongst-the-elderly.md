@@ -1,11 +1,10 @@
 ---
-title: 'Tell Me Your Story! Use of Adaptive Oral History in Reminiscence Work amongst the Elderly'
+title: Tell Me Your Story! Use of Adaptive Oral History in Reminiscence Work
+  amongst the Elderly
 permalink: /workshop/adaptiveoralhistory
-breadcrumb: 'Tell Me Your Story! Use of Adaptive Oral History in Reminiscence Work amongst the Elderly'
-
+breadcrumb: Tell Me Your Story! Use of Adaptive Oral History in Reminiscence
+  Work amongst the Elderly
 ---
-
-
 <table>
 <tbody>
 <tr>
@@ -21,13 +20,9 @@ breadcrumb: 'Tell Me Your Story! Use of Adaptive Oral History in Reminiscence Wo
 </tr>
 <tr>
 <td width="471">
-<p><strong>Date: </strong>TBC
-<br><strong>Time: </strong>TBC
-<br><strong>Venue: </strong>Central Public Library &ndash; Multi-purpose Room, Basement 1
-<br>National Library Building
-<br>100 Victoria Street
-<br>Singapore 188064</p>
-<p>&nbsp;</p>
+<p><strong>Date: </strong>23 August
+<br><strong>Time: </strong>5-7pm
+
 </td>
 </tr>
 <tr>
@@ -55,5 +50,3 @@ breadcrumb: 'Tell Me Your Story! Use of Adaptive Oral History in Reminiscence Wo
 </tr>
 </tbody>
 </table>
-
-
