@@ -1,10 +1,8 @@
 ---
-title: 'Speaking the Same Language'
+title: Speaking the Same Language
 permalink: /workshop/speaking-same-language/
-breadcrumb: 'Speaking the Same Language'
-
+breadcrumb: Speaking the Same Language
 ---
-
 <table>
 <tbody>
 <tr>
@@ -16,18 +14,14 @@ breadcrumb: 'Speaking the Same Language'
 <td width="471">
 <p><strong>Maximum number of participants: 50&ndash;100 </strong></p>
 <p><strong>Registration Fee: </strong>SGD 27.00 per participant (SGD 28.90 inclusive of 7% GST)</p>
-<p>&nbsp;</p>
+
 </td>
 </tr>
 <tr>
 <td width="471">
-<p><strong>Date: </strong>TBC
-<br><strong>Time: </strong>TBC
-<br><strong>Venue:</strong> Possibility Room, Level 5
-<br>National Library Building
-<br>100 Victoria Street
-<br>Singapore 188064</p>
-<p><strong>&nbsp;</strong></p>
+<p><strong>Date: </strong>23 August
+<br><strong>Time: </strong>9-11am
+
 </td>
 </tr>
 <tr>
@@ -63,8 +57,3 @@ breadcrumb: 'Speaking the Same Language'
 </tr>
 </tbody>
 </table>
-
-
-
-
-
