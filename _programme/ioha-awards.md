@@ -1,10 +1,8 @@
 ---
-title: 'IOHA Awards'
+title: IOHA Awards
 permalink: /programme/ioha-award/
-breadcrumb: 'IOHA Awards'
-
+breadcrumb: IOHA Awards
 ---
-
 # **Inaugural International Oral History Association Awards**
 
 Oral historians (anyone engaging with oral history) are encouraged to apply for these biennial awards presented by the International Oral History Association (IOHA). The awards are open to oral historians working in any field, across community, academia, media or professions. The award winners will have been responsible for oral history productions that are innovative, excellent and inspirational. Two awards are available:
@@ -34,3 +32,5 @@ The two award winners will each receive a scholarship to attend the 2020 confere
 6. If the production has a material presence (e.g. book, audio or video recording, or some other format that can be provided to the judges), then one copy must be posted to each of the judges at the following addresses:
 
 **Sue.Anderson@unisa.edu.au****; Outi.Fingerroos@jyu.fi; TianMiao80@163.com; Mark_Wong@nlb.gov.sg**
+
+Award recipients will be announced during the conference. 
