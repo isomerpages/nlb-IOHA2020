@@ -1,10 +1,8 @@
 ---
-title: 'Many Voices v Sounds of Silence - How Agreements (Can) Make a Difference'
+title: Many Voices v Sounds of Silence - How Agreements (Can) Make a Difference
 permalink: /workshop/many-voices-sounds-of-silence
-breadcrumb: 'Many Voices v Sounds of Silence - How Agreements (Can) Make a Difference'
-
+breadcrumb: Many Voices v Sounds of Silence - How Agreements (Can) Make a Difference
 ---
-
 <table>
 <tbody>
 <tr>
@@ -21,13 +19,9 @@ breadcrumb: 'Many Voices v Sounds of Silence - How Agreements (Can) Make a Diffe
 </tr>
 <tr>
 <td width="471">
-<p><strong>Date: </strong>TBC
-<br><strong>Time: </strong>TBC
-<br><strong>Venue:</strong> Possibility Room, Level 5
-<br>National Library Building
-<br>100 Victoria Street
-<br>Singapore 188064</p>
-<p>&nbsp;</p>
+<p><strong>Date: </strong>23 August
+<br><strong>Time: </strong>9-11am
+
 </td>
 </tr>
 <tr>
