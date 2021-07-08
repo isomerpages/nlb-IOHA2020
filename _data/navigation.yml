@@ -1,14 +1,14 @@
 logo: /images/iohalogov2.png
 links:
-    - title: 'Who We Are'
-      collection: who-we-are
-    - title: Registration
-      url: /registration/
-    - title: Programme
-      collection: programme
-    - title: 'Pre-conference Workshops'
-      false_collection: true 
-      sublinks:
+  - title: Who We Are
+    collection: who-we-are
+  - title: Registration
+    url: /registration/
+  - title: Programme
+    collection: programme
+  - title: Pre-conference Workshops
+    false_collection: true
+    sublinks:
       - title: Workshop Schedule
         url: /workshop/schedule/
       - title: Tell Me Your Story!
@@ -23,7 +23,7 @@ links:
         url: /workshop/imagination/
       - title: Speaking the Same Language
         url: /workshop/speaking-same-language/
-    - title: 'Welcome to Singapore'
-      collection: welcome
-    - title: 'Contact Us'
-      url: /contact-us/
+  - title: Welcome to Singapore
+    collection: welcome
+  - title: Contact Us
+    url: /contact-us/
