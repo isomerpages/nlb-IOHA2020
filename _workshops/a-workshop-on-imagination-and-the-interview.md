@@ -1,10 +1,8 @@
 ---
-title: 'A Workshop on Imagination and the Interview'
+title: A Workshop on Imagination and the Interview
 permalink: /workshop/imagination/
-breadcrumb: 'A Workshop on Imagination and the Interview'
-
+breadcrumb: A Workshop on Imagination and the Interview
 ---
-
 <table>
 <tbody>
 <tr>
@@ -16,25 +14,21 @@ breadcrumb: 'A Workshop on Imagination and the Interview'
 <td width="471">
 <p><strong>Maximum number of participants: </strong>50</p>
 <p><strong>Registration Fee: </strong>SGD 27.00 per participant (SGD 28.90 inclusive of 7% GST)</p>
-<p>&nbsp;</p>
+
 </td>
 </tr>
 <tr>
 <td width="471">
-<p><strong>Date: </strong>TBC
-<br><strong>Time: </strong>TBC
-<br><strong>Venue: </strong>Central Public Library &ndash; Multi-purpose Room, Basement 1
-<br>National Library Building
-<br>100 Victoria Street
-<br>Singapore 188064</p>
-<p>&nbsp;</p>
+<p><strong>Date: </strong>23 August
+<br><strong>Time: </strong>9-11am
+
 </td>
 </tr>
 <tr>
 <td width="471">
 <p><strong>Target Audience</strong></p>
 <p>Open to all interested participants</p>
-<p>&nbsp;</p>
+
 </td>
 </tr>
 <tr>
@@ -62,4 +56,3 @@ The exercises will also enable the workshop participants to fully grasp what it 
 </tr>
 </tbody>
 </table>
-
