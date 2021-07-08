@@ -6,7 +6,7 @@ links:
     url: /registration/
   - title: Programme
     collection: programme
-  - title: Pre-conference Workshops
+  - title: Workshops
     false_collection: true
     sublinks:
       - title: Workshop Schedule
