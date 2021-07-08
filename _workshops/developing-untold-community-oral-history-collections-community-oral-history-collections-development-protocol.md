@@ -57,7 +57,7 @@ breadcrumb: Developing Untold Community Oral History Collections (Community Oral
 <td width="471">
 <p><strong>About the Trainer</strong></p>
 <img src="/images/hanisdiyana.jpg" alt="Hanis Diyana Kamarudin" style="width:215px;" />
-<p><strong>Hanis Diyana Kamarudin</strong> teaches oral history as part of the Records Management Programme at the Universiti Teknologi MARA, Malaysia. She served as Deputy Secretary of the Malaysian Oral History Association from 2013 to 2015. She is delighted to be part of an association that brings together academia, researchers and industry partners to record, share and archive oral history. She obtained her PhD from Monash University, Melbourne, Australia.</p>
+<p><strong>Dr Hanis Diyana Kamarudin</strong> teaches oral history as part of a Records Management Programme at the Faculty of Information Management, Universiti Teknologi MARA, Malaysia. She obtained her PhD from Monash University, Melbourne, Australia. She served as Deputy Secretary of the Malaysian Oral History Association from 2013 until 2015 and was elected as an Executive Committee in 2020. She is delighted to be part of the Malaysian Oral History Association, bringing academic researchers and industry partners together to record, share, and archive oral history.</p>
 <p>&nbsp;</p>
 </td>
 </tr>
