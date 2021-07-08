@@ -1,11 +1,10 @@
 ---
-title: 'Developing Untold Community Oral History Collections (Community Oral History Collections Development Protocol)'
+title: Developing Untold Community Oral History Collections (Community Oral
+  History Collections Development Protocol)
 permalink: /workshop/community-oral-history
-breadcrumb: 'Developing Untold Community Oral History Collections (Community Oral History Collections Development Protocol)'
-
+breadcrumb: Developing Untold Community Oral History Collections (Community Oral
+  History Collections Development Protocol)
 ---
-
-
 <table>
 <tbody>
 <tr>
@@ -17,18 +16,14 @@ breadcrumb: 'Developing Untold Community Oral History Collections (Community Ora
 <td width="471">
 <p><strong>Maximum number of participants: </strong>20</p>
 <p><strong>Registration Fee: </strong>SGD 27.00 per participant (SGD 28.90 inclusive of 7% GST)</p>
-<p>&nbsp;</p>
+
 </td>
 </tr>
 <tr>
 <td width="471">
-<p><strong>Date: </strong>TBC
-<br><strong>Time:</strong>TBC
-<br><strong>Venue</strong>: Visitors Briefing Room, Level 1
-<br>National Library Building
-<br>100 Victoria Street
-<br>Singapore 188064</p>
-<p>&nbsp;</p>
+<p><strong>Date: </strong>23 August
+<br><strong>Time:</strong> 5-7pm
+
 </td>
 </tr>
 <tr>
@@ -68,4 +63,3 @@ breadcrumb: 'Developing Untold Community Oral History Collections (Community Ora
 </tr>
 </tbody>
 </table>
-
