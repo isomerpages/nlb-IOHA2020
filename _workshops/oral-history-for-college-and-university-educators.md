@@ -35,8 +35,23 @@ breadcrumb: Oral History for College and University Educators
 <tr>
 <td width="471">
 <p><strong>Synopsis of Workshop</strong></p>
-<p>This workshop will enable college and university educators to design and implement effective oral history projects with undergraduate students. It is an interactive workshop, with the trainer facilitating small group discussions on effective practices for the students&rsquo; real world engagement in oral history.</p>
-<p>Educators interested in introducing oral history in the classroom are also welcome.</p>
+<p>This workshop will enable college/university educators to design and implement effective oral history projects with undergraduate students. The presenter will be facilitating conversations and small groups, leading with content surrounding effective practices for real world undergraduate engagement in oral history during the two-hour interactive workshop.
+ 
+The workshop will be in six stages, as follows:
+<p>
+1-Introduction: workshop participants will introduce each other to the group and develop basic goal statements about what they hope to accomplish in the coming year as educators, @15 min.
+<p>
+2- Preparing for the Interview:  workshop participants will learn about and discuss strategies for their students to engage narrators before interviews.  These strategies are geared towards enabling undergraduates to have successful interactions with narrators to maximize chances for good interviews.  @15 min.
+<p>
+3-Conducting the Interview: participants will engage in a workshop experience on strategies to enable students to successfully conduct oral history interviews. 30. min.   
+(10 min. break)
+<p>
+4-Interpreting Oral History: participants will receive instruction and discuss methods of interpreting interviews conducted for class projects and from existing collections accessible online. @15 min.
+<p>
+5-Student Reflections: participants will learn about the importance of student reflections on the oral history process.  What did they learn and how was the experience meaningful for them? @15 min.
+<p>
+6-Student Projects: in this phase, participants will share ideas related to effective oral history projects for implementation with their students. @30 min.
+</p>
 <p><strong><a href="https://www.nlb.gov.sg/golibrary2/e/ioha2020workshop4">Register now!</a></strong></p>
 </td>
 </tr>
