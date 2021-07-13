@@ -2,5 +2,4 @@ collections:
   welcome:
     output: true
     order:
-      - accommodation.md
       - attractions.md

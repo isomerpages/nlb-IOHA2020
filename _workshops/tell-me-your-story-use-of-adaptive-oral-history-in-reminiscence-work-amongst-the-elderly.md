@@ -1,11 +1,10 @@
 ---
-title: 'Tell Me Your Story! Use of Adaptive Oral History in Reminiscence Work amongst the Elderly'
+title: Tell Me Your Story! Use of Adaptive Oral History in Reminiscence Work
+  amongst the Elderly
 permalink: /workshop/adaptiveoralhistory
-breadcrumb: 'Tell Me Your Story! Use of Adaptive Oral History in Reminiscence Work amongst the Elderly'
-
+breadcrumb: Tell Me Your Story! Use of Adaptive Oral History in Reminiscence
+  Work amongst the Elderly
 ---
-
-
 <table>
 <tbody>
 <tr>
@@ -21,13 +20,9 @@ breadcrumb: 'Tell Me Your Story! Use of Adaptive Oral History in Reminiscence Wo
 </tr>
 <tr>
 <td width="471">
-<p><strong>Date: </strong>TBC
-<br><strong>Time: </strong>TBC
-<br><strong>Venue: </strong>Central Public Library &ndash; Multi-purpose Room, Basement 1
-<br>National Library Building
-<br>100 Victoria Street
-<br>Singapore 188064</p>
-<p>&nbsp;</p>
+<p><strong>Date: </strong>23 August
+<br><strong>Time: </strong>5-7pm
+
 </td>
 </tr>
 <tr>
@@ -50,10 +45,17 @@ breadcrumb: 'Tell Me Your Story! Use of Adaptive Oral History in Reminiscence Wo
 <p><strong>About the Trainer</strong></p>
 <img src="/images/patricialee.png" alt="Patricia Lee" style="width:215px;" /> 
 <p><strong>Patricia Lee</strong> is a Senior Oral History Specialist with the National Archives of Singapore. She has conducted interviews with more than 200 people from all walks of life. She also designs and conducts customised oral history training workshops for public institutions on documenting corporate memories.</p>
+	
 <p>She champions the use of oral narratives to give meaning to one's identity.&nbsp;As a trained accredited Facilitator of Reminiscence Arts in Dementia Care by the European Reminiscence Network (ERN), her current research interest involves the use of adaptive oral history in reminiscence work among the growing population of elderly, especially those with dementia, in Singapore.</p>
+
+
+Guest Speaker
+
+<img src="/images/CarolMa.png" alt="CarolMa" style="width:215px;" /> 
+	
+<strong>A/P Carol Ma </strong> is the Head of Gerontology Programmes (Master & PhD) at the Singapore University of Social Sciences (SUSS). She is a strong advocate for and an active and passionate practitioner in service-learning and ageing. She takes the lead in curriculum development, community engagement and research in Gerontology and promotes transdisciplinary education to address ageing issues.  She has led various ageing and service-learning projects such as elder learning development project, age-friendly cities project (accredited by WHO) and intergenerational project on health & wellbeing. Currently, she is working on a project on Reminiscence in Dementia Care with the National Archives of Singapore and the Alzheimer’s Disease Association (ADA), Singapore.
+	
 </td>
 </tr>
 </tbody>
 </table>
-
-

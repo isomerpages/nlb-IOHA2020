@@ -1,10 +1,8 @@
 ---
-title: 'Many Voices v Sounds of Silence - How Agreements (Can) Make a Difference'
+title: Many Voices v Sounds of Silence - How Agreements (Can) Make a Difference
 permalink: /workshop/many-voices-sounds-of-silence
-breadcrumb: 'Many Voices v Sounds of Silence - How Agreements (Can) Make a Difference'
-
+breadcrumb: Many Voices v Sounds of Silence - How Agreements (Can) Make a Difference
 ---
-
 <table>
 <tbody>
 <tr>
@@ -14,28 +12,23 @@ breadcrumb: 'Many Voices v Sounds of Silence - How Agreements (Can) Make a Diffe
 </tr>
 <tr>
 <td width="471">
-<p><strong>Maximum number of participants: </strong>50</p>
+<p><strong>Maximum number of participants: </strong>30</p>
 <p><strong>Registration Fee: </strong>SGD 27.00 per participant (SGD 28.90 inclusive of 7% GST)</p>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td width="471">
-<p><strong>Date: </strong>TBC
-<br><strong>Time: </strong>TBC
-<br><strong>Venue:</strong> Possibility Room, Level 5
-<br>National Library Building
-<br>100 Victoria Street
-<br>Singapore 188064</p>
-<p>&nbsp;</p>
+<p><strong>Date: </strong>23 August
+<br><strong>Time: </strong>9-11am
+
 </td>
 </tr>
 <tr>
 <td width="471">
 <p><strong>Target Audience</strong></p>
-<p>Oral historians and managers at institutions that create, commission or collect and keep oral history</p>
-<p>All others interested in legal questions pertaining to archival and heritage material</p>
-<p>&nbsp;</p>
+<p>Oral historians and managers at institutions that create, commission or collect and keep oral history.</p>
+<p>All others interested in legal questions pertaining to archival and heritage material.</p>
 </td>
 </tr>
 <tr>
