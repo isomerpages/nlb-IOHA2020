@@ -24,8 +24,7 @@ breadcrumb: Developing Untold Community Oral History Collections (Community Oral
 <p><strong>Date: </strong>23 August
 <br><strong>Time:</strong> 5-7pm
 
-</td>
-</tr>
+
 <tr>
 <td width="471">
 <p><strong>Target Audience</strong></p>
