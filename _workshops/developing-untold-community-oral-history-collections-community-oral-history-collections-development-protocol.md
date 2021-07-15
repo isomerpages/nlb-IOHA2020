@@ -13,10 +13,6 @@ breadcrumb: Developing Untold Community Oral History Collections (Community Oral
 </td>
 </tr>
 <tr>
-<td width="471">
-<p><strong>Maximum number of participants: </strong>15-20</p>
-<p><strong>Registration Fee: </strong>SGD 27.00 per participant (SGD 28.90 inclusive of 7% GST)</p>
-
 </td>
 </tr>
 <tr>
@@ -36,17 +32,17 @@ breadcrumb: Developing Untold Community Oral History Collections (Community Oral
 <p><strong>Synopsis of Workshop</strong></p>
 <p>Oral history is not only applied in the field of history. Oral history technique has been connected to various areas such as education, health, welfare, anthropology, sociology and psychology. Oral history balances written history and acts as a crucial contribution to memory itself. There is an increasing need to capture valuable stories from women, minorities and people who have been overlooked and kept silent. Community members can design a structure that supports doing, preserving, and maintaining access to oral history collections and to protect the valuable stories for many generations to come. This workshop is open to all interested in the practice of conducting oral histories in order to preserve precious collective memories and unwritten past. </p>
 <p>The objectives of this workshop: </p>
-<p>i.&nbsp;&nbsp;Advocate the importance of practicing oral history technique to enrich community oral history;</p>
-<p>ii.&nbsp;&nbsp;Provide guidelines to develop and manage community oral history collections; and</p>
-<p>iii.&nbsp;&nbsp;Help community members identify and prioritise oral history programmes for recording.</p>
+<p>i.&nbsp;Advocate the importance of practicing oral history technique to enrich community oral history;</p>
+<p>ii.&nbsp;Provide guidelines to develop and manage community oral history collections; and</p>
+<p>iii.&nbsp;Help community members identify and prioritise oral history programmes for recording.</p>
 <p>The half-day workshop introduces participants to seven aspects in the development and management of oral history collections by oral history practitioners:</p>
-<p>i.&nbsp;&nbsp;Co-creation
-<br>ii.&nbsp;&nbsp;Subject identification
-<br>iii.&nbsp;&nbsp;Interviewees
-<br>iv.&nbsp;&nbsp;Evidence
-<br>v.&nbsp;&nbsp;Encoding systems
-<br>vi.&nbsp;&nbsp;Legal and ethical issues
-<br>vii.&nbsp;&nbsp;Engagement</p>
+<p>i.&nbsp;Co-creation
+<br>ii.&nbsp;Subject identification
+<br>iii.&nbsp;Interviewees
+<br>iv.&nbsp;Evidence
+<br>v.&nbsp;Encoding systems
+<br>vi.&nbsp;Legal and ethical issues
+<br>vii.&nbsp;Engagement</p>
 	
 Interested participants are encouraged to bring their ideas to the workshop.
 
