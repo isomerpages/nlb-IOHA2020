@@ -9,7 +9,7 @@ Coming soon.
 
 <b>Registration and Payment </b>
 
-Registration is required for all persons attending the IOHA Virtual Conference 2021. Online payment (via credit and debit card) for the conference are to be completed via the online registration system. Email [NLB_IOHA2020@nlb.gov.sg](NLB_IOHA2020@nlb.gov.sg) if you need alternative payment methods.
+Registration is required for all persons attending the IOHA Virtual Conference 2021. Online payment (via credit and debit cards) will be available from 26 July and participants who prefer online payment at early bird rate are advised to register in the last week of July.
 
 <b>Registration Deadlines </b>
 
