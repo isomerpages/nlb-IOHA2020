@@ -11,9 +11,7 @@ breadcrumb: Oral History for College and University Educators
 </td>
 </tr>
 <tr>
-<td width="471">
-<p><strong>Maximum number of participants: 20 </strong></p>
-<p><strong>Registration Fee: </strong>SGD 27.00 per participant (SGD 28.90 inclusive of 7% GST)</p>
+
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -29,7 +27,6 @@ breadcrumb: Oral History for College and University Educators
 <p><strong>Target Audience</strong></p>
 <p>College and university educators who teach undergraduates
 <br>Educators interested in oral history and pedagogy</p>
-<p><em>&nbsp;</em></p>
 </td>
 </tr>
 <tr>
