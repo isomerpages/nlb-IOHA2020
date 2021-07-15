@@ -13,11 +13,6 @@ breadcrumb: Tell Me Your Story! Use of Adaptive Oral History in Reminiscence
 </td>
 </tr>
 <tr>
-<td width="471">
-<p><strong>Maximum number of participants: </strong>25</p>
-<p><strong>Registration Fee: </strong>SGD 27.00 per participant (SGD 28.90 inclusive of 7% GST)</p>
-</td>
-</tr>
 <tr>
 <td width="471">
 <p><strong>Date: </strong>23 August
