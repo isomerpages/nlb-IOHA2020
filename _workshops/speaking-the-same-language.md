@@ -11,9 +11,7 @@ breadcrumb: Speaking the Same Language
 </td>
 </tr>
 <tr>
-<td width="471">
-<p><strong>Maximum number of participants: 15&ndash;30 </strong></p>
-<p><strong>Registration Fee: </strong>SGD 27.00 per participant (SGD 28.90 inclusive of 7% GST)</p>
+
 
 </td>
 </tr>
