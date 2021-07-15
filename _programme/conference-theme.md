@@ -3,11 +3,7 @@ title: Conference Theme
 permalink: /programme/conference-theme
 breadcrumb: Conference Theme
 ---
-
-
-
-
-![IOHA 2021 Blue Pink on White banner](/images/banner_2021.png)
+![Alt text for image on Isomer site](/images/IOHA2021-ConferenceBanner.jpg)
 
 The National Archives of Singapore, an institution of the National Library Board, will host the XXI International Oral History Association (IOHA) Conference in 2021.
 
@@ -29,6 +25,3 @@ Our panels and presentations will be structured around the following sub-themes:
 * Oral history and indigenous communities
 * Inter- and cross-disciplinary applications of oral history (journalism, therapy, etc.)
 * Comparative studies of oral history
-
-
-
