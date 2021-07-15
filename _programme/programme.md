@@ -54,10 +54,4 @@ To encourage maximum participation from our international audience, we have sche
 		</tr>
 	</table>
 	
-	
-	
-Programme content and schedule may be subject to change and will be updated here once confirmed.  
-		
-		
-
-
+Programme content and schedule may be subject to change and will be updated here once confirmed.
