@@ -1,5 +1,0 @@
-collections:
-  welcome:
-    output: true
-    order:
-      - attractions.md
