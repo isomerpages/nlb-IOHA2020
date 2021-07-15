@@ -11,9 +11,6 @@ breadcrumb: A Workshop on Imagination and the Interview
 </td>
 </tr>
 <tr>
-<td width="471">
-<p><strong>Maximum number of participants: </strong>30</p>
-<p><strong>Registration Fee: </strong>SGD 27.00 per participant (SGD 28.90 inclusive of 7% GST)</p>
 
 </td>
 </tr>
