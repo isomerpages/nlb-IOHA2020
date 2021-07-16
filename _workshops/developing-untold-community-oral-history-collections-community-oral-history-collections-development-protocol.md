@@ -33,9 +33,9 @@ breadcrumb: Developing Untold Community Oral History Collections (Community Oral
 <br>iv.&nbsp;Evidence
 <br>v.&nbsp;Encoding systems
 <br>vi.&nbsp;Legal and ethical issues
-<br>vii.&nbsp;Engagement
+<br>vii.&nbsp;Engagement</p>
 	
-Interested participants are encouraged to bring their ideas to the workshop.
+<p>Interested participants are encouraged to bring their ideas to the workshop.
 
 <p><strong><a href="https://www.nlb.gov.sg/golibrary2/e/ioha2020workshop2">Register now!</a></strong></p>
 </td>
