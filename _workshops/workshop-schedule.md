@@ -9,7 +9,7 @@ breadcrumb: Workshop Schedule
     <th><b>Timing</b></th>
     <th><b>Workshop</b></th>
 		<th><b>Trainer</b></th>
-		</tr>
+		
 	  <tr>
 			<th> 23 August</th>
 			<th>9am-11am</th>
