@@ -19,19 +19,19 @@ breadcrumb: Workshop Schedule
 	<tr>
 		<th>23 August</th>
 		<th>9am-11am</th>
-		<th>PUSH PLAY: A Workshop on Imagination and the Interview
+		<th>PUSH PLAY: A Workshop on Imagination and the Interview</th>
 <th>Liza Zapol</th>
 			</tr>
 	<tr>
 		<th>23 August</th>
 		<th>9am-11am</th>
-		<th>Speaking the Same Language: How Data About Our Interviews Can Help Us at Every Stage of Our Projects and Make it Possible for Users to Discover Around the World
+		<th>Speaking the Same Language: How Data About Our Interviews Can Help Us at Every Stage of Our Projects and Make it Possible for Users to Discover Around the World</th>
 <th>Lauren Kata & Natalie Milbrodt</th>
 			</tr>
 	<tr>
 			<th>23 August</th>
 		<th>5pm-7pm</th>
-		<th>Developing Untold Community Oral History Collections (Community Oral History Collections Development Protocol)
+		<th>Developing Untold Community Oral History Collections (Community Oral History Collections Development Protocol)</th>
 <th>Hanis Diyana Kamarudin</th>
 		</tr>
 	<tr>
@@ -46,3 +46,4 @@ breadcrumb: Workshop Schedule
 		<th>"Tell Me Your Story!" Use of Adaptive Oral History in Reminiscence Work amongst the Elderly</th>
 	<th>Patricia Lee</th>
 	</tr>
+	</table>
