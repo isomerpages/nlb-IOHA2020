@@ -51,5 +51,3 @@ The Push Play workshop is a collaboration between Liza Zapol and Nicki Pombier B
 <p>&nbsp;</p>
 </td>
 </tr>
-</tbody>
-</table>
