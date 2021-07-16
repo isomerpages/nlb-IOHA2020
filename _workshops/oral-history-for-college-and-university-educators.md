@@ -5,23 +5,12 @@ breadcrumb: Oral History for College and University Educators
 ---
 <table>
 <tbody>
-<tr>
-<td width="471">
-<p><strong>Oral History for College and University Educators</strong></p>
-</td>
-</tr>
-<tr>
 
-<p>&nbsp;</p>
-</td>
-</tr>
 <tr>
 <td width="471">
 <p><strong>Date: </strong>23 August
 <br><strong>Time: </strong>5-7pm
 
-</td>
-</tr>
 <tr>
 <td width="471">
 <p><strong>Target Audience</strong></p>
@@ -51,7 +40,7 @@ The workshop will be in six stages, as follows:
 6-Student Projects: in this phase, participants will share ideas related to effective oral history projects for implementation with their students. @30 min.
 	</p>
 <p><strong><a href="https://www.nlb.gov.sg/golibrary2/e/ioha2020workshop4">Register now!</a></strong></p>
-</td>
+
 </tr>
 <tr>
 <td width="471">
@@ -61,5 +50,3 @@ The workshop will be in six stages, as follows:
 <p>&nbsp;</p>
 </td>
 </tr>
-</tbody>
-</table>
