@@ -48,7 +48,7 @@ The theatrical exercises in this workshop help us to fully grasp what it means t
 <td width="471">
 <p><strong>About the Trainers</strong></p>
 <img src="/images/liza.jpg" alt="Liza Zapol" style="width:215px;" />
-<p><strong>Liza Zapol</strong> is an artist, oral historian, and educator who teaches at Columbia University’s Oral History Master of Arts program, and managed the Oral History Program at the Archives of American Art, Smithsonian Institution from 2017-2019.  More about her work can be found [here](www.lizazapol.com). </p>
+<p><strong>Liza Zapol</strong> is an artist, oral historian, and educator who teaches at Columbia University’s Oral History Master of Arts program, and managed the Oral History Program at the Archives of American Art, Smithsonian Institution from 2017-2019.  More about her work can be found <a href="www.lizazapol.com">here</a>.</p>
 <p>&nbsp;</p>
 </td>
 </tr>
