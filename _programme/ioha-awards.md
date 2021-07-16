@@ -1,8 +1,9 @@
 ---
 title: IOHA Awards
-permalink: /programme/ioha-award/
+permalink: /programme/ioha-awards/
 breadcrumb: IOHA Awards
 ---
+
 
 # **Inaugural International Oral History Association Awards**
 
