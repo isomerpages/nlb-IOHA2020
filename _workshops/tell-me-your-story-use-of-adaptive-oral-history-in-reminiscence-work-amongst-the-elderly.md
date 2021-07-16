@@ -12,11 +12,11 @@ breadcrumb: Tell Me Your Story! Use of Adaptive Oral History in Reminiscence
 <p><strong>"Tell Me Your Story!" Use of Adaptive Oral History in Reminiscence Work amongst the Elderly </strong></p>
 </td>
 </tr>
-<tr>
+	<tr></tr>
 <tr>
 <td width="471">
 <p><strong>Date: </strong>23 August
-	<br><strong>Time: </strong>5-7pm </td></tr>
+	<br><strong>Time: </strong>5-7pm </tr></td>
 
 
 <tr>
