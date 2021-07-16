@@ -8,7 +8,7 @@ permalink: /registration/
 
 Registration is required for all persons attending the IOHA Virtual Conference 2021. Please read through the instruction carefully on this page before registering.
 
-Registration for participants paying via telegraphic transfers and cheques only is now open through this [form](https://go.gov.sg/ioha2021reg).
+Registration for participants paying via telegraphic transfers and cheques only is now open through this <a href="https://go.gov.sg/ioha2021reg">form</a>.</p>
 
 Online payment (via credit/debit cards) will be available from 26 July and participants who wish to enjoy the early bird rate are advised to register in the last week of July.
 
