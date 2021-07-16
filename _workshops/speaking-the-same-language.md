@@ -3,8 +3,7 @@ title: Speaking the Same Language
 permalink: /workshop/speaking-same-language/
 breadcrumb: Speaking the Same Language
 ---
-
-
+**Speaking the Same Language: How Data About Our Interviews Can Help Us at Every Stage of Our Projects and Make it Possible for Users to Discover Around the World**
 <table>
 <tbody>
 
