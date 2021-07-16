@@ -3,8 +3,6 @@ title: Workshop Schedule
 permalink: /workshop/schedule
 breadcrumb: Workshop Schedule
 ---
-## Workshop Schedule
-
 <table style="width:100%">
   <tr>
 		<th><b>Date</b></th>
