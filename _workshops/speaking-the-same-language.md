@@ -38,7 +38,3 @@ Presenters will also share a demo of their interactive online tool, currently in
 <p>Natalie Milbrodt, Coordinator, Metadata Services and Director, Queens Memory Project, Queens Public Library, New York City, NY USA, <a href="mailto:natalie.milbrodt@queenslibrary.org">natalie.milbrodt@queenslibrary.org</a></p>
 <p><strong>Natalie Milbrodt</strong> leads the Queens Public Library’s Metadata Services Division, responsible for the library’s oral history and community archiving program, digitization, and cataloguing. She serves on the Oral History Association’s Metadata Task Force and as an advisory board member for Global Grand Central, the New York State Archives and Wikitongues.</p>
 <p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
