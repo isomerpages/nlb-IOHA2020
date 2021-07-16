@@ -10,8 +10,6 @@ breadcrumb: Speaking the Same Language
 <td width="471">
 <p><strong>Date: </strong>23 August
 <br><strong>Time: </strong>9-11am
-</td>
-</tr>
 <tr>
 <td width="471">
 <p><strong>Target Audience</strong></p>
