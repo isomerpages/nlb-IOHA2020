@@ -21,14 +21,12 @@ breadcrumb: Workshop Schedule
 		<th>9am-11am</th>
 		<th>PUSH PLAY: A Workshop on Imagination and the Interview
 <th>Liza Zapol</th>
-</th>
 			</tr>
 	<tr>
 		<th>23 August</th>
 		<th>9am-11am</th>
 		<th>Speaking the Same Language: How Data About Our Interviews Can Help Us at Every Stage of Our Projects and Make it Possible for Users to Discover Around the World
 <th>Lauren Kata & Natalie Milbrodt</th>
-</th>
 			</tr>
 	<tr>
 			<th>23 August</th>
@@ -47,3 +45,4 @@ breadcrumb: Workshop Schedule
 		<th>5pm-7pm</th>
 		<th>"Tell Me Your Story!" Use of Adaptive Oral History in Reminiscence Work amongst the Elderly</th>
 	<th>Patricia Lee</th>
+	</tr>
