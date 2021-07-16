@@ -4,8 +4,8 @@ collections:
     order:
       - conference-theme.md
       - call-for-papers-workshop-proposals.md
-      - programme.md
       - registration.md
+      - programme.md
       - keynote-speakers.md
       - covid-19-panel.md
       - ioha-awards.md
