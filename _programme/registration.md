@@ -21,12 +21,12 @@ Standard fee: Until 16 August 2021 (+8 GMT)
 
 All prices are in Singapore Dollars (SGD) and inclusive of 7% GST. You may check the approximate conversion rate [here](https://xe.com/currencyconverter/).
 
-| | Early Bird till 31 July 2021 (+8 GMT) | Standard (till 16 August 2021 (+8 GMT) |
+| | <b>Early Bird (till 31 July 2021, +8 GMT)</b> | <b>Standard (till 16 August 2021, +8 GMT)</b> |
 | -------- | -------- | -------- |
-| Non-member | $133.75 | $160.50 |
-|IOHA Member* | $117.70 | $144.45 | 
-| Non-member (Student or ASEAN) | $69.55 | $85.60 |
-| IOHA Member* (Student or ASEAN) | $53.50 | $69.55 |
+| <b>Non-member</b> | $133.75 | $160.50 |
+|<b>IOHA Member*</b> | $117.70 | $144.45 | 
+| <b>Non-member (Student or ASEAN)</b> | $69.55 | $85.60 |
+|<b> IOHA Member* (Student or ASEAN)</b> | $53.50 | $69.55 |
 
 
 
