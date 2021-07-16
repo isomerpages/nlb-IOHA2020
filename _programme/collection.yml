@@ -3,9 +3,8 @@ collections:
     output: true
     order:
       - conference-theme.md
-      - call-for-papers-workshop-proposals.md
+      - call-for-papers-and-workshop-proposals.md
       - programme.md
-      - registration.md
-      - keynote-speakers.md
+      - keynotes.md
       - covid-19-panel.md
       - ioha-awards.md

@@ -1,9 +1,9 @@
 ---
-title: 'Call for Papers & Workshop Proposals'
-permalink: /programme/call-for-paper-workshop-proposals
-breadcrumb: 'Call for Papers & Workshop Proposals'
-
+title: Call for Papers & Workshop Proposals
+permalink: /programme/call-for-papers-workshop-proposals
+breadcrumb: Call for Papers & Workshop Proposals
 ---
+
 
 ***Thank you for your submissions. The call is now closed. All submissions have been reviewed and notifications sent out.***
 
