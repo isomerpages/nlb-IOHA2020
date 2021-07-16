@@ -24,8 +24,7 @@ breadcrumb: Speaking the Same Language
 Presenters will also share a demo of their interactive online tool, currently in development, designed to assist practitioners in metadata decision-making, and how to map oral history metadata to various standards. Lastly, participants will engage in a hands-on exercise with the online tool to begin thinking about their own metadata practices. Group work will centre on the question of improving metadata practices to make oral history collections more accessible and easier to administer in the future. This workshop offers a holistic way of thinking about metadata that moves away from technical lingo and toward a shared understanding of what is useful to know about oral histories! Note: No technical expertise required for participation. </p>
 	<p> Note: No technical expertise is required for participation. 
 <p><strong><a href="https://www.nlb.gov.sg/golibrary2/e/ioha2020workshop6">Register now!</a></strong></p>
-</td>
-</tr>
+
 <tr>
 <td width="471">
 <p><strong>About the Trainers</strong></p>
