@@ -5,15 +5,7 @@ breadcrumb: A Workshop on Imagination and the Interview
 ---
 <table>
 <tbody>
-<tr>
-<td width="471">
-<p><strong>PUSH PLAY: A Workshop on Imagination and the Interview</strong></p>
-</td>
-</tr>
-<tr>
 
-
-</tr>
 <tr>
 <td width="471">
 <p><strong>Date: </strong>23 August
