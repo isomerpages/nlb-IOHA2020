@@ -18,7 +18,6 @@ breadcrumb: Developing Untold Community Oral History Collections (Community Oral
 <p><strong>Target Audience</strong></p>
 <p>This workshop is beneficial for policymakers, academics, researchers, advanced-level students and development practitioners, as it will help them to identify opportunities and strategies to encourage greater active public participation in oral history collections’ development.</p>
 
-</tr>
 <tr>
 <td width="471">
 <p><strong>Synopsis of Workshop</strong></p>
@@ -34,7 +33,7 @@ breadcrumb: Developing Untold Community Oral History Collections (Community Oral
 <br>iv.&nbsp;Evidence
 <br>v.&nbsp;Encoding systems
 <br>vi.&nbsp;Legal and ethical issues
-<br>vii.&nbsp;Engagement</p>
+<br>vii.&nbsp;Engagement
 	
 Interested participants are encouraged to bring their ideas to the workshop.
 
