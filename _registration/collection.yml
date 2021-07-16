@@ -2,4 +2,4 @@ collections:
   registration:
     output: true
     order:
-      - example-title.md
+      - registration.md
