@@ -38,8 +38,7 @@ breadcrumb: Developing Untold Community Oral History Collections (Community Oral
 <p>Interested participants are encouraged to bring their ideas to the workshop.
 
 <p><strong><a href="https://www.nlb.gov.sg/golibrary2/e/ioha2020workshop2">Register now!</a></strong></p>
-</td>
-</tr>
+
 <tr>
 <td width="471">
 <p><strong>About the Trainer</strong></p>
