@@ -49,4 +49,5 @@ breadcrumb: Workshop Schedule
 		<th>TBC</th>
 		<th>Speaking the Same Language: How Data About Our Interviews Can Help Us at Every Stage of Our Projects and Make it Possible for Users to Discover Around the World</th>
 	<th>Lauren Kata & Natalie Milbrodt</th>
+</tr>
 </table>
