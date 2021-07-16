@@ -49,5 +49,3 @@ breadcrumb: Workshop Schedule
 		<th>5pm-7pm</th>
 		<th>"Tell Me Your Story!" Use of Adaptive Oral History in Reminiscence Work amongst the Elderly</th>
 	<th>Patricia Lee</th>
-</tr>
-</table>
