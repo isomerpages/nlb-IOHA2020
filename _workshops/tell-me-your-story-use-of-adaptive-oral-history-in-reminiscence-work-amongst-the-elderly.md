@@ -5,13 +5,8 @@ permalink: /workshop/adaptiveoralhistory
 breadcrumb: Tell Me Your Story! Use of Adaptive Oral History in Reminiscence
   Work amongst the Elderly
 ---
-
-<tr>
-<td width="471">
-<p><strong>"Tell Me Your Story!" Use of Adaptive Oral History in Reminiscence Work amongst the Elderly </strong></p>
-</td>
-</tr>
-	<tr></tr>
+<table>
+<tbody>
 <tr>
 <td width="471">
 <p><strong>Date: </strong>23 August
