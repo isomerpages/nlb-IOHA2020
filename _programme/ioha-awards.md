@@ -3,6 +3,7 @@ title: IOHA Awards
 permalink: /programme/ioha-award/
 breadcrumb: IOHA Awards
 ---
+
 # **Inaugural International Oral History Association Awards**
 
 Oral historians (anyone engaging with oral history) are encouraged to apply for these biennial awards presented by the International Oral History Association (IOHA). The awards are open to oral historians working in any field, across community, academia, media or professions. The award winners will have been responsible for oral history productions that are innovative, excellent and inspirational. Two awards are available:
