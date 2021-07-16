@@ -42,7 +42,7 @@ breadcrumb: Workshop Schedule
 			<th>23 August</th>
 		<th>TBC</th>
 <th>PUSH PLAY: A Workshop on Imagination and the Interview</th>
-	<th>Nicki Pombier Berger & Liza Zapol</th>
+	<th>Liza Zapol</th>
 	</tr>
 <tr>
 		<th>23 August</th>
@@ -50,4 +50,3 @@ breadcrumb: Workshop Schedule
 		<th>Speaking the Same Language: How Data About Our Interviews Can Help Us at Every Stage of Our Projects and Make it Possible for Users to Discover Around the World</th>
 	<th>Lauren Kata & Natalie Milbrodt</th>
 </table>
-
