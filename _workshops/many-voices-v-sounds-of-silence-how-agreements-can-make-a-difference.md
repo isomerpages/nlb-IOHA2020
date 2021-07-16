@@ -5,16 +5,7 @@ breadcrumb: Many Voices v Sounds of Silence - How Agreements (Can) Make a Differ
 ---
 <table>
 <tbody>
-<tr>
-<td width="471">
-<p><strong>Many Voices v. Sounds of Silence: How Agreements (Can) Make a Difference</strong></p>
-</td>
-</tr>
-<tr>
 
-<p>&nbsp;</p>
-
-</tr>
 <tr>
 <td width="471">
 <p><strong>Date: </strong>23 August
