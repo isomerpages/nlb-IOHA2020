@@ -9,26 +9,19 @@ breadcrumb: Tell Me Your Story! Use of Adaptive Oral History in Reminiscence
 <tbody>
 <tr>
 <td width="471">
-<p><strong>"Tell Me Your Story!" Use of Adaptive Oral History in Reminiscence Work amongst the Elderly </strong></p>
-</td>
-</tr>
-	<tr></tr>
-<tr>
-<td width="471">
 <p><strong>Date: </strong>23 August
-	<br><strong>Time: </strong>5-7pm </tr></td>
-
+	<br><strong>Time: </strong>5-7pm 
 
 <tr>
 <td width="471">
 <p><strong>Target Audience</strong></p>
-<p>Family carers, volunteers and professionals who are interested in the use of reminiscence through adaptive oral history in bridging and deepening relationships with the elderly, especially persons living with dementia</p>
+<p>This workshop is targeted at family carers, volunteers and professionals who are interested in the use of reminiscence through adaptive oral history methodology in bridging and deepening relationships with the elderly, especially persons living with dementia. </p>
 </td>
 </tr>
 <tr>
 <td width="471">
 <p><strong>Synopsis of Workshop</strong></p>
-<p>This hands-on workshop provides a theoretical and practical framework for the value and use of adaptive oral history in reminiscence work to improve the well-being of the elderly, including persons living with dementia. Participants will learn the skills of connecting and communicating with the elderly, through interviewing and recording their life stories. Participants will also learn the skills of constructing and asking appropriate questions, with the aid of the elderly&rsquo;s personal belongings such as photographs, documents and objects. At the end of this workshop, participants will appreciate the value of reviewing the oral narratives together with the elderly, helping them restructure their negative life events while affirming their positive experiences, leading to the discovery of self-worth towards the end stage of their lives.</p>
+<p>This hands-on workshop provides a theoretical and practical frame on the value and use of adaptive oral history methodology in reminiscence work to improve the well-being of the elderly. Participants will learn the skills of connecting and communicating with persons with dementia through interviewing and recording their life stories. Participants will also learn the skills of constructing and asking appropriate questions with the aid of the elderly’s personal belongings such as photographs, documents and objects. At the end of this workshop, participants will appreciate the value of reviewing the oral narratives together with the elderly and help them restructure their negative life events while affirming their positive experiences leading to the discovery of self-worth towards the end stage of their lives.  </p>
 <p></p>
 <p><strong><a href="https://www.nlb.gov.sg/golibrary2/e/ioha2020workshop1">Register now!</a></strong></p>
 </td>
@@ -37,12 +30,11 @@ breadcrumb: Tell Me Your Story! Use of Adaptive Oral History in Reminiscence
 <td width="471">
 <p><strong>About the Trainer</strong></p>
 <img src="/images/patricialee.png" alt="Patricia Lee" style="width:215px;" /> 
-<p><strong>Patricia Lee</strong> is a Senior Oral History Specialist with the National Archives of Singapore. She has conducted interviews with more than 200 people from all walks of life. She also designs and conducts customised oral history training workshops for public institutions on documenting corporate memories.</p>
+<p><strong>Patricia Lee</strong> is a Senior Oral History Specialist with the National Archives of Singapore. She has conducted interviews with more than 200 people from all walks in life.  She also designs and conducts customised oral history training workshops for public institutions on documenting corporate memories. </p>
 	
-<p>She champions the use of oral narratives to give meaning to one's identity.&nbsp;As a trained accredited Facilitator of Reminiscence Arts in Dementia Care by the European Reminiscence Network (ERN), her current research interest involves the use of adaptive oral history in reminiscence work among the growing population of elderly, especially those with dementia, in Singapore.</p>
+<p>She champions the use of oral narratives to give meaning to one's identity.  As a trained accredited Facilitator of Reminiscence Arts in Dementia Care by the European Reminiscence Network (ERN), her current research interest involves the use of adaptive oral history methodology in reminiscence work among the growing population of elderly in Singapore.  </p>
 
-
-Guest Speaker
+<b>Guest Speaker</b>
 
 <img src="/images/CarolMa.png" alt="CarolMa" style="width:215px;" /> 
 	
@@ -50,5 +42,3 @@ Guest Speaker
 	
 </td>
 </tr>
-</tbody>
-</table>
