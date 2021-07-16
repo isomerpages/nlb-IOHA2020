@@ -31,7 +31,7 @@ All prices are in Singapore Dollars (SGD) and inclusive of 7% GST. You may check
 | <b>Non-member (Student or ASEAN)**</b> | $69.55 | $85.60 |
 |<b> IOHA Member* (Student or ASEAN)**</b> | $53.50 | $69.55 |
 
-*IOHA members will be asked to include the month and year of their last IOHA membership renewal on the registration form. Membership lasts for two years from the date of payment. To register as an IOHA member or renew your membership, please visit http://www.ioha.org/membership-account/membership-levels/
+*IOHA members will be asked to include the month and year of their last IOHA membership renewal on the registration form. Membership lasts for two years from the date of payment. To register as an IOHA member or renew your membership, please visit <a href="http://www.ioha.org/membership-account/membership-levels/">http://www.ioha.org/membership-account/membership-levels/</a></p>
 
 ** Student rates are applicate to full-time students. You are required to upload any official proof of student status, e.g. Student ID, official letter from university, etc, through the registration form.
 
