@@ -33,8 +33,7 @@ The theatrical exercises in this workshop help us to fully grasp what it means t
 	
 The Push Play workshop is a collaboration between Liza Zapol and Nicki Pombier Berger, and has been performed at the Oral History Association (OHA) Annual Meetings in 2016 and 2017, the Archives of American Art, Smithsonian Institution in 2018, and numerous times at Columbia University in conjunction with the Oral History Master of Arts (OHMA) program. It is the foundation for a semester-long course Liza and Nicki teach at OHMA, called SERIOUS PLAY: Oral History and the Art of Story.  
 <p><strong><a href="https://www.nlb.gov.sg/golibrary2/e/ioha2020workshop5">Register now!</a></strong></p>
-</td>
-</tr>
+
 <tr>
 <td width="471">
 <p><strong>About the Trainers</strong></p>
