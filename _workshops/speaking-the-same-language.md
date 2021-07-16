@@ -5,21 +5,11 @@ breadcrumb: Speaking the Same Language
 ---
 <table>
 <tbody>
-<tr>
-<td width="471">
-<p><strong>Speaking the Same Language: How Data About Our Interviews Can Help Us at Every Stage of Our Projects and Make it Possible for Users to Discover Around the World</strong></p>
-</td>
-</tr>
-<tr>
 
-
-</td>
-</tr>
 <tr>
 <td width="471">
 <p><strong>Date: </strong>23 August
 <br><strong>Time: </strong>9-11am
-
 </td>
 </tr>
 <tr>
