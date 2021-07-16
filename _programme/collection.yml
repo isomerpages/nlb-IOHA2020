@@ -4,7 +4,6 @@ collections:
     order:
       - conference-theme.md
       - call-for-papers-workshop-proposals.md
-      - registration.md
       - programme.md
       - keynotes.md
       - covid-19-panel.md
