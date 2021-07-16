@@ -11,8 +11,6 @@ breadcrumb: Tell Me Your Story! Use of Adaptive Oral History in Reminiscence
 <td width="471">
 <p><strong>Date: </strong>23 August
 	<br><strong>Time: </strong>5-7pm 
-	</td>
-	</tr>
 
 <tr>
 <td width="471">
@@ -44,5 +42,3 @@ breadcrumb: Tell Me Your Story! Use of Adaptive Oral History in Reminiscence
 	
 </td>
 </tr>
-</tbody>
-</table>
