@@ -16,7 +16,6 @@ breadcrumb: Oral History for College and University Educators
 <p><strong>Target Audience</strong></p>
 <p>College and university educators who teach undergraduates
 
-</tr>
 <tr>
 <td width="471">
 <p><strong>Synopsis of Workshop</strong></p>
@@ -41,7 +40,6 @@ The workshop will be in six stages, as follows:
 	</p>
 <p><strong><a href="https://www.nlb.gov.sg/golibrary2/e/ioha2020workshop4">Register now!</a></strong></p>
 
-</tr>
 <tr>
 <td width="471">
 <p><strong>About the Trainer</strong></p>
