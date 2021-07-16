@@ -7,25 +7,17 @@ breadcrumb: Developing Untold Community Oral History Collections (Community Oral
 ---
 <table>
 <tbody>
-<tr>
-<td width="471"><br />
-<p><strong>Developing Untold Community Oral History Collections (Community Oral History Collections Development Protocol)</strong></p>
-</td>
-</tr>
-<tr>
-</td>
-</tr>
+
 <tr>
 <td width="471">
 <p><strong>Date: </strong>23 August
 <br><strong>Time:</strong> 5-7pm
 
-
 <tr>
 <td width="471">
 <p><strong>Target Audience</strong></p>
 <p>This workshop is beneficial for policymakers, academics, researchers, advanced-level students and development practitioners, as it will help them to identify opportunities and strategies to encourage greater active public participation in oral history collections’ development.</p>
-</td>
+
 </tr>
 <tr>
 <td width="471">
@@ -57,5 +49,3 @@ Interested participants are encouraged to bring their ideas to the workshop.
 <p>&nbsp;</p>
 </td>
 </tr>
-</tbody>
-</table>
