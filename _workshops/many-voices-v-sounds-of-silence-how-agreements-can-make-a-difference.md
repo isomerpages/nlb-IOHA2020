@@ -20,8 +20,6 @@ breadcrumb: Many Voices v Sounds of Silence - How Agreements (Can) Make a Differ
 <p><strong>Date: </strong>23 August
 <br><strong>Time: </strong>9-11am
 
-</td>
-</tr>
 <tr>
 <td width="471">
 <p><strong>Target Audience</strong></p>
@@ -43,5 +41,3 @@ breadcrumb: Many Voices v Sounds of Silence - How Agreements (Can) Make a Differ
 <p><em>&nbsp;</em></p>
 </td>
 </tr>
-</tbody>
-</table>
