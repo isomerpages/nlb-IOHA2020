@@ -5,7 +5,7 @@ breadcrumb: Conference Theme
 ---
 ![Alt text for image on Isomer site](/images/IOHA2021-ConferenceBanner.jpg)
 
-The National Archives of Singapore, an institution of the National Library Board, will host the XXI International Oral History Association (IOHA) Conference in 2021.
+The National Archives of Singapore, an institution of the National Library Board, are you hosts for the XXI International Oral History Association (IOHA) Conference in 2021.
 
 The theme of the conference is **Harmony & Disharmony: Bringing Together Many Voices**.
 
