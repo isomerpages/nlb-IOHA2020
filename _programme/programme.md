@@ -3,11 +3,7 @@ title: Programme
 permalink: /programme/programme/
 breadcrumb: Programme
 ---
-**Updated: 26 Mar 2020**
-
-Theme: Harmony and Disharmony: Bringing Together Many Voices
-
-To encourage maximum participation from our international audience, we have scheduled three time slots per day so that participants will be able to attend at least one or two of the sessions. Those who cannot attend the sessions live can tune in to the recorded sessions on demand for one month after the event.
+To encourage maximum participation from our international audience, we have scheduled three time slots per day so that participants will be able to attend at least one or two of the sessions. Those who cannot attend the sessions "live" can view the recorded sessions on demand for one month after the event.
 
 <table style="width:100%">
   <tr>
