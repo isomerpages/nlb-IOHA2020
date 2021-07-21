@@ -53,8 +53,6 @@ All prices are in Singapore Dollars (SGD) and inclusive of 7% GST. You may check
 
 •	Networking opportunities with international participants
 
-•	Exhibition by industry partners and the chance to connect with them
-
 •	Access to all recorded content for one month after the event
 
 <b>Payment Receipt</b>
