@@ -18,12 +18,7 @@ All timings are +8 GMT
 			<th>Eric Chin</th>
 		</tr>
 	<tr>
-		<th>23 August</th>
-		<th>9am-11am</th>
-		<th>PUSH PLAY: A Workshop on Imagination and the Interview</th>
-<th>Liza Zapol</th>
-			</tr>
-	<tr>
+		<tr>
 		<th>23 August</th>
 		<th>9am-11am</th>
 		<th>Speaking the Same Language: How Data About Our Interviews Can Help Us at Every Stage of Our Projects and Make it Possible for Users to Discover Around the World</th>
