@@ -10,7 +10,7 @@ Registration is required for all persons attending the IOHA Virtual Conference 2
 
 For online payment via credit/debit card only, please click <a href="https://go.gov.sg/ioha2021regonline">here</a> to register.
 
-Online payment (via credit/debit cards) will be available from 26 July and participants who wish to enjoy the early bird rate are advised to register in the last week of July.
+For payment via telegraphic transfer and cheque, please click <a href="https://go.gov.sg/ioha2021reg">here</a> to register.
 
 No other payment methods are available.
 
