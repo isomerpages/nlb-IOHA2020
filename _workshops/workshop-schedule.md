@@ -4,6 +4,7 @@ permalink: /workshop/schedule
 breadcrumb: Workshop Schedule
 ---
 All timings are +8 GMT
+
 <table style="width:100%">
   <tr>
 		<th><b>Date</b></th>
@@ -41,5 +42,5 @@ All timings are +8 GMT
 		<th>5pm-7pm</th>
 		<th>"Tell Me Your Story!" Use of Adaptive Oral History in Reminiscence Work amongst the Elderly</th>
 	<th>Patricia Lee</th>
+	<tr>
 	</tr>
-	</table>
