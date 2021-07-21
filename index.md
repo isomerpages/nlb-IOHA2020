@@ -11,5 +11,7 @@ sections:
           description: Find out more about our themes
           url: /programme/conference-theme/
       subtitle: 23—27 August 2021
-notification: ""
+notification: Registration is now open for payment by credit/debit card,
+  telegraphic transfer and cheques! Register by 31 July (+8 GMT) to enjoy early
+  bird prices!
 ---

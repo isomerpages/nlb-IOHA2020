@@ -4,6 +4,7 @@ permalink: /workshop/schedule
 breadcrumb: Workshop Schedule
 ---
 All timings are +8 GMT
+<table>
 <table style="width:100%">
   <tr>
 		<th><b>Date</b></th>
