@@ -32,10 +32,11 @@ breadcrumb: Tell Me Your Story! Use of Adaptive Oral History in Reminiscence
 	
 <p>She champions the use of oral narratives to give meaning to one's identity.  As a trained accredited Facilitator of Reminiscence Arts in Dementia Care by the European Reminiscence Network (ERN), her current research interest involves the use of adaptive oral history methodology in reminiscence work among the growing population of elderly in Singapore.  </p>
 
-<b>Guest Speaker</b>
+		
+<p><b>Guest Speaker</b></p>
 
 <img src="/images/CarolMa.png" alt="CarolMa" style="width:215px;" /> 
 	
-<strong>A/P Carol Ma </strong> is the Head of Gerontology Programmes (Master & PhD) at the Singapore University of Social Sciences (SUSS). She is a strong advocate for and an active and passionate practitioner in service-learning and ageing. She takes the lead in curriculum development, community engagement and research in Gerontology and promotes transdisciplinary education to address ageing issues.  She has led various ageing and service-learning projects such as elder learning development project, age-friendly cities project (accredited by WHO) and intergenerational project on health & wellbeing. Currently, she is working on a project on Reminiscence in Dementia Care with the National Archives of Singapore and the Alzheimer’s Disease Association (ADA), Singapore.	
+<p><strong>A/P Carol Ma </strong> is the Head of Gerontology Programmes (Master & PhD) at the Singapore University of Social Sciences (SUSS). She is a strong advocate for and an active and passionate practitioner in service-learning and ageing. She takes the lead in curriculum development, community engagement and research in Gerontology and promotes transdisciplinary education to address ageing issues.  She has led various ageing and service-learning projects such as elder learning development project, age-friendly cities project (accredited by WHO) and intergenerational project on health & wellbeing. Currently, she is working on a project on Reminiscence in Dementia Care with the National Archives of Singapore and the Alzheimer’s Disease Association (ADA), Singapore.</p>	
 </td>
 </tr>
