@@ -38,7 +38,6 @@ The workshop will be in six stages, as follows:
 	<p>
 6-Student Projects: in this phase, participants will share ideas related to effective oral history projects for implementation with their students. @30 min.
 	</p>
-<p><strong><a href="https://www.nlb.gov.sg/golibrary2/e/ioha2020workshop4">Register now!</a></strong></p>
 
 <tr>
 <td width="471">
