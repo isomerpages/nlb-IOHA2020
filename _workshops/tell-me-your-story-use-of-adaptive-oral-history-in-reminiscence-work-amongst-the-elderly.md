@@ -33,7 +33,7 @@ breadcrumb: Tell Me Your Story! Use of Adaptive Oral History in Reminiscence
 <p>She champions the use of oral narratives to give meaning to one's identity.  As a trained accredited Facilitator of Reminiscence Arts in Dementia Care by the European Reminiscence Network (ERN), her current research interest involves the use of adaptive oral history methodology in reminiscence work among the growing population of elderly in Singapore.  </p>
 
 		
-<b>Guest Speaker</b>
+<p><b>Guest Speaker</b></p>
 
 <img src="/images/CarolMa.png" alt="CarolMa" style="width:215px;" /> 
 	
