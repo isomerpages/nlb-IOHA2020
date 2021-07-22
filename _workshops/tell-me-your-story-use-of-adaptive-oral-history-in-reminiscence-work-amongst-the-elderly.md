@@ -21,9 +21,7 @@ breadcrumb: Tell Me Your Story! Use of Adaptive Oral History in Reminiscence
 <tr>
 <td width="471">
 <p><strong>Synopsis of Workshop</strong></p>
-<p>This hands-on workshop provides a theoretical and practical frame on the value and use of adaptive oral history methodology in reminiscence work to improve the well-being of the elderly. Participants will learn the skills of connecting and communicating with persons with dementia through interviewing and recording their life stories. Participants will also learn the skills of constructing and asking appropriate questions with the aid of the elderly’s personal belongings such as photographs, documents and objects. At the end of this workshop, participants will appreciate the value of reviewing the oral narratives together with the elderly and help them restructure their negative life events while affirming their positive experiences leading to the discovery of self-worth towards the end stage of their lives.  </p>
-<p></p>
-<p><strong><a href="https://www.nlb.gov.sg/golibrary2/e/ioha2020workshop1">Register now!</a></strong></p>
+<p>This hands-on workshop provides a theoretical and practical frame on the value and use of adaptive oral history methodology in reminiscence work to improve the well-being of the elderly. Participants will learn the skills of connecting and communicating with persons with dementia through interviewing and recording their life stories. Participants will also learn the skills of constructing and asking appropriate questions with the aid of the elderly’s personal belongings such as photographs, documents and objects. At the end of this workshop, participants will appreciate the value of reviewing the oral narratives together with the elderly and help them restructure their negative life events while affirming their positive experiences leading to the discovery of self-worth towards the end stage of their lives. </p>
 </td>
 </tr>
 <tr>
