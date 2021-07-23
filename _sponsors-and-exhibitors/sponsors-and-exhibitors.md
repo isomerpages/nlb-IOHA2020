@@ -8,7 +8,7 @@ We invite you to be a sponsor or tradeshow exhibitor at the International Oral H
 
 This year’s conference is entirely online, on a fully encompassing platform made for desktop and mobile use. The platform will allow attendees and exhibitors to interact in many different ways via virtual exhibition booths that are customised with your company’s name and logo to display your video presentations, and let attendees “pick up” a digital brochure, and peruse your evocative e-posters. Appointments can also be made to interact one-on-one with members of the international oral history community through chatrooms and meeting rooms. 
 
-Drawing people from all around the world and taking place across three daily time slots, our conference platform allows increased visibility and attendance flexibility for your organisation. All content provided will also remain on our conference website for a month from 23 August, providing your organisation with continuous coverage and exposure.
+Drawing people from all around the world and taking place across three daily time slots, our conference platform allows increased visibility and attendance flexibility for your organisation. All content provided will also remain on our conference website for one month until 22 September, providing your organisations with continuous coverage and exposure.
 
 Promote your products and services to oral history practitioners and institutions, network with industry leaders, and discover future user needs to guide your product or service development by securing your virtual exhibition space today!
 
