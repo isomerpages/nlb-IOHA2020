@@ -1,4 +1,5 @@
 collections:
   sponsors-and-exhibitors:
     output: true
-    order: []
+    order:
+      - sponsors-and-exhibitors.md
