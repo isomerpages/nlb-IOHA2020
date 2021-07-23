@@ -7,7 +7,7 @@ All registered participants are entitled to attend one workshop on 23 August, on
 
 After completing conference registration and payment, please register for your workshop of choice <a href="https://go.gov.sg/ioha2021workshopreg">here</a>.
 
-All timings are +8 GMT
+All timings are UTC +8
 
 <table style="width:100%">
   <tr>

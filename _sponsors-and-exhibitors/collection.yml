@@ -1,0 +1,5 @@
+collections:
+  sponsors-and-exhibitors:
+    output: true
+    order:
+      - sponsors-and-exhibitors.md

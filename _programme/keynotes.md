@@ -3,12 +3,11 @@ title: Keynotes
 permalink: /programme/keynotes/
 breadcrumb: Keynote Speakers
 ---
-
 ## Keynotes
 
 <b>Keynote 1</b>
 
-<b>23 August 2021 (+8 GMT)</b>
+<b>23 August 2021 (UTC +8)</b>
 
 <b>Memory and Remembering in the Digital Age by Kwa Chong Guan</b>
 
@@ -24,7 +23,7 @@ He started his career working on policy analysis in the Ministry of Foreign Affa
 
 <b>Keynote 2</b>
 
-<b>25 August 2021 (+8 GMT)</b>
+<b>25 August 2021 (UTC +8)</b>
 
 <b>Learning from the “Keepers of Memory”: Imagining a Different Genealogy for Oral History in the Asian Context by Indira Chowdhury</b>
 
@@ -38,7 +37,7 @@ Indira Chowdhury is Founder-Director of the Centre for Public History at the Sri
 
 <b>Keynote 3</b>
 
-<b>26 August 2021 (+8 GMT)</b>
+<b>26 August 2021 (UTC +8)</b>
 
 <b>Accelerating Innovation: Discovery, Engagement, and Risk by Douglas Boyd</b>
 
