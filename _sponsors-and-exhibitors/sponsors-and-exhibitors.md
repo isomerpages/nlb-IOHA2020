@@ -4,7 +4,7 @@ permalink: /sponsors-and-exhibitors/permalink
 ---
 <b>Sponsors and Exhibitors</b>
 
-We invite you to be a sponsor or tradeshow exhibitor at the International Oral History Association (IOHA) Virtual Conference 2021 (August 23—August 27). The platform offers your organisation a great opportunity to showcase your brand, solutions, innovations or just reconnect with old friends and colleagues, keep in touch with your current and prospective clients, as well as to reach out to potential new ones. 
+We invite you to be a sponsor or tradeshow exhibitor at the International Oral History Association (IOHA) Virtual Conference 2021 (23—27 August 2021). The platform offers your organisation a great opportunity to showcase your brand, solutions, innovations or just reconnect with old friends and colleagues, keep in touch with your current and prospective clients, as well as to reach out to potential new ones. 
 
 This year’s conference is entirely online, on a fully encompassing platform made for desktop and mobile use. The platform will allow attendees and exhibitors to interact in many different ways via virtual exhibition booths that are customised with your company’s name and logo to display your video presentations, and let attendees “pick up” a digital brochure, and peruse your evocative e-posters. Appointments can also be made to interact one-on-one with members of the international oral history community through chatrooms and meeting rooms. 
 
@@ -24,7 +24,7 @@ Contact <a href="Irene_LL_Lim@nlb.gov.sg"> Irene_LL_Lim@nlb.gov.sg</a> for detai
 4.	Hang <b>e-posters</b> for conference participants to view
 5.	<b>Interact virtually</b> with conference participants. Using your own Zoom accounts, we can set up for you an e-chatroom and e-meeting room.
 
-The exhibits stay available for our registered participants to view during the conference from 23–27 August, and for a month from 23 August.
+The exhibits stay available for our registered participants to view during the conference from 23—27 August 2021, and for a month from 23 August.
 
 <b>Cancellation Policy</b>
 
