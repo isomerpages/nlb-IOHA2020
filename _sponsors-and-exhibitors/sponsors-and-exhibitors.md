@@ -18,14 +18,14 @@ Contact <a href="Irene_LL_Lim@nlb.gov.sg"> Irene_LL_Lim@nlb.gov.sg</a> for detai
 
 <b>What can tradeshow exhibitors do with their virtual booths?</b>
 
-1.	Customise their booths with their company logos   
-2.	Put up video presentations of about 3 to 5 mins as a teaser to draw in your target audience
-3.	Display digital brochures for conference participants to “pick up” (download) and browse
-4.	Hang e-posters for conference participants to view
-5.	Interact virtually with conference participants. Using your own Zoom accounts, we can set up for you an e-chatroom and e-meeting room.
+1.	<b>Customise</b> their booths with their <b>company logos</b>   
+2.	Put up <b>video presentations</b> of about 3 to 5 mins as a teaser to draw in your target audience
+3.	Display <b>digital brochures</b> for conference participants to “pick up” (download) and browse
+4.	Hang <b>e-posters</b> for conference participants to view
+5.	<b>Interact virtually</b> with conference participants. Using your own Zoom accounts, we can set up for you an e-chatroom and e-meeting room.
 
-The exhibits stay available for our registered participants to view during the conference from 23–27 August, and for one month after that.
+The exhibits stay available for our registered participants to view during the conference from 23–27 August, and for a month from 23 August.
 
 <b>Cancellation Policy</b>
 
-As the exhibitor fee includes the posting of the organisation content for one month after the event, there will be no cancellation and refund after booking is made. Please ensure that you agree to this before making your booking. 
+As the exhibitor fee includes the posting of the organisation content for one month after the event, there will be no cancellation and refund after booking is made. Please ensure that you agree to this before making your booking.
