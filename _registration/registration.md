@@ -16,15 +16,15 @@ No other payment methods are available.
 
 <b>Registration Deadlines </b>
 
-Early bird fee: Until 31 July 2021 (+8 GMT)
+Early bird fee: Until 31 July 2021 (UTC +8)
 
-Standard fee: Until 16 August 2021 (+8 GMT)
+Standard fee: Until 16 August 2021 (UTC +8)
 
 <b> Registration Fees </b>
 
 All prices are in Singapore Dollars (SGD) and inclusive of 7% GST. You may check the approximate conversion rate [here](https://xe.com/currencyconverter/).
 
-| | <b>Early Bird (till 31 July 2021, +8 GMT)</b> | <b>Standard (till 16 August 2021, +8 GMT)</b> |
+| | <b>Early Bird (till 31 July 2021, UTC +8)</b> | <b>Standard (till 16 August 2021, UTC +8)</b> |
 | -------- | -------- | -------- |
 | <b>Non-member</b> | $133.75 | $160.50 |
 |<b>IOHA Member*</b> | $117.70 | $144.45 | 
@@ -39,7 +39,7 @@ All prices are in Singapore Dollars (SGD) and inclusive of 7% GST. You may check
 
 <b>What is included in the registration fee</b>
 
-•	Access to the virtual conference (23–27 August 2021, +8 GMT)
+•	Access to the virtual conference (23–27 August 2021, UTC +8)
 
 •	Three keynote speeches from distinguished speakers in the world of oral history
 
