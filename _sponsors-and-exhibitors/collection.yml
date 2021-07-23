@@ -1,0 +1,4 @@
+collections:
+  sponsors-and-exhibitors:
+    output: true
+    order: []
