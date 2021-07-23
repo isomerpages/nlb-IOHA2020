@@ -53,7 +53,7 @@ All prices are in Singapore Dollars (SGD) and inclusive of 7% GST. You may check
 
 •	Networking opportunities with international participants
 
-•	Access to all recorded content for one month after the event
+•	Access to all recorded content until 22 September
 
 <b>Payment Receipt</b>
 
