@@ -28,14 +28,14 @@ All prices are in Singapore Dollars (SGD) and inclusive of 7% GST. You may check
 | -------- | -------- | -------- |
 | <b>Non-member</b> | $133.75 | $160.50 |
 |<b>IOHA Member*</b> | $117.70 | $144.45 | 
-| <b>Non-member (Student or ASEAN)**</b> | $69.55 | $85.60 |
-|<b> IOHA Member* (Student or ASEAN)**</b> | $53.50 | $69.55 |
+| <b>Non-member (Student or ASEAN Resident)**</b> | $69.55 | $85.60 |
+|<b> IOHA Member* (Student or ASEAN Resident)**</b> | $53.50 | $69.55 |
 
 *IOHA members will be asked to include the month and year of their last IOHA membership renewal on the registration form. Membership lasts for two years from the date of payment. To register as an IOHA member or renew your membership, please visit <a href="http://www.ioha.org/membership-account/membership-levels/">http://www.ioha.org/membership-account/membership-levels/</a>
 
 ** Student rates are applicate to full-time students. You are required to upload any official proof of student status, e.g. Student ID, official letter from university, etc, through the registration form.
 
-** ASEAN rates are applicable for residents within ASEAN. You are required to upload any official proof of residency, e.g. government-issued photo ID, residential lease, utility bill, bank statement, letter from the government, etc, through the registration form.
+** ASEAN Resident rates are applicable for residents within ASEAN – Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand and Vietnam. You are required to upload any official proof of residency, e.g. government-issued photo ID, residential lease, utility bill, bank statement, letter from the government, etc, through the registration form.
 
 <b>What is included in the registration fee</b>
 
