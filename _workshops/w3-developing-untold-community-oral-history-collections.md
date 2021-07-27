@@ -1,9 +1,10 @@
 ---
-title: "W03 Developing Untold Community Oral History Collections "
+title: "W3 Developing Untold Community Oral History Collections "
 permalink: /workshop/community-oral-history
 breadcrumb: Developing Untold Community Oral History Collections (Community Oral
   History Collections Development Protocol)
 ---
+
 
 
 <table>

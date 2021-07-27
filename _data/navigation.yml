@@ -11,16 +11,16 @@ links:
     sublinks:
       - title: Workshop Schedule
         url: /workshop/schedule/
-      - title: Tell Me Your Story!
-        url: /workshop/adaptiveoralhistory/
-      - title: Developing Untold Community Oral History Collections
-        url: /workshop/community-oral-history/
-      - title: Many Voices v Sounds of Silence
+      - title: W1 Many Voices v Silence
         url: /workshop/many-voices-sounds-of-silence/
-      - title: Oral History for College and University Educators
-        url: /workshop/oral-history/
-      - title: Speaking the Same Language
+      - title: W2 Speaking the Same Language
         url: /workshop/speaking-same-language/
+      - title: W3 Untold Collections
+        url: /workshop/community-oral-history
+      - title: W4 Oral History for Educators
+        url: /workshop/oral-history/
+      - title: W5 Tell Me Your Story!
+        url: /workshop/adaptiveoralhistory
     url: /workshop/schedule
   - title: Contact Us
     url: /contact-us/
