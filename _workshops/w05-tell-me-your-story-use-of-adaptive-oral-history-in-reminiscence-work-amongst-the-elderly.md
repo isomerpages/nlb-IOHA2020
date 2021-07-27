@@ -1,10 +1,11 @@
 ---
-title: Tell Me Your Story! Use of Adaptive Oral History in Reminiscence Work
+title: W05 Tell Me Your Story! Use of Adaptive Oral History in Reminiscence Work
   amongst the Elderly
 permalink: /workshop/adaptiveoralhistory
 breadcrumb: Tell Me Your Story! Use of Adaptive Oral History in Reminiscence
   Work amongst the Elderly
 ---
+
 <table>
 <tbody>
 <tr>

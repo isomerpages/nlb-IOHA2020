@@ -1,8 +1,10 @@
 ---
-title: Many Voices v Sounds of Silence - How Agreements (Can) Make a Difference
+title: W01 Many Voices v Sounds of Silence - How Agreements (Can) Make a Difference
 permalink: /workshop/many-voices-sounds-of-silence
 breadcrumb: Many Voices v Sounds of Silence - How Agreements (Can) Make a Difference
 ---
+
+
 <table>
 <tbody>
 
