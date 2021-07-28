@@ -19,7 +19,7 @@ All timings are UTC +8
 	  <tr>
 			<th> 23 August</th>
 			<th>9am-11am</th>
-			<th>W1—Many Voices v. Sounds of Silence: How Agreements (Can) Make a Difference</th>
+			<th>W1—Many Voices Versus Sounds of Silence: How Agreements (Can) Make a Difference</th>
 			<th>Eric Chin</th>
 		</tr>
 	<tr>
