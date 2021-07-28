@@ -3,8 +3,6 @@ title: Call for Papers & Workshop Proposals
 permalink: /programme/call-for-papers-workshop-proposals
 breadcrumb: Call for Papers & Workshop Proposals
 ---
-
-
 ***Thank you for your submissions. The call is now closed. All submissions have been reviewed and notifications sent out.***
 
 The theme of the XXI IOHA Conference is **Harmony and Disharmony: Bringing Together Many Voices**.
@@ -67,6 +65,6 @@ We invite individuals or teams interested in conducting such a workshop to submi
 
 ## Registration
 
-All paper presenters (including posters and audio-visual presentations) and workshop facilitators must also register for the XXI IOHA Conference. Registration and payment details will be available on the conference website in late 2020. Please check the website for further information.
+All paper presenters (including posters and audio-visual presentations) and workshop facilitators must also register for the XXI IOHA Conference. Registration and payment details will be available on the conference website in July 2021. Please check the website for further information.
 
 If you have any questions concerning the call for papers and workshop proposals, please email: <NLB_IOHA2020@nlb.gov.sg>
