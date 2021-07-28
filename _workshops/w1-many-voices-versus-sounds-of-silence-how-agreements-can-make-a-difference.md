@@ -4,14 +4,6 @@ title: W1 Many Voices Versus Sounds of Silence - How Agreements (Can) Make a
 permalink: /workshop/many-voices-sounds-of-silence
 breadcrumb: Many Voices v Sounds of Silence - How Agreements (Can) Make a Difference
 ---
-
-
-
-
-
-
-
-
 <table>
 <tbody>
 
@@ -35,7 +27,8 @@ breadcrumb: Many Voices v Sounds of Silence - How Agreements (Can) Make a Differ
 <tr>
 <td width="471">
 <p><strong>About the Trainer</strong></p>
-<img src="/images/ericchin.jpg" alt="Eric Chin" style="width:215px;" />
+<img src="/images/speakers-presenters/workshops/Ericchinnew.jpg" style="width:290px;"/> 
+
 <p><strong>Eric Chin</strong> is General Counsel at the National Library Board where his daily work includes advising the Oral History Centre of the National Archives of Singapore.  His journey to this role started in 2010 when he acted on long-standing personal interest and completed a Master of Science in Information Studies at the Nanyang Technological University, learning about library and archival sciences. This helped to open the door to the honour of being Director, National Archives of Singapore, from 2012 to 2017.  A very happy memory in that period was working with enthused and dedicated colleagues at the Oral History Centre to put a large part of Singapore’s oral history collection online. </p>
 <p><em>&nbsp;</em></p>
 </td>
