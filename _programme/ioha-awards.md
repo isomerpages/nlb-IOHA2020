@@ -11,11 +11,11 @@ Oral historians (anyone engaging with oral history) are encouraged to apply for 
 
 ***International Oral History Association Media Award 2020*** (available to an oral history production in any medium other than a book)
 
-**Eligibility:** To be eligible, the oral history production must have been ‘published’ in the calendar years 2018, 2019 and up until 31 December 2020. Applicants must be members of the IOHA.
+**Eligibility:** To be eligible, the oral history production must have been ‘published’ in the calendar years 2017, 2018 and up until 31 December 2019. Applicants must be members of the IOHA.
 
-The two award winners will each receive a scholarship to attend the 2020 conference, and all shortlisted applicants will also be posted on the IOHA website. The judging panel may award a joint prize and/or Commendations for Excellence to outstanding runners-up. Winners will be announced at the IOHA conference in Singapore, 23—27 August 2021.
+The two award winners will each receive a scholarship to attend the 2020 conference, and all shortlisted applicants will also be posted on the IOHA website. The judging panel may award a joint prize and/or Commendations for Excellence to outstanding runners-up. Winners will be announced at the IOHA virtual conference, 23—27 August 2021.
 
-**How to Apply:** *Applicants must email an application as a Word document or PDF attachment, to each of the judges listed below, to reach them by* the **closing date, 31 January 2021.**
+**How to Apply:** *Applicants must email an application as a Word document or PDF attachment, to each of the judges listed below, to reach them by* the **closing date, 31 January 2020.**
 
  **Your application must include:**
 
