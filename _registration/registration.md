@@ -14,6 +14,8 @@ For payment via telegraphic transfer and cheque, please click <a href="https://g
 
 No other payment methods are available.
 
+If you require an invoice/receipt, please email NLB_IOHA_Admin@nlb.gov.sg before you register or immediately after payment.
+
 <b>Registration Deadlines </b>
 
 Early bird fee: Until 31 July 2021 (UTC +8)
