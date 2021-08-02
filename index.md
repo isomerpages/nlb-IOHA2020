@@ -12,6 +12,6 @@ sections:
           url: /programme/conference-theme/
       subtitle: 23—27 August 2021
 notification: Registration is now open for payment by credit/debit card,
-  telegraphic transfer and cheques! Register by 31 July (UTC +8 ) to enjoy early
-  bird prices!
+  telegraphic transfer and cheques! Early bird registration has been extended to
+  7 August (UTC +8 ).
 ---
