@@ -18,7 +18,7 @@ If you require an invoice/receipt, please email NLB_IOHA_Admin@nlb.gov.sg before
 
 <b>Registration Deadlines </b>
 
-Early bird fee: Until 31 July 2021 (UTC +8)
+Early bird fee: Until ~~31 July 2021 (UTC +8)~~ 7 August 2021 (UTC +8) 
 
 Standard fee: Until 16 August 2021 (UTC +8)
 
