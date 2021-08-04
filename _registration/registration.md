@@ -18,7 +18,7 @@ If you require an invoice/receipt, please email <a href="NLB_IOHA_Admin@nlb.gov.
 
 <b>Registration Deadlines </b>
 
-Early bird fee: Until 7 August 2021 (UTC +8) 
+Early bird fee: Until 31 July 2021 (UTC +8) 
 
 Standard fee: Until 16 August 2021 (UTC +8)
 
@@ -26,7 +26,7 @@ Standard fee: Until 16 August 2021 (UTC +8)
 
 All prices are in Singapore Dollars (SGD) and inclusive of 7% GST. You may check the approximate conversion rate [here](https://xe.com/currencyconverter/).
 
-| | <b>Early Bird (till 7 August 2021, UTC +8)</b> | <b>Standard (till 16 August 2021, UTC +8)</b> |
+| | <b>Early Bird (till 31 July 2021, UTC +8)</b> | <b>Standard (till 16 August 2021, UTC +8)</b> |
 | -------- | -------- | -------- |
 | <b>Non-member</b> | $133.75 | $160.50 |
 |<b>IOHA Member*</b> | $117.70 | $144.45 | 
