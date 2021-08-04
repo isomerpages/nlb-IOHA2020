@@ -14,7 +14,7 @@ For payment via telegraphic transfer and cheque, please click <a href="https://g
 
 No other payment methods are available.
 
-If you require an invoice/receipt, please email NLB_IOHA_Admin@nlb.gov.sg before you register or immediately after payment.
+If you require an invoice/receipt, please email <a href="NLB_IOHA_Admin@nlb.gov.sg"> NLB_IOHA_Admin@nlb.gov.sg</a>  before you register or immediately after payment.
 
 <b>Registration Deadlines </b>
 
