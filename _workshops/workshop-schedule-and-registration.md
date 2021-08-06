@@ -3,7 +3,7 @@ title: Workshop Schedule and Registration
 permalink: /workshop/schedule
 breadcrumb: Workshop Schedule
 ---
-All registered participants are entitled to attend one workshop on 23 August, on a first come, first served basis.
+All registered participants are entitled to attend up to two workshops on 23 August, on a first come, first served basis.
 
 After completing conference registration and payment, please register for your workshop of choice <a href="https://go.gov.sg/ioha2021workshopreg">here</a>.
 
