@@ -51,7 +51,7 @@ All prices are in Singapore Dollars (SGD) and inclusive of 7% GST. You may check
 
 •	Film screening by the Asian Film Archive, a non-profit organisation that preserves the rich film heritage of Singapore and Asian Cinema
 
-•	One workshop on Day 1 (pre-registration is required to reserve a place on a first-come, first-served basis)
+•	Up to two workshops on Day 1 (pre-registration is required to reserve a place on a first-come, first-served basis)
 
 •	Networking opportunities with international participants
 
