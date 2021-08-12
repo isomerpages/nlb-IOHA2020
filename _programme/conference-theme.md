@@ -25,3 +25,5 @@ Our panels and presentations will be structured around the following sub-themes:
 * Oral history and indigenous communities
 * Inter- and cross-disciplinary applications of oral history (journalism, therapy, etc.)
 * Comparative studies of oral history
+
+The views and opinions expressed in the conference papers, posters, screenings, speeches and discussions do not represent the official policy or position of the National Library Board.
