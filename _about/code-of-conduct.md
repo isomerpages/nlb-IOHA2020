@@ -36,6 +36,6 @@ Offending actions include, but are not limited to:
 
 <b>Reporting Procedures</b>
 
-If you are the victim or witness of any of the above, please contact the conference organisers at <a href="NLB_IOHA2020@nlb.gov.sg"> NLB_IOHA2020@nlb.gov.sg </a>. 
+If you are the victim or witness of any of the above, please contact the conference organisers at <a href="NLB_IOHA2020@nlb.gov.sg">NLB_IOHA2020@nlb.gov.sg</a>. 
 
 Thank you for making this IOHA Conference a positive experience for everyone!
