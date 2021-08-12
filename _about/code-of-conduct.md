@@ -24,7 +24,7 @@ All participants are expected to:
 
 Offending actions include, but are not limited to:
 
-•           Invasion of privacy, including the taking of screenshots and recordings of people, events, or conversations without express permission; and the posting of personal details of other participants without their consent
+•           Invasion of privacy, including the taking of screenshots and recordings of people, events, or conversations <b>without express permission</b>; and the posting of personal details of other participants <b>without their consent</b>
 
 •           Harassment, including persistent and unwelcome solicitation of intimacy; deliberate intimidation or cyberstalking; and the sustained use of professionally inappropriate comments 
 
