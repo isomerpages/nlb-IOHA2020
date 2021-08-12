@@ -1,5 +1,5 @@
 collections:
-  who-we-are:
+  about:
     output: true
     order:
       - about-ioha.md
