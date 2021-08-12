@@ -1,7 +1,7 @@
 logo: /images/iohalogov2.png
 links:
-  - title: Who We Are
-    collection: who-we-are
+  - title: About
+    collection: about
   - title: Registration
     url: /registration/
   - title: Programme
