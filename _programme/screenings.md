@@ -10,7 +10,7 @@ In addition, the Asian Film Archive (AFA), have contributed an omnibus film, *Fr
 
 <b>S1 – *Fragment*</b>
 
-<img src="/images/Fragment.png" style="width:300px;">
+<img style="width:300px;" src="/images/Fragment.png">
 
 <b>Directors:</b> Kan Lumé (Singapore), Lucky Kuswandi (Indonesia), Nawapol Thamrongrattanarit (Thailand), Phan Dang Di (Vietnam), Sherman Ong (Malaysia/Singapore), Tan Chui Mui (Malaysia), U-Wei Haji Saari (Malaysia), Wesley Leon Aroozoo (Singapore), Kavich Neang (Cambodia), Lavrente Indico Diaz (Lav Diaz) (The Philippines).
 
@@ -20,7 +20,7 @@ In addition, the Asian Film Archive (AFA), have contributed an omnibus film, *Fr
 
 <b>S2 – *Chilocco Through the Years*</b>
 
-<img src="/images/ChiloccoThroughtheYears.jpg" style="width:450px;">
+<img style="width:450px;" src="/images/ChiloccoThroughtheYears.jpg">
 
 <b>Project Co-Director/Documentary Story Editor:</b> Sarah Milligan (US)
 
@@ -34,13 +34,15 @@ In addition, the Asian Film Archive (AFA), have contributed an omnibus film, *Fr
 
 <b>S4 – *The Memory of the Struggle for Freedom in Africa: An Interview with Comandante Pedro Pires*</b>
 
-<img src="/images/Thumbnail Documentario.png" style="width:450px;">
+<img style="width:450px;" src="/images/Thumbnail Documentario.png">
 
 <b>Directors: Celso Castro &amp; Thais Blank (Brazil)</b>
 
 <b>Synopsis:</b> Commander (Comandante) Pedro Pires, born in 1934, was one of the leading leaders in the struggle for the liberation of Guinea Bissau and Cape Verde from Portuguese colonial rule. After Cape Verde's independence, the Comandante became prime minister of the new country (1975-1991) and later its president (2001-2011). In a lengthy filmed interview of about 12 hours given in June 2019, he talked at length about the fight against colonialism. However, in addition to the recollections of past war fighting, he emphasizes the importance of the struggle over the events and its combatants in the present and in the future historical memory. That memory would be, in his view, threatened. From this theme, we have produced a documentary, which highlights the power of oral history in the construction of individual and collective political memories. In Portuguese, with English subtitles.
 
 <b>S5 – *a ROLE to PLAY*</b>
+
+<img style="width:450px;" src="/images/ARoleToPlay.jpg">
 
 <b>Director, Producer &amp; Editor:</b> Esther Johnson
 
