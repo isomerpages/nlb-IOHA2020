@@ -40,11 +40,13 @@ In addition, the Asian Film Archive (AFA), have contributed an omnibus film, *Fr
 
 <b>Synopsis:</b> Commander (Comandante) Pedro Pires, born in 1934, was one of the leading leaders in the struggle for the liberation of Guinea Bissau and Cape Verde from Portuguese colonial rule. After Cape Verde's independence, the Comandante became prime minister of the new country (1975-1991) and later its president (2001-2011). In a lengthy filmed interview of about 12 hours given in June 2019, he talked at length about the fight against colonialism. However, in addition to the recollections of past war fighting, he emphasizes the importance of the struggle over the events and its combatants in the present and in the future historical memory. That memory would be, in his view, threatened. From this theme, we have produced a documentary, which highlights the power of oral history in the construction of individual and collective political memories. In Portuguese, with English subtitles.
 
-<b>S5 – a ROLE to PLAY</b>
+<b>S5 – *a ROLE to PLAY*</b>
+
+<img style="width:450px;" src="/images/ARoleToPlay.jpg">
 
 <b>Director, Producer &amp; Editor:</b> Esther Johnson
 
-<b>Synopsis:</b> Working with Freedom Community Project adult reading group members, food bank users and volunteers, a ROLE to PLAY illuminates experiences of contemporary working life in post-industrial Bolsover, a Derbyshire constituency where coal was once king.
+<b>Synopsis:</b> Working with <a href="https://www.fcgroup.org.uk/">Freedom Community Project</a> adult reading group members, food bank users and volunteers, <a href="https://workprojects.org.uk/a-role-to-play/">*a ROLE to PLAY*</a> illuminates experiences of contemporary working life in post-industrial Bolsover, a Derbyshire constituency where coal was once king.
 
 The film experiments with methods of co-creation, radical documentary theatre and oral testimony, with project participants storytelling privileged over the questioning/answering scenario of traditional documentary. The title echoes the participatory film process, and also the roles everyone takes in their working and non-working lives.
 
@@ -52,16 +54,16 @@ Made in direct response to the increasing numbers of unemployment and zero hour 
 
 We hear the lived experiences and dreams of town residents including:
 
-Stephen Cotton whose engagement with the Freedom Community Project began as a client of the food bank; going on to volunteer and then secure a job there.
+<b>Stephen Cotton</b> whose engagement with the Freedom Community Project began as a client of the food bank; going on to volunteer and then secure a job there.
 
-Adrian Drury a freelance tattooist and zero-hour contract worker. He also plays electric guitar and has been in several bands.
+<b>Adrian Drury</b> a freelance tattooist and zero-hour contract worker. He also plays electric guitar and has been in several bands.
 
-Jeanette Haigh a retired primary school teacher who runs Freedom Community Project’s weekly Bolsover reading group.
+<b>Jeanette Haigh</b> a retired primary school teacher who runs Freedom Community Project’s weekly Bolsover reading group.
 
-Serena Hammond a performing arts student who has been a carer for her mother Linda, a member of Bolsover reading group, since she was a teenager.
+<b>Serena Hammond</b> a performing arts student who has been a carer for her mother Linda, a member of Bolsover reading group, since she was a teenager.
 
-Dennis Skinner trade unionist, ex-miner, and MP for Bolsover from 1970—2019.
+<b>Dennis Skinner</b> trade unionist, ex-miner, and MP for Bolsover from 1970—2019.
 
 Themes include positive/negative work experiences, volunteering, lack of work, zero-hours contracts, unemployment, and the barrier that low reading and writing skills can have on work.
 
-Esther produced an accompanying newspaper, ‘Class Work Tribune’, featuring work by the reading group, material from the film, and a newly commissioned poem by Ian McMillan, Here are the Words in the Reading Bank.
+Esther produced an accompanying newspaper, ‘Class Work Tribune’, featuring work by the reading group, material from the film, and a newly commissioned poem by Ian McMillan, <a href="http://workprojects.org.uk/here-are-the-words-in-the-reading-bank">Here are the Words in the Reading Bank</a>.
