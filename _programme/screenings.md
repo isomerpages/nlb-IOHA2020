@@ -10,6 +10,8 @@ In addition, the Asian Film Archive (AFA), have contributed an omnibus film, Fra
 
 <b>S1 – Fragment</b>
 
+<img style="width:300px;" src="/images/Fragment.png">
+
 <b>Directors:</b> Kan Lumé (Singapore), Lucky Kuswandi (Indonesia), Nawapol Thamrongrattanarit (Thailand), Phan Dang Di (Vietnam), Sherman Ong (Malaysia/Singapore), Tan Chui Mui (Malaysia), U-Wei Haji Saari (Malaysia), Wesley Leon Aroozoo (Singapore), Kavich Neang (Cambodia), Lavrente Indico Diaz (Lav Diaz) (The Philippines).
 
 <b>Commissioned by</b> Asian Film Archive
@@ -17,6 +19,8 @@ In addition, the Asian Film Archive (AFA), have contributed an omnibus film, Fra
 <b>Synopsis:</b> Fragment is an omnibus film celebrating the strength and diversity of South-East Asian independent cinema. Made up of a collage of ten stories, each story distinctively embraces the other’s subjectivities through the collective sentiments of vulnerability and fortitude. With Fragment, a multi-perspective collage within the context of the region is presented, with the hopes of celebrating the courage, emotions and spirit of independent filmmaking.
 
 <b>S2 – Chilocco Through the Years</b>
+
+<img style="width:450px;" src="/images/ChiloccoThroughtheYears.jpg">
 
 <b>Project Co-Director/Documentary Story Editor:</b> Sarah Milligan (US)
 
@@ -29,6 +33,8 @@ In addition, the Asian Film Archive (AFA), have contributed an omnibus film, Fra
 <b>Synopsis:</b> The performance is a journey into the dark. It is the creative practice component of Dr John Willsteed’s PhD, and has been performed three times in Australia since 2016. In the spring of 1976, The Saints released “(I’m) Stranded” and the Brisbane music scene was never quite the same again. The spores of DIY culture spread and unfurled over the following years into a vibrant, colourful post-punk fungus. It flourished in the early 80s, still deep in the dark, fed by the heat and the repression. In a performance filled with voices both spoken and sung, using recent oral history footage with scene participants and substantial ephemeral material, renowned Brisbane musician and now academic John Willsteed will summon precious visions of a lost time, where faces and places and sounds long buried and forgotten, bloom and sway and speak again.
 
 <b>S4 – The Memory of the Struggle for Freedom in Africa: An Interview with Comandante Pedro Pires</b>
+
+<img style="width:450px;" src="/images/Thumbnail Documentario.png">
 
 <b>Directors: Celso Castro &amp; Thais Blank (Brazil)</b>
 
