@@ -10,21 +10,21 @@ In addition, the Asian Film Archive (AFA), have contributed an omnibus film, *Fr
 
 <b>S1 – *Fragment*</b>
 
-<img src="/images/Fragment.png" style="width:300px;">
+<img style="width:300px;" src="/images/Fragment.png">
 
 <b>Directors:</b> Kan Lumé (Singapore), Lucky Kuswandi (Indonesia), Nawapol Thamrongrattanarit (Thailand), Phan Dang Di (Vietnam), Sherman Ong (Malaysia/Singapore), Tan Chui Mui (Malaysia), U-Wei Haji Saari (Malaysia), Wesley Leon Aroozoo (Singapore), Kavich Neang (Cambodia), Lavrente Indico Diaz (Lav Diaz) (The Philippines).
 
 <b>Commissioned by</b> Asian Film Archive
 
-<b>Synopsis:</b> Fragment is an omnibus film celebrating the strength and diversity of South-East Asian independent cinema. Made up of a collage of ten stories, each story distinctively embraces the other’s subjectivities through the collective sentiments of vulnerability and fortitude. With Fragment, a multi-perspective collage within the context of the region is presented, with the hopes of celebrating the courage, emotions and spirit of independent filmmaking.
+<b>Synopsis:</b> *Fragment* is an omnibus film celebrating the strength and diversity of South-East Asian independent cinema. Made up of a collage of ten stories, each story distinctively embraces the other’s subjectivities through the collective sentiments of vulnerability and fortitude. With *Fragment*, a multi-perspective collage within the context of the region is presented, with the hopes of celebrating the courage, emotions and spirit of independent filmmaking.
 
 <b>S2 – *Chilocco Through the Years*</b>
 
-<img src="/images/ChiloccoThroughtheYears.jpg" style="width:450px;">
+<img style="width:450px;" src="/images/ChiloccoThroughtheYears.jpg">
 
 <b>Project Co-Director/Documentary Story Editor:</b> Sarah Milligan (US)
 
-<b>Synopsis:</b> Chilocco Through the Years examines the legacy of the Chilocco Indian Agricultural School through the lens of thousands of students from over 127 federally-recognized tribes. Chilocco was the largest intertribal federal Native boarding school in the U.S. The school, located in north central Oklahoma, was in operation from 1884 to 1980. The documentary is just one component of the larger Chilocco History Project, a three-year collaborative effort between the Chilocco National Alumni Association and the OOHRP. Firethief Media produced the documentary in conjunction with the OSU Library’s OOHRP and the Chilocco National Alumni Association. It was made possible with support from the Tom J. and Edna M. Carson Foundation and the OSU Library through the Puterbaugh Professorship for Library Service, the Clerico Family Chair for Library Excellence, and the Hyle Family Professorship.
+<b>Synopsis:</b> *Chilocco Through the Years* examines the legacy of the Chilocco Indian Agricultural School through the lens of thousands of students from over 127 federally-recognized tribes. Chilocco was the largest intertribal federal Native boarding school in the U.S. The school, located in north central Oklahoma, was in operation from 1884 to 1980. The documentary is just one component of the larger Chilocco History Project, a three-year collaborative effort between the Chilocco National Alumni Association and the OOHRP. Firethief Media produced the documentary in conjunction with the OSU Library’s OOHRP and the Chilocco National Alumni Association. It was made possible with support from the Tom J. and Edna M. Carson Foundation and the OSU Library through the Puterbaugh Professorship for Library Service, the Clerico Family Chair for Library Excellence, and the Hyle Family Professorship.
 
 <b>S3 – *It’s Not the Heat, It’s the Humidity*</b>
 
@@ -34,7 +34,7 @@ In addition, the Asian Film Archive (AFA), have contributed an omnibus film, *Fr
 
 <b>S4 – *The Memory of the Struggle for Freedom in Africa: An Interview with Comandante Pedro Pires*</b>
 
-<img src="/images/Thumbnail Documentario.png" style="width:450px;">
+<img style="width:450px;" src="/images/Thumbnail Documentario.png">
 
 <b>Directors: Celso Castro &amp; Thais Blank (Brazil)</b>
 
