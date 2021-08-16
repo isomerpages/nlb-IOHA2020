@@ -5,11 +5,11 @@ breadcrumb: Programme
 ---
 To encourage maximum participation from our international audience, we have scheduled three time slots per day so that participants will be able to attend at least one or two of the sessions. Those who cannot attend the sessions "live" can view the recorded sessions on demand for one month after the event.
 
-<table style="width:100%">
-  <tr>
-		<th>>>>>></th>
-    <th>Singapore</th>
-    <th>New York</th>
+
+&nbsp; 
+&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp; <table style="width:100%"><tbody><tr>
+		<th>&gt;&gt;&gt;&gt;&gt;</th><th>Singapore</th><th>New York</th>
 		<th>Rio de Janeiro</th>
 		<th>London</th>
 		<th>Helsinki</th>
@@ -48,6 +48,16 @@ To encourage maximum participation from our international audience, we have sche
 	</tr>
 	<tr>
 		</tr>
-	</table>
+	</tbody></table>
 	
-Programme content and schedule may be subject to change and will be updated here once confirmed.
+Legend:
+
+K – Keynotes
+
+P – Paper Sessions
+
+W – Workshops
+
+Please note that Posters and Screenings are available on demand (click on the respective pages for details). 
+
+Programme content and schedule may be subject to changes. Please check conference site for the latest updates.
