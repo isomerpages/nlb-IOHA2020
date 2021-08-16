@@ -7,7 +7,6 @@ The IOHA Conference 2021 is the first time the IOHA is holding a virtual confere
 
 To encourage maximum participation from our international audience, the organisers have scheduled three time slots per day so that participants will be able to attend at least one or two of the sessions. Those who cannot attend the sessions “live” can view the recorded sessions. All registered particiants will have access to the conference website for one month.
 
-&nbsp; 
 <table style="width:100%"><tbody><tr>
 		<th>&gt;&gt;&gt;&gt;&gt;</th><th>Singapore</th><th>New York</th>
 		<th>Rio de Janeiro</th>
@@ -50,6 +49,12 @@ To encourage maximum participation from our international audience, the organise
 		</tr>
 	</tbody></table>
 	
+<b>Conference Programme</b>
+
+* Timings below are UTC +8
+
+
+
 Legend:
 
 K – Keynotes
