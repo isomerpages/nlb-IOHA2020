@@ -78,4 +78,4 @@ W – Workshops
 
 Please note that Posters and Screenings are available on demand (click on the respective pages for details). 
 
-Programme content and schedule may be subject to changes. Please check conference site for the latest updates.<table style="width:100%"><tbody><tr></tr></tbody></table>
+Programme content and schedule may be subject to changes. Please check conference site for the latest updates.
