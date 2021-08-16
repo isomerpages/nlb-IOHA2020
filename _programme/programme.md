@@ -8,42 +8,46 @@ The IOHA Conference 2021 is the first time the IOHA is holding a virtual confere
 To encourage maximum participation from our international audience, the organisers have scheduled three time slots per day so that participants will be able to attend at least one or two of the sessions. Those who cannot attend the sessions “live” can view the recorded sessions. All registered particiants will have access to the conference website for one month.
 
 <table style="width:100%"><tbody><tr>
-		<th>&gt;&gt;&gt;&gt;&gt;</th><th>Singapore</th><th>New York</th>
-		<th>Rio de Janeiro</th>
-		<th>London</th>
-		<th>Helsinki</th>
-		<th>Delhi</th>
-		<th>Sydney</th>
+		<th>&gt;&gt;&gt;&gt;&gt;</th><th>New York UTC -4</th><th>Rio de Janeiro UTC -3</th>
+		<th>London UTC +1</th>
+	<th>South Africa UTC +2</th>
+		<th>Helsinki UTC +3</th>
+		<th>Delhi UTC +5:30</th>
+		<th>Singapore UTC +8</th>
+		<th>Sydney UTC +10</th>
 		</tr>
 	  <tr>
 			<th>1st daily time slot</th>
-			<th>9am-11am</th>
-			<th>9pm-11pm</th>
-			<th>10pm-12mn</th>
+			<th>9pm-11pm (previous day)</th>
+			<th>10pm-12mn (previous day)</th>
 			<th>2am-4am</th>
+			<th>3am-5am</th>
 			<th>4am-6am</th>
 			<th>6.30am-8.30am</th>
-			<th>11am-1pm</th>
+			<th>9am-11am</th>
+	<th>11am-1pm</th>
 </tr>
 	<tr>
 		<th>2nd daily time slot</th>
-		<th>5pm-7pm</th>
 		<th>5am-7am</th>
 		<th>6am-8am</th>
 		<th>10am-12nn</th>
+		<th>11am-1pm</th>
 		<th>12nn-2pm</th>
-		<th>2.30pm-4.30-pm</th>
-		<th>7pm-9pm</th>
+		<th>2.30pm-4.30pm</th>
+		<th>5pm-7pm</th>
+	<th>7pm-9pm</th>
 	</tr>
 	<tr>
 		<th>3rd daily time slot</th>
-		<th>9pm-11pm</th>
 		<th>9am-11am</th>
 		<th>10am-12nn</th>
 		<th>2pm-4pm</th>
+		<th>3pm-5pm</th>
 		<th>4pm-6pm</th>
 		<th>6.30pm-8.30pm</th>
-		<th>11pm-1am</th>
+		<th>9pm-11pm</th>
+	<th>11pm-1am</th>
 	</tr>
 	<tr>
 		</tr>
@@ -54,6 +58,7 @@ To encourage maximum participation from our international audience, the organise
 * Timings below are UTC +8
 
 
+	
 
 Legend:
 
@@ -65,4 +70,4 @@ W – Workshops
 
 Please note that Posters and Screenings are available on demand (click on the respective pages for details). 
 
-Programme content and schedule may be subject to changes. Please check conference site for the latest updates.
+Programme content and schedule may be subject to changes. Please check conference site for the latest updates.<table style="width:100%"><tbody><tr></tr></tbody></table>
