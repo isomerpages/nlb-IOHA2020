@@ -14,7 +14,7 @@ This poster seeks to reflect on Catholic High School’s incorporation of oral h
 
 Digital artefact, curation, historical interpretations, talent development
 
-<b>About presenters</b>
+<b>About Presenters</b>
 
 Kenneth Koh is the Subject Head for History &amp; Social Studies at Catholic High School. He leads a team of humanities educators in developing meaningful learning experiences that develops students’ critical thinking skills while imbuing in them a sense of purpose as a global citizen and humanities scholar. He is also the recipient of the Outstanding Youth in Education Award (2021) in Singapore. 
 
@@ -36,10 +36,15 @@ Iran, people, oral history
 <b>About Presenter</b>
 
 Samir Ketf (1975) - Saeideh Mahrami (1983)
+
 *Electrical engineer - M.A in English language teaching.
+
 *The council member, the representative of Asia in IOHA.
+
 *Oral historiographer.
+
 *A published oral history book “The sun of Hesar”.
+
 *Participation in oral history conferences (with article presentation): 2012 Iran, 2016 IOHA India, 2018 Finland.
 
 
@@ -80,7 +85,7 @@ Understanding the political significance of similar population dynamics has long
 
 Saigon, life story interviews, Indochina wars, migration
 
-<b>About presenter</b>
+<b>About Presenter</b>
 
 SHIBUYA Yuki (Japan). Project Research Fellow, at Uehiro Project for the Asian Research Library, The University of Tokyo Library System. She received her Ph.D. in 2018 with a thesis on the history of Saigon City—which was located in the center of Ho Chi Minh City, Vietnam. 
 
@@ -98,7 +103,7 @@ The expected research results will indicate how a migrated minority culture is r
 
 Migration, identity, Karelians, national narrative, revitalization
 
-<b>About presenter</b>
+<b>About Presenter</b>
 
 Pirja Hyyryläinen, PhD Researcher of Ethnology and Anthropology, is currently working on her dissertation at the University of Jyväskylä, Finland. Her research interests include oral history, silences and breaks in intergenerational heritage transfer, revitalisation, empowerment, and social media. In free time, she enjoys writing scifi and fantasy stories, doing handicrafts, and cooking. 
 
@@ -114,6 +119,6 @@ In recent years, however, there has been a stronger effort to collect, conserve 
 
 Malaysia, WWII survivors, storytelling
 
-<b>About presenter</b>
+<b>About Presenter</b>
 
-Cheryl L. Nicholas is an Associate Professor of Communication Arts &amp; Sciences and Global Studies at Penn State Berks, USA. Her research is based on how symbolic activity constitutes and is constituted by cultural worldviews. Theoretically, her work is grounded in language and social interaction, and critical perspectives. 
+Cheryl L. Nicholas is an Associate Professor of Communication Arts &amp; Sciences and Global Studies at Penn State Berks, USA. Her research is based on how symbolic activity constitutes and is constituted by cultural worldviews. Theoretically, her work is grounded in language and social interaction, and critical perspectives.
