@@ -57,8 +57,16 @@ To encourage maximum participation from our international audience, the organise
 
 * Timings below are UTC +8
 
-
+<table style="width:100%"><tbody><tr>
 	
+	<th></th>
+	<th>Mon, 23 Aug</th>
+	<th>Tue, 24 Aug</th>
+	<th>Wed, 25 Aug</th>
+	<th>Thu, 26 Aug</th>
+	<th>Fri, 27 Aug</th>
+	
+		</tr></tbody></table>
 
 Legend:
 
