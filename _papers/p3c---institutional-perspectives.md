@@ -4,7 +4,7 @@ permalink: /papers/p3c
 ---
 <b>PAPER SESSION 3
 	
-WEDNESDAY 25/8, 9–11am
+WEDNESDAY 25/8, 9–11am (UTC +8)
 	
 P3c – Institutional Perspectives
 
