@@ -61,9 +61,15 @@ Marieta de Moraes Ferreira PHD in Social History. President of International Ora
 Keywords: teaching history; university; politics
 
 Alex T. Primm (USA) Encouraging Oral History in Hebei, China
+
 In November 2018 I visited an old friend who had recently received an invitation to come in one month to Shijiazhuang, the 30th biggest city on the mainland, to teach American literature. “I can’t do it, maybe you can,” my friend said.
+
 I have been teaching political science in a community college, conducting environmental oral histories for a variety of public agencies, studying Mandarin, assisting on video documentaries and recently finished a manuscript on my work. “Sure, I said, I’m ready to travel to northern China in December!”
+
 Luckily my host at the Hebei University of Science and Technology decided that April 2019 would be a better time for oral history seminars. I met with a half-dozen different classes over three weeks. 
+
 This paper will explore what it was like for a freelance oral historian to present details on conducting in-depth interviews in rural America. Both the graduate and undergraduate students I met with had no experience with oral history. My goal was to encourage these students to explore what is still a new methodology in both China and the USA.  
+
 Alex T. Primm has been a freelance oral historian in Missouri for 30 years.  Earning an MA in Political Science, St. Louis University, he has completed projects for the U.S. Army, the Geological Survey and the National Parks. He was the founding curator of the Ozark Agriculture Museum at Maramec Springs Park, St. James, and an adjunct instructor in Political Science at East Central Community College, Union. He has also carried out projects for the Missouri Arts Council and the Humanities Council. The documentary “Treehouse, an Ozark Story,” now is available on YouTube. As a founding member of Vietnam Veterans Against the War, he has been involved in veterans’ peace organizations to encourage international understanding. He has traveled to China and Taiwan six times in his career.
+
 Keywords: documentary; rural; seminar
