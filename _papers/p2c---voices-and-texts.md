@@ -4,7 +4,7 @@ permalink: /papers/p2c
 ---
 <b>PAPER SESSION 2
 	
-TUESDAY 24/8, 5–7pm
+TUESDAY 24/8, 5–7pm (UTC +8)
 
 P2c – Voices and Texts
 
