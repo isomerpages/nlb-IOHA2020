@@ -2,7 +2,11 @@
 title: P2c – Voices and Texts
 permalink: /papers/p2c
 ---
-<b>P2c – Voices and Texts
+<b>PAPER SESSION 2
+	
+TUESDAY 24/8, 5–7pm
+
+P2c – Voices and Texts
 
 Simona Sarma (India)</b> Dissonance in Oral History: Is There an Authentic Past?  
 
