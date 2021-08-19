@@ -24,12 +24,19 @@ Based on the archival sources and oral history testimonies, demonstrating contra
 territory of Latvia.
 
 Dr. hist. Uldis Neiburgs, researcher at the Institute of Latvian History, University of Latvia; PhD in history – 2012, University of Latvia; author of 2 monographs and 2 popular-scientific books, editor of 4 volumes of essays, author of 80 scientific publications and reviews; research interests: history of World War II, resistance and collaboration, oral history, social memory.
+
 Keywords: academic research; Latvia; Nazi German occupation; oral history; resistance movement
 
 Viviane A. Blatter (Switzerland) ‘...and this is why I’m fighting for inclusion’: Using One’s (Hi)story to Make a Case for Structural Change and Inclusion in Narrative Interviews
+
 Spontaneous narration is particularly realistic in reconstructing past lived experiences, making narrative interviews an excellent tool for extracting people’s life stories. Hence, we are using this methodology to elicit the experiences of people who were socialized in Swiss schools and institutions for children with physical disabilities in the second half of the 20th century.
+
 In the narrative interviews, a pattern has emerged that goes beyond narration: After recounting particularly memorable anecdotes, interviewees - without being prompted to do so - interrupt their personal narrative to make their anecdote a case for structural change in the education system, particularly by talking about the need for more inclusive schools or a more intellectually demanding school curriculum. While the content and sternness of the suggestions differ between instances, the pattern is observable throughout different age and disability cohorts.
+
 The topic of schooling for children and youth with disabilities is a highly politicized one: the UN convention on the Rights of Persons with Disabilities, in effect in Switzerland since 2014, states that “State Parties shall ensure an inclusive education system at all levels”, which has not yet been achieved in Switzerland. Debates about inclusive schooling are ongoing in the media and politics.
+
 In my paper I look at how affected persons connect their life experiences to take a political stand for more inclusion, linking the past to the present and incorporating demands for structural change into a retelling of their history.
+
 Viviane A. Blatter graduated from the University of Basel with an MA in history. She is writing her dissertation about schooling and care for children with physical disabilities in Switzerland (1950-2010) using Oral History interviews and working on the project “Between Recognition and Disregard”. For more information, see http://www.nfp76.ch/en/projects/interventions-and-pathways-in-life/project-wolfisberg.
+
 Keywords: disability; inclusion; narrative; politics
