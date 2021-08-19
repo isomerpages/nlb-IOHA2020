@@ -46,7 +46,7 @@ national art history.
 Navigating through oral records of a specific group of Chinese Singaporeans termed “pioneer Nanyang/Singapore artists,” this article reveals a brief history of the Oral History Project and related institutions in Singapore, its political implications, and connection to national building, specifically in the case of the interview with Liu Kang, a renowned pioneer Nanyang artist. The classification of oral records in influences the way researchers use them, particularly with regard to Nanyang artists. Furthermore, the changing classification of Nanyang artists’ oral history materials, particularly those of Liu Kang, clearly intertwine with Singapore’s changing direction, focusing more on art and culture in  
 creating a national identity.
 
-Zou Kunyi is currently a 
+<b>Zou Kunyi</b> is currently a 
 lecturer at Department of History, Chiang Mai University, Thailand. She received her PhD in History from National University of Singapore in the year 2017. Her present research interests lie in the history of Chinese overseas in Singapore and Thailand, and history of veterinary. 
 
-Keywords: Liu Kang; Nanyang artists; Singapore nation building; Singapore oral history project
+<b>Keywords:</b> Liu Kang; Nanyang artists; Singapore nation building; Singapore oral history project
