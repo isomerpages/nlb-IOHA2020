@@ -4,7 +4,7 @@ permalink: /papers/p6b
 ---
 <b>PAPER SESSION 6
 	
-FRIDAY 27/8, 9–11am
+FRIDAY 27/8, 9–11am (UTC +8)
 	
 P6b – A Life of Listening
 Martha Norkunas (USA)</b> A Life of Listening to Stories of Struggle and Meaning
