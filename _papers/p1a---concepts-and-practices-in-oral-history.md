@@ -4,7 +4,7 @@ permalink: /papers/p1a
 ---
 <b>PAPER SESSION 1
 
-TUESDAY 24/8, 9–11am
+TUESDAY 24/8, 9–11am (UTC +8)
 
 P1a – Concepts and Practices in Oral History</b>
 
