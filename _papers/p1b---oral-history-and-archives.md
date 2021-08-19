@@ -2,6 +2,10 @@
 title: P1b – Oral History and Archives
 permalink: /papers/p1b
 ---
+PAPER SESSION 1
+
+TUESDAY 24/8, 9–11am
+
 P1b – Oral History and Archives
 
 Yang Qiumeng (China) Oral History on Safeguarding Intangible Cultural Heritage: Case Study on Intangible Cultural Heritage Bearers Documenting Project of China
