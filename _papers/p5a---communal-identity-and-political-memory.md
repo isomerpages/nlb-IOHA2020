@@ -4,7 +4,7 @@ permalink: /papers/p5a
 ---
 <b>PAPER SESSION 5
 
-THURSDAY 26/8, 9–11pm
+THURSDAY 26/8, 9–11pm (UTC +8)
 
 P5a – Communal Identity and Political Memory
 
