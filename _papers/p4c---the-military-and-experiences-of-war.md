@@ -4,7 +4,7 @@ permalink: /papers/p4c
 ---
 <b>PAPER SESSION 4
 	
-THURSDAY 26/8, 5–7pm
+THURSDAY 26/8, 5–7pm (UTC +8)
 	
 P4c – The Military and Experiences of War
 
