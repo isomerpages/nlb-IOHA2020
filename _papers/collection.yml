@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - p1a---concepts-and-practices-in-oral-history.md
+      - p1b---oral-history-and-archives.md
