@@ -57,9 +57,15 @@ Samir Ketf & Saeideh Mahrami (Iran) Smart Interview, Technology, and Solving the
 Challenges in an Interview
 
 Humans confront different sweet and bitter events during their lives. Talking about past bitter events is difficult in oral history interviews about wars. The interviewers’ trouble is reviewing and reminding all the memories of wars, fluent and without spiritual challenges for the interviewee.
+
 Iran’s nation experienced two great political, cultural and social changes during a short period of time: Islamic revolution and the eight-year war with Iraq. Each single event can be a reason to make “shock and spiritual challenge” in people.
+
 It is proved that destructive effects of war remain in the human’s mind more than other events. The anxiety caused by reminding the past bitter events is called PTSD and interviewing with the people who suffer from PTSD (Post-Traumatic Stress Disorder) or the people who have bitter memories is not an easy case because they resist reminding memories unconsciously.
+
 In this article, after studying the effects of war on Iranian fighters and injured people’s lives, we introduce a new method of interviewing which is called ”smart interview”. Using this method, the oral historian can make a better verbal communication with the narrator.
+
 In this method with recognizing oral history, psychology, electronic, the performance of mental frequencies, the five senses and their effect on memory, we have tried to reduce the effect of bitter memories especially in the field of war without blemishing interview principles of oral history and put the narrator in the best and the most relaxing possible condition to have more fluent and more reliable interviews about war facts and related events.
+
 Samir Ketf is an electrical engineer, while Saeideh Mahrami holds an MA in English language teaching. Saeideh is the representative for Asia in IOHA. Both of them have published an oral history book titled The Sun of Hesar, and have participated in oral history conferences (with article presentations) in Iran (2012), India (IOHA 2016), and Finland (IOHA 2018).
+
 Keywords: effects of war; interview; methodology; mental frequencies; oral history; PTSD; smart; technology
