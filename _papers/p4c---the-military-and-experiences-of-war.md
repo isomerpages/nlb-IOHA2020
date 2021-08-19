@@ -2,7 +2,11 @@
 title: P4c – The Military and Experiences of War
 permalink: /papers/p4c
 ---
-<b>P4c – The Military and Experiences of War
+<b>PAPER SESSION 4
+	
+THURSDAY 26/8, 5–7pm
+	
+P4c – The Military and Experiences of War
 
 Lee Geok Boi (Singapore)</b> Oral History and Conflict
 
