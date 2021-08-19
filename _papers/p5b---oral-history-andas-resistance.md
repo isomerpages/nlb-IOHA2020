@@ -2,7 +2,11 @@
 title: P5b – Oral History and/as Resistance
 permalink: /papers/p5b
 ---
-<b>P5b – Oral History and/as Resistance
+<b>PAPER SESSION 5
+	
+THURSDAY 26/8, 9–11pm
+	
+P5b – Oral History and/as Resistance
 
 Samuel Herley & Tawa Ducheneaux (USA)</b> Harmony and Disharmony: the Struggle for Freedom, Sovereignty, and Self-Determination among Native American Voices of Wounded Knee
 
