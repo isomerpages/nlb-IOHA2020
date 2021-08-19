@@ -20,10 +20,10 @@ In 2002, Singapore became perhaps the first country in the world to conserve as 
 
 <b>Keywords:</b> comfort women; Japanese; Singapore; war
 
-<b>Nermeen Al Nafra (Syria) The War on Syrian Women
+<b>Nermeen Al Nafra (Syria)</b> The War on Syrian Women
 
 The role of Syrian women has been central in the fight against extremism. This study addresses women’s narratives in their fight against extremist groups. The work presented in this study is conducted by Wathiqat Wattan, which adopts an oral history approach in order to learn about women’s suffering in their own words. This approach allows an authentic account about what happened, as we get to examine the various events through women’s lenses and through their interpretations of what happened. In addition, this paper goes beyond providing an account about women’s struggle during the Syrian fight against terrorism. In the second part, the paper draws on the implications of these events on women’s lives socially, economically, and psychologically.  As a consequence of the war, the ratio of women to men in Syria is really high and therefore women would have a central role in the process of rebuilding the shattered Syrian society. Women are critical agents in establishing and spreading social norms and ethics. This study offers insight into the most significant trends women have chosen to highlight in their narrative, and it contextualizes their experiences in order to provide constructive conclusions.
 
-Dr. Nermeen Al Nafra is the director of the “Women in Wartime” research project at Wathiqat Wattan Organization/Syria. She has an MA and PhD in Translation Studies at the University of Birmingham/UK. She is currently a Vice-dean at the Higher Institute for Translation and Interpreting at Damascus University/Syria.
+<b>Dr. Nermeen Al Nafra</b> is the director of the “Women in Wartime” research project at Wathiqat Wattan Organization/Syria. She has an MA and PhD in Translation Studies at the University of Birmingham/UK. She is currently a Vice-dean at the Higher Institute for Translation and Interpreting at Damascus University/Syria.
 
-Keywords: extremism; narrative; oral history; Syria; women
+<b>Keywords:</b> extremism; narrative; oral history; Syria; women
