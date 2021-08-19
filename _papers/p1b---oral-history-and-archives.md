@@ -4,7 +4,7 @@ permalink: /papers/p1b
 ---
 <b>PAPER SESSION 1
 
-TUESDAY 24/8, 9–11am
+TUESDAY 24/8, 9–11am (UTC +8)
 
 P1b – Oral History and Archives</b>
 
