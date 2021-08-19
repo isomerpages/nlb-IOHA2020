@@ -2,7 +2,11 @@
 title: P4d – Women in Conflict
 permalink: /papers/p4d
 ---
-<b>P4d – Women in Conflict
+<b>PAPER SESSION 4
+	
+THURSDAY 26/8, 5–7pm
+	
+P4d – Women in Conflict
 
 Christeen Schoepf (Australia)</b> One Object – Many Voices: How Oral Histories can offer New Perspectives to the Biographies of Five Hundred Women named on a World War One Roll of Honor
 
