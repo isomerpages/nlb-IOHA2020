@@ -1,12 +1,10 @@
 ---
-title: P1a – Concepts and Practices in Oral History
-permalink: /papers/p1a
+title: P1.1 – Concepts and Practices in Oral History
+permalink: /papers/p1-1
 ---
-<b>PAPER SESSION 1
+<b>PAPER SESSION 1 – TUESDAY 24 Aug, 9–11am (UTC +8)</b>
 
-TUESDAY 24/8, 9–11am (UTC +8)
-
-P1a – Concepts and Practices in Oral History</b>
+<b>P1.1 – Concepts and Practices in Oral History</b>
 
 <b>Anthonimuthu Selvam (India)</b> Oral History, Ethics and the Law
 
