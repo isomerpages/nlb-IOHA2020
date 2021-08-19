@@ -2,7 +2,11 @@
 title: P4b – Space and Place
 permalink: /papers/p4b
 ---
-<b>P4b – Space and Place
+<b>PAPER SESSION 4
+	
+THURSDAY 26/8, 5–7pm
+	
+P4b – Space and Place
 
 Hamish Sewell (Australia)</b> Location-Based Oral Histories: The New Transgressive Storied Spaces
 
