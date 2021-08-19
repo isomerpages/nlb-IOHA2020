@@ -2,10 +2,13 @@
 title: P3b – Migration and Refuge
 permalink: /papers/p3b
 ---
-<b>P3b – Migration and Refuge
-Zeila de Brito Fabri 
-
-Demartini (Brazil)</b> Children and Youth Between East and West: Japanese in São Paulo and Dekasseguis in Japan
+<b>PAPER SESSION 3
+	
+WEDNESDAY 25/8, 9–11am
+	
+P3b – Migration and Refuge
+	
+Zeila de Brito Fabri Demartini (Brazil)</b> Children and Youth Between East and West: Japanese in São Paulo and Dekasseguis in Japan
 
 We focus on the specificities experienced by the Japanese in two moments: when they came to São Paulo in the first decades of the twentieth century and when thousands of families began to migrate to work back to Japan since 1980. We privilege the oral narratives produced by immigrant subjects and their families that we obtained through interviews aimed to know the field. In the first decades of the last century, the pressure of these families for the schooling of their children was big, since they already had in Japan more structured school networks than in São Paulo, they invested primarily in the schooling of their children. Since 1908 they started an intense process of creating schools: in 1932 there were already a large number of schools (185) in the state of São Paulo and also teachers of Japanese (211) in the capital and inland. However, there was a reversal of the Japanese group in the late twentieth and early twenty-first decades, when many children and young people headed to Japan with their family, in a reverse process from earlier twentieth-century flows. From the 1980s onwards more than 200,000 Brazilian dekasseguis arrived in Japan annually. The problems of schooling of children are numerous and young people end up choosing to work, interrupting their studies and compromising a school path that would be "normal" if they had stayed in São Paulo. The priority in this flow is work and financial gain, not the educational process as a means of social ascension. In this displacement the previous social ties break and the difficulty of establishing new ones makes it difficult for children and young people to integrate both in Japan and in Brazil when they return. This back-and-forth involves life projects, cultural conflicts, family breakdowns in a continuous process of repetitive migration.
 
