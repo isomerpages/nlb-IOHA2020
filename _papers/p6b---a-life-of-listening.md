@@ -2,7 +2,11 @@
 title: P6b – A Life of Listening
 permalink: /papers/p6b
 ---
-<b>P6b – A Life of Listening
+<b>PAPER SESSION 6
+	
+FRIDAY 27/8, 9–11am
+	
+P6b – A Life of Listening
 Martha Norkunas (USA)</b> A Life of Listening to Stories of Struggle and Meaning
 
 Inspired by the American Council of Learned Society's annual lectures, "A Life of Learning" in which scholars present intellectual autobiographies, “A Life of Listening” presents three senior scholars’ reflections on their lives as oral historians: Martha Norkunas, Paula Hamilton and Indira Chowdhury. Each scholar will speak for twenty-five minutes so that they can create a meaningful life narrative about listening. Martha Norkunas’s “A Life of Listening to Stories of Struggle and Meaning” looks back on her deepening understanding of the expansiveness and limits of narrative to express profound ideas about the feelings, ideas and experiences that constitute a life history. She recounts several points of transformation in her life of listening, from her introduction to the history of daily life consciousness or les mentalités in France, to her listening to workers recount their struggles, to her decades long project to record the experiences of people of color in the U.S. Her interest in oral history began in France when she encountered it in the context of les mentalités. She returned to the U.S. to study folklore and narrative. Listening became a form of activism as she recorded the words of working class women who worked in the textile mills, and later furniture workers, looking for how they created meaning in their work, their union activities, and their communities and how they situated themselves in the great class divides and structural inequality they saw around them. Later she initiated oral history projects with African Americans as she and her students reflected on racial identity and structural racism. She began to think more about how best to teach students to listen to people who had radically different life experiences from their own and developed a series of listening exercises that profoundly changed her teaching and her practice of oral history. 
