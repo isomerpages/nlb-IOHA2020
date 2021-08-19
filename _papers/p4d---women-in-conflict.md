@@ -12,15 +12,15 @@ The unique Cheer-Up Roll of Honour was created in 1920 by local artisan Miss Bla
 
 <b>Keywords:</b> objects; war; women
 
-Kevin Blackburn (Singapore) The Missing Voices of the Comfort Women of Singapore in History and Memory
+<b>Kevin Blackburn (Singapore)</b> The Missing Voices of the Comfort Women of Singapore in History and Memory
 
 In 2002, Singapore became perhaps the first country in the world to conserve as heritage a former comfort station from the Japanese Occupation. Yet it is also the only country where comfort women were sexually enslaved by the Japanese military in World War II but there is no oral history testimony at all from any local women who were comfort women. Most oral history testimony about the comfort women of Singapore comes from accounts of local people who remember seeing them, not former comfort women themselves. While there is no known account by a local woman, there is scattered  and brief testimony from Korean women who were brought to Singapore, such as Kim Bok-dong, who passed away in Seoul at the beginning of 2019 aged 92. Memories of the experiences of the comfort women in Singapore during the Japanese Occupation illustrate the contradictions in remembering women’s experiences during war as transnational history. For some nation-states, remembering the abuses of the human rights of women in sexual enslavement during war does not easily fit into official national narratives. Often these abuses of the human rights of women tend to be transnational. They produce what appear to be contradictory responses from nation-states. What role have the comfort women played in history and memory in Singapore?
 
-Kevin Blackburn is an Associate Professor in History at the National Institute of Education, Nanyang Technological University, Singapore. He has co-authored with Karl Hack, Did Singapore Have to Fall? (Routledge, 2004) and War Memory and the Making of Modern Malaysia and Singapore (NUS Press, 2012).
+<b>Kevin Blackburn</b> is an Associate Professor in History at the National Institute of Education, Nanyang Technological University, Singapore. He has co-authored with Karl Hack, Did Singapore Have to Fall? (Routledge, 2004) and War Memory and the Making of Modern Malaysia and Singapore (NUS Press, 2012).
 
-Keywords: comfort women; Japanese; Singapore; war
+<b>Keywords:</b> comfort women; Japanese; Singapore; war
 
-Nermeen Al Nafra (Syria) The War on Syrian Women
+<b>Nermeen Al Nafra (Syria) The War on Syrian Women
 
 The role of Syrian women has been central in the fight against extremism. This study addresses women’s narratives in their fight against extremist groups. The work presented in this study is conducted by Wathiqat Wattan, which adopts an oral history approach in order to learn about women’s suffering in their own words. This approach allows an authentic account about what happened, as we get to examine the various events through women’s lenses and through their interpretations of what happened. In addition, this paper goes beyond providing an account about women’s struggle during the Syrian fight against terrorism. In the second part, the paper draws on the implications of these events on women’s lives socially, economically, and psychologically.  As a consequence of the war, the ratio of women to men in Syria is really high and therefore women would have a central role in the process of rebuilding the shattered Syrian society. Women are critical agents in establishing and spreading social norms and ethics. This study offers insight into the most significant trends women have chosen to highlight in their narrative, and it contextualizes their experiences in order to provide constructive conclusions.
 
