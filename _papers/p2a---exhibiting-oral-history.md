@@ -2,13 +2,13 @@
 title: "P2a – Exhibiting Oral History "
 permalink: /papers/p2a
 ---
-PAPER SESSION 2
+<b>PAPER SESSION 2
 
 TUESDAY 24/8, 5–7pm
 
-P2a – Exhibiting Oral History 
+P2a – Exhibiting Oral History</b>
 
-Esther Johnson (UK) SHIPS in the SKY: Connecting People to People, and People to Place through Untold Social Histories
+<b>Esther Johnson (UK)</b> SHIPS in the SKY: Connecting People to People, and People to Place through Untold Social Histories
 
 This paper looks at the research methodology and ﬁndings of SHIPS in the SKY by Shefﬁeld Hallam University Professor of Film and Media Arts Esther Johnson. 
 
@@ -28,11 +28,11 @@ This presentation will include audio/film clips to discuss:
 
 •	The testing of novel methodologies to create an extended understanding of social histories
 
-Esther Johnson (MA, Royal College of Art) works at the intersection of artist film and documentary. Her poetic portraits focus on alternative social histories and the relationship between archival material, memory and storytelling. She is particularly interested in neglected and marginal stories that may otherwise remain hidden or ignored. Recurring themes include heritage, tradition, folklore, regeneration, and exploration of architectural vernaculars and the inhabited environment. Work has broadcast on television and radio, and exhibited internationally in 40+ countries including at BFI London Film Festival; CPH:Dox, Copenhagen; ICA, London; NASA, California; International Documentary Film Festival Amsterdam; Istanbul Biennial; SXSW, and Tate galleries. Esther is a former recipient of the prestigious Philip Leverhulme Research Prize in Performing & Visual Arts and is Professor of Film and Media Arts at Sheffield Hallam University, UK. Her current feature film DUST & METAL is in production in Vietnam and supported by the British Council. Her Twitter handle is @BlanchePictures, while her Instagram handle is @Blanche_Pictures.
+<b>Esther Johnson</b> (MA, Royal College of Art) works at the intersection of artist film and documentary. Her poetic portraits focus on alternative social histories and the relationship between archival material, memory and storytelling. She is particularly interested in neglected and marginal stories that may otherwise remain hidden or ignored. Recurring themes include heritage, tradition, folklore, regeneration, and exploration of architectural vernaculars and the inhabited environment. Work has broadcast on television and radio, and exhibited internationally in 40+ countries including at BFI London Film Festival; CPH:Dox, Copenhagen; ICA, London; NASA, California; International Documentary Film Festival Amsterdam; Istanbul Biennial; SXSW, and Tate galleries. Esther is a former recipient of the prestigious Philip Leverhulme Research Prize in Performing & Visual Arts and is Professor of Film and Media Arts at Sheffield Hallam University, UK. Her current feature film DUST & METAL is in production in Vietnam and supported by the British Council. Her Twitter handle is @BlanchePictures, while her Instagram handle is @Blanche_Pictures.
 
-Keywords: archive; architecture; artist moving image; cooperative movement; documentary; nightclubs; oral testimonies; public art; social history
+<b>Keywords:</b> archive; architecture; artist moving image; cooperative movement; documentary; nightclubs; oral testimonies; public art; social history
 
-Kanako Sasaki (Japan) Revitalizing and Reconstructing the Town of Namie by Archiving Memories: Introducing the Digital Calendar NAMIE HOURS
+<b>Kanako Sasaki (Japan)</b> Revitalizing and Reconstructing the Town of Namie by Archiving Memories: Introducing the Digital Calendar NAMIE HOURS
 
 Fukushima evacuees from the nuclear explosion in 2011 have been oppressing their own voice to speak about their lives, because of the stigmatization of being an evacuee. Many of their stories and voices are stored away and forgotten. This artistic project aims to provide a place where they can feel at home and are securely able to express their own voice, as well as to hand over local stories permanently to the next generation by introducing artistic expression. 
 
@@ -40,16 +40,16 @@ This project is designed around a web calendar that can upload a photograph with
 
 We organised a photography workshop to create photographic work. We conducted four sessions: introducing art in photography, poetics in photography and building personal stories. At the last session, we exchanged works and stories. This project shows how oral history can be shown in visual media, which can communicate deeply and can be more inspirational. 
 
-Kanako Sasaki is an assistant professor at Tohoku University, Japan. Currently archiving memories of Namie in various media, she has been involved in the community since 2011. The project may be found at https://namiehours.net. 
+<b>Kanako Sasaki</b> is an assistant professor at Tohoku University, Japan. Currently archiving memories of Namie in various media, she has been involved in the community since 2011. The project may be found at <a href="https://namiehours.net">https://namiehours.net</a>. 
 
-Keywords: archive system; artistic expression; Fukushima; photographs; stories
+<b>Keywords:</b> archive system; artistic expression; Fukushima; photographs; stories
 
-Lu Wenshi (Singapore) The Times of Unrest: Bridging the Gaps
+<b>Lu Wenshi (Singapore)</b> The Times of Unrest: Bridging the Gaps
 
 This presentation covers the importance of oral history in engaging audience in historical sites associated with the times of unrest. Drawing examples from significant sites of Southeast Asia, the session would highlight the role of oral history as a primary source to bridge the gaps in the curation process, as well as how it enhances audience experience during their visit to the sites. The case studies covered in this presentation would be beneficial to oral history practitioners and heritage professionals who intend to curate an exhibition or a trail that weaves in oral history accounts.
 
-Lu Wenshi is the Manager/Archives Services at the National Archives of Singapore (NAS). Formerly an Oral History Specialist with the NAS’ Oral History Centre, and being the project manager for the revamp of the Former Ford Factory exhibition “Surviving the Japanese Occupation: War and its Legacies”, she sees the importance of oral history not just in filling in gaps in historical information, but also to engage audience by appealing to their hearts through oral history interviews. 
+<b>Lu Wenshi</b> is the Manager/Archives Services at the National Archives of Singapore (NAS). Formerly an Oral History Specialist with the NAS’ Oral History Centre, and being the project manager for the revamp of the Former Ford Factory exhibition “Surviving the Japanese Occupation: War and its Legacies”, she sees the importance of oral history not just in filling in gaps in historical information, but also to engage audience by appealing to their hearts through oral history interviews. 
 
 Wenshi is a traveller by passion, who has a keen interest in Indochina. Having been to the sites of turbulent histories in Cambodia and Vietnam, and hearing first-hand accounts of war veterans, she believes in the importance of oral history when it comes to the curation of exhibitions and stories.
 
-Keywords: curate; exhibition; trail; war
+<b>Keywords:</b> curate; exhibition; trail; war
