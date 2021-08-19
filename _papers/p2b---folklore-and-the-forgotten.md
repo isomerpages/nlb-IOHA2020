@@ -2,7 +2,11 @@
 title: P2b – Folklore and the Forgotten
 permalink: /papers/p2b
 ---
-<b>P2b – Folklore and the Forgotten
+<b>PAPER SESSION 2
+
+TUESDAY 24/8, 5–7pm
+
+P2b – Folklore and the Forgotten
 
 Lynn Wong (Singapore)</b> Singapore’s Forgotten Seven Sisters’ Festival
 
