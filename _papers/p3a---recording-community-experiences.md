@@ -3,24 +3,41 @@ title: P3a – Recording Community Experiences
 permalink: /papers/p3a
 ---
 PAPER SESSION 3
+
 WEDNESDAY 25/8, 9–11am
-P3.1 – Recording Community Experiences
+
+P3a – Recording Community Experiences
+
 Benjamin Ho (Singapore) Collecting Oral History with the Community; from the Community
+
 Singapore is a multi-ethnic society. Most residents are of Chinese, Malay, Indian and Eurasian descent. In 2017, Oral History Centre (OHC) embarked on an initiative to partner members from the Chinese, Malay, Indian and Eurasian communities to collect their respective community-specific oral histories.
+
 OHC implemented a strategy of partnering key members of the communities in the form of Chinese, Malay, Indian and Eurasian Community Oral History Committees. These committees, working closely with OHC, ensure that the gaps in community-specific oral history are filled and the contents representative of Singapore’s ethnic diversity. 
+
 A sizable number of interviews of more than a hundred were conducted. The topics discussed are broad-ranging and many include the interviewees’ involvement in their community-specific institutions. Interviewees come from diverse fields such as the arts, business, education, sports, and media.
+
 This presentation aims to share the learning points in the journey of partnering with the community in collecting oral history. OHC’s roles in this journey involve consultancy work, training, logistical and administrative support. This is of interest to oral history practitioners who are currently managing or intending to start community-based oral history projects. 
+
 Benjamin Ho is a Specialist at the Oral History Centre, National Archives of Singapore (NAS). He has conducted oral history interviews on the political history of Singapore, the public service, education and urban planning. He conducts training in oral history methodology and partners the community in collecting oral history. Prior to joining NAS, he taught history for several years. He firmly believes in making oral history accessible to everyone.
+
 Keywords: community; oral history; partnerships
 
 Anitha Devi Pillai (Singapore) Autobiographic Narratives of the Malayalee Community in Singapore
-This talk describes a research study on the Malayalee community in Singapore using autobiographic narrative as a primary methodological framework. Malayalees are South Indians from the state of Kerala and speak Malayalam. In Singapore, they are the second largest Indian sub-community after the Tamils 
+
+This talk describes a research study on the Malayalee community in Singapore using autobiographic narrative as a primary methodological framework. Malayalees are South Indians from the state of Kerala and speak Malayalam. In Singapore, they are the second largest Indian sub-community after the Tamils.
+
 The aim of the study was to identify literacy and cultural practices as well as document migration experiences of the Malayalee community. The talk will include key findings of the research study focusing on the community’s culture and literacy practices.  
+
 As this was a maiden venture into documenting the Malayalee community in Singapore, autobiographic narrative was selected as the primary medium of data collection. “Oral history often focuses on just one theme, or one phase in a life” (Thompson, 2017, p.8), but oral history interviews that are conducted over an extended period of time, also serve as life stories or autobiographic narratives, which “allow (greater) insights into a person’s private world, making them both unique and appealing” (Pauwels, 2016, p. 78). 
+
 In this study, interviews were conducted with 130 Malayalees from the ages of 21 to 82 between 2014 to 2016. The interviewees’ narratives were documented, their ancestors’/parents’ migration patterns to Singapore from Kerala were described and the community’s oral and literacy practices were analyzed. These interviews were supported by two other types of data, namely cultural artifacts (newspaper articles, documents and memorabilia collected from the community) and participant observations. Bearing in mind that written autobiographic narratives are powerful artefacts of people’s memories and life experiences, these interviews were then written up as mini biographies and published as a book, titled From Kerala to Singapore: Voices from the Singapore Malayalee Community (2017).
+
 The talk also examines the challenges and the benefits of using autobiographic narrative as a methodological framework. 
+
 Dr Anitha Devi Pillai is an applied linguist and a teacher-educator at National Institute of Education, Nanyang Technological University (Singapore). She was the Principal Investigator of the ‘Singapore Malayalee Story’ which was supported by National Heritage Board (Singapore). The findings have been disseminated via a book, journal articles, chapters and keynote addresses. Currently, she is a committee member of the Indian Community Oral History Committee (ICOHC). 
-Keywords: autobiographic narrative; community; oral history; Malayalee
+
+Keywords: autobiographic 
+narrative; community; oral history; Malayalee
 
 Arlete Assumpção Monteiro (Brazil) Encajeras y oralidad: Playa del Sambaqui, Santa Catarina, Brasil [in Spanish]
 El litoral atlántico del Estado de Santa Catarina, Brasil, fue poblado por portugueses continentales y de las Islas del Archipiélago de los Azores. En 1739, la Corona portuguesa creó la Capitanía de Santa Catarina, la separó de São Paulo. De 1747 a 1753 embarcaron cerca de 6 mil hombres, mujeres y niños de la Isla Tercera y otras del archipiélago con destino al sur de Brasil. Las familias fueron distribuidas en la Isla de Santa Catarina y en la parte continental do litoral catarinense. En 22 de enero de 1808, la Corte Portuguesa transfirió su sed para Brasil. Don João VI, preocupado con las fronteras brasileñas envió una expedición al sur de Brasil, con la misión de elegir un local para que se fundara una colonia de pescadores, según aquellas existentes en Portugal. La Enseada de las Garoupas fue este local elegido para la fundación de dicha Colonia. En 1818, la Galera Conde de Peniche aportó en Rio de Janeiro con varias familias portuguesas, acompañadas de un cura, un boticario y un calafate que fueron llevados a la Enseada, para la Fundación de la Colonia de Nova Ericeira, hoy Porto Belo, Bombiñas, Camboriú y otros municipios. La presente investigación está centrada en las mujeres que tejen hilos, pinchan alfileres, puntean bilros y transforman los hilos en rentas, en el distrito de Santo Antonio de Lisboa, en el Barrio y Playa del Sambaqui, en la Isla de Santa Catarina, litoral atlántico sur brasileño. La metodología utilizada privilegió los testimonios orales. Las encajeras hoy son guardianas de la cultura local, pues participan de la danza del Palo de Cinta, de la cantoría del Buey de Mamão, de la danza de la Peneira.  En Portugal, hacer rentas de bilros es una tradición mantenida en el Distrito de Peniche, localizado en el litoral portugués y próximo de la Ericeira. El saber de las encajeras de la Playa del Sambaqui y comunidades próximas, tuvo su origen en la región de Peniche, Portugal, tradición que se transformó en verdadera herencia social.
