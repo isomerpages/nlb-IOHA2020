@@ -3,19 +3,31 @@ title: P5a – Communal Identity and Political Memory
 permalink: /papers/p5a
 ---
 PAPER SESSION 5
+
 THURSDAY 26/8, 9–11pm
-P5.1 – Communal Identity and Political Memory
+
+P5a – Communal Identity and Political Memory
+
 Alessandro Porrà (Italy) The Jewish Community of Istanbul and the Neo-Ottoman and Republican Nostalgia
+
 In the last two decades Turkey has witnessed a massive and unexpected wave of memory practices and discourses in relation to the Ottoman Empire which have generated a nostalgia for a "lost" Ottoman cosmopolitanism, seen as a sort of lost “Golden Age”.
+
 Considering that many historians also appraise the Ottoman Empire as a sort of “Golden Age” for the Turkish Jews, my research wants to verify if the Turkish Jews may share this “Neo-Ottoman Nostalgia” or, on the contrary, they may feel more connected to their Republic past, in particular to the building years of the Republic, years that deeply shaped the relationship between minorities and the Turkish state and society.
+
 The conceptual framework of the research rests on the historical analysis of the “Pros” and the “Cons” of having been a Jew in the Ottoman Empire and in the Turkish Republic, on the comparison of the obtained data, on the understanding if the actors may feel nostalgia for one of those periods, or, in reverse, a rejection of it.
+
 The method chosen for the research is "Oral History", because, as A. Portelli says, it is “a perfect tool to study how the past is read, interpreted and lived in the present”. Indeed, Oral History focuses on personal testimonies, gathered through interviews of the actors involved in a given historical process and helps to understand how individuals and communities experienced the forces of history.
+
 The collection of this information will take place through the use of semi-structured interviews, an approach that allows researchers to prepare questions ahead of time and grants informants the freedom to express their views in their own terms, and employing Fritz Schütze’s auto-biographical method.
+
 Once the cycle of interviews will be completed, the collected data will be examined, studied, interpreted and placed in a precise historical context in order to formulate an interpretative method capable to assess whether the dynamics driving the Turkish society influence the Jewish identity of the interviewees, and what is their perception of the wave of nostalgia for Ottoman cosmopolitanism that currently runs through Turkish society.
+
 Alessandro Porrà is a PhD student at the Department of Political and Social Science at University of Cagliari, Italy. His doctoral research focuses on the Jewish community of Istanbul after the foundation of the Turkish Republic in 1923.
+
 Keywords: Istanbul; Levantine Jews; nostalgia; Ottoman Empire; Turkish Republic
 
 Lenka Krátká (Czech Republic) The Same, Yet Different: Memoirs of Czechoslovak Seafarers and Bargees about their Lives in the Socialist Times
+
 The paper is embedded in a wider topic of business trips from Czechoslovakia abroad during the times of the communist regime – a period from the communist revolution in 1948 to the Velvet Revolution in 1989. Because of strictly guarded borders and limited travel opportunities in the people’s democracy and later socialist Czechoslovakia, business trips brought a relatively exceptional opportunity to visit foreign countries, experience exceptional freedom or adventure, to earn foreign currency and use it for buying foreign goods, perceived as luxurious at that time.
 Because of the inland position of former Czechoslovakia, two occupations were even more exceptional in this sense – seafarers and river bargees. Using more than three dozen of oral history interviews, the paper aims at various strategies of remembering the past by the men involved in the jobs. As an introduction, the author will bring a short description of those transport businesses running. Then, some specifics of the jobs (for example, a chance to emigrate, partner’s and family life, financial issues, working skills, smuggling, loyalty towards the communist regime) will be followed with the main aim to interpret a different way of (re)construction of the past in these two groups of men working abroad. Finally, the author will concentrate on narrators’ effort to preserve an idealized image of men working on Czechoslovak ships and barges. At this point, significant differences in men’s memoirs can be traced.
 Lenka Krátká is a researcher at the Institute of Contemporary History of the Czech Academy of Sciences. Her main research interests cover economic and social history of Czechoslovakia after WWII, and corporate culture development. She also works as a part-time lecturer in oral history methodology at Charles University.
