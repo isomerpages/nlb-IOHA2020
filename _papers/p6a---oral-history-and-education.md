@@ -4,7 +4,7 @@ permalink: /papers/p6a
 ---
 <b>PAPER SESSION 6
 
-FRIDAY 27/8, 9–11am
+FRIDAY 27/8, 9–11am (UTC +8)
 
 P6a – Oral History and Education
 
