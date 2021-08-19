@@ -2,7 +2,11 @@
 title: P5c – Disaster and Trauma
 permalink: /papers/p5c
 ---
-<b>P5c – Disaster and Trauma
+<b>PAPER SESSION 5
+	
+THURSDAY 26/8, 9–11pm
+	
+P5c – Disaster and Trauma
 
 Hasmik Grigoryan (USA)</b> The Mechanisms of Intergenerational Transmission of Memory: Remembering the Armenian Genocide through Oral Stories
 
