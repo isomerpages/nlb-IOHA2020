@@ -2,14 +2,15 @@
 title: P4d – Women in Conflict
 permalink: /papers/p4d
 ---
-P4d – Women in Conflict
-Christeen Schoepf (Australia) One Object – Many Voices: How Oral Histories can offer New Perspectives to the Biographies of Five Hundred Women named on a World War One Roll of Honor
+<b>P4d – Women in Conflict
+
+Christeen Schoepf (Australia)</b> One Object – Many Voices: How Oral Histories can offer New Perspectives to the Biographies of Five Hundred Women named on a World War One Roll of Honor
 
 The unique Cheer-Up Roll of Honour was created in 1920 by local artisan Miss Blanche Francis and contains the names of five hundred women who worked regularly at the Cheer-Up Hut in Adelaide, South Australia, for the duration of WW1. A forthcoming publication reveals the collective story of this group of women through the lens of the biographies, genealogies, and social narratives of each woman. Oral histories, however, have given them a voice and made them real, no longer mere names on a board or a document. Through them we can hear patriotic sentiments, laughter, apprehension and inevitably sorrow. This is due to the seminal research of oral historian Beth Robertson who in 1979 recorded the memories of thirty-nine South Australian women for her South Australian Women’s Responses to the First World War research project (SLSA OH 31). Several of them were workers at the Cheer-Up Hut while others had definitive opinions on those women who volunteered to work there. Like the women of the Cheer-Up Society, the women in Robertson’s cohort were demographically diverse, ranging in age from girls as young as fourteen to older married women in their thirties. Robertson also interviewed women who were teachers, army nurses, clerks, secretaries, students, and housewives throughout the war making these oral histories significant as a comparative tool. This paper seeks to present just some of the additional layers the revisiting of Robertson’s now thirty-five-year-old project has provided to the individual and collective narrative of the Cheer-Up Society and the women, a century after formation. This paper will further reveal how one object such as the Cheer-Up Roll of Honor can be the protagonist that brings together many previously silent voices relating stories of women’s work during war.
 
-Christeen Schoepf is a Historical Archaeologist and author who uses cross disciplinary methodologies including genealogy, biography, prosopography and oral history to reveal the stories of objects and the people who made, used and discarded them. She facilitates oral history and genealogy workshops, creates exhibitions, and speaks internationally on her work.
+<b>Christeen Schoepf</b> is a Historical Archaeologist and author who uses cross disciplinary methodologies including genealogy, biography, prosopography and oral history to reveal the stories of objects and the people who made, used and discarded them. She facilitates oral history and genealogy workshops, creates exhibitions, and speaks internationally on her work.
 
-Keywords: objects; war; women
+<b>Keywords:</b> objects; war; women
 
 Kevin Blackburn (Singapore) The Missing Voices of the Comfort Women of Singapore in History and Memory
 
