@@ -1,0 +1,42 @@
+---
+title: P2.3 – Voices and Texts
+permalink: /papers/p2-3
+---
+<b>PAPER SESSION 2 - TUESDAY 24/8, 5–7pm (UTC +8)</b>
+
+<b>P2.3 – Voices and Texts</b>
+
+<b>Simona Sarma (India)</b> Dissonance in Oral History: Is There an Authentic Past?  
+
+<ul>Oral history teaches us that the past is constantly in flux. Through the medium of art forms, especially folk forms like folk music, folk dances and folk art, one can gauge at the politics of “orality” in detail. The very fact of it being oral makes it a form that can change with people’s perceptions such that one can locate the diverse ways people make sense of history itself. In this paper, by looking at Goalpariya folk music of Assam, India, and its various facets, I have tried to critically analyse how there is both a ‘political’ as well as an ‘aesthetic’ construction of the past through the folk form. This construction of the past deconstructs the conventional notion of “folk” as a neutral, static, historically continuous, and an unproblematic concept. The criticality with regards to folk music has been largely derived from the persistent discussions on the “authenticity question” that surfaced during my fieldwork. Basing my research on the methodological framework of ethnomusicology, my focus is both on the songs as well as the context from which the songs have originated (along with the myriad discussions surrounding the folk). Through in-depth interviews with several stakeholders associated with the folk form, I have made an attempt to draw the interconnections and linkages of folk music with the themes of identity assertion, tradition, authenticity, dissonance in oral history, and overall dynamism inherent within the concept of folk. Especially with the changing global cultural economy, the call for a “pure folk,” points towards an inherent politics that surrounds folk music. What is defined as “traditional” is therefore constantly in flux. The multiple positionalities that get constituted through oral history brings forth the politics of authenticity with respect to how, what, and who of the folk form.</ul> 
+
+<ul><b>Simona Sarma</b> is a PhD Research Scholar at the Advanced Centre for Women’s Studies, Tata Institute of Social Sciences (TISS), Mumbai. She may be reached at <a href="mailto:simona.sarma@gmail.com">simona.sarma@gmail.com</a>.</ul> 
+
+<ul><b>Keywords:</b> Assam; folk music; globalisation; pastness; politics of authenticity</ul>
+
+<b>Sukrity Gogoi (India) </b>Spoken Word Poetry Performances: Narratives from the Stage and Cyber Space
+
+<ul>Tracing the history of spoken word poetry culture, this paper will explore how ‘popular’ cultural art forms resonate with existing oral traditions in India – its shifts and continuities. From its emergence in the working class revolution in the American context, spoken word poetry has metamorphosed into ‘open mic’ live events and curated shows in Indian city spaces. This paper is based on an ethnographic study undertaken in Mumbai whereby in-depth interviews were conducted with performance poets of spoken word poetry. Drawing from the personal trajectories of the spoken word artists, it will throw light upon the “hybridity” of spoken word as an art form. With its ever-growing presence through ‘open mic’ events and performance poetry videos on the cyber space, it has formed a niche of its own. Moreover, the experiences of male and female poets (and curators) are very different in the digital platforms with regard to audience reception.</ul>
+
+<ul>This paper will also explore the question of representation, identity and language on the performance stage. From being a “close-knit” community of poets to its present form of commercialization, where brand collaborations take place, it becomes imperative to delve deeper and question how the community building practices have evolved. In its contemporary format, the poet performer engages with a live audience while performing one’s poetry. This art of uninhibited story-telling is an act of resistance which has created a ‘carnivalesque space’ to express. Yet, it also leads to inclusions and exclusions of certain voices. It becomes imperative then to study this cultural phenomenon to understand and debunk the hierarchies within the poetry community.</ul>
+
+<ul><b>Sukrity Gogoi</b> is a PhD Research Scholar at the Advanced Centre for Women’s Studies, Tata Institute of Social Sciences (TISS), Mumbai. She completed her M.Phil. from TISS, Mumbai and her Master’s degree in English Literature from University of Delhi. Her research interests are in performance and theatre, gender studies, art and culture.</ul> 
+
+<ul><b>Keywords:</b> cyberspace; gender; performance art; spoken word poetry; urban culture</ul>
+
+<b>Stephanie Anderson, Momoko Mandere, Zainab Farooqui, & Tess Redman (China)</b> Student Researchers and *Spies in the Audience*
+
+<ul>*Spies in the Audience* is a collection of interviews with women who were actively engaged with small-press publishing between the 1950s and 1980s. It comes from a desire not only to preserve these accounts but also to draw attention to the vital role of women editors and publishers in the mimeograph revolution and beyond. Recent writings and curatorial work have underscored the importance of small press publications in these decades, but women are still often underrepresented in these accounts. This research further illuminates the formative work done by women in partnership with male editors and on their own. The women editors and publishers in this project contributed to and stretched the perceived boundaries of schools and movements, including geographically disparate scenes from New York to Mexico City to Vancouver, whether focused on poetry or feminist collectivity. During these years “poems were bouncing off the sidewalk,” as Maureen Owen says. Spies in the Audience is a timely and urgent documentation of literary and social history.</ul> 
+
+<ul>This presentation gives a brief overview of the genesis and editing of Spies in the Audience, an interview project now spanning ten years. Then Dr. Anderson’s summer research students at Duke Kunshan University, who are involved in curating archival components of the project and designing a digital humanities website (“An Archive of Spies in the Audience”), will present key aspects of their research, including the sociality of the poetry scenes, their own interview work, website design challenges, and so 
+forth.</ul>
+
+<ul><b>Stephanie Anderson (pronouns she/her)</b> is the author of three books of poetry and assistant professor of American Literature at Duke Kunshan University. Her scholarly articles have appeared or are forthcoming in LIT: Literature Interpretation Theory, nonsite.org, and The Life and Work of Larry Eigner. Her book of interviews with women in small press publishing, Spies in the Audience, is forthcoming.</ul> 
+
+<ul><b>Momoko Mandere (pronouns she/her)</b> is a rising senior at Duke Kunshan University majoring in Media and Arts. Her interests include children’s media, literature, and cultural development. In the past she has worked at the Kunshan Digital Archive, a Digital Humanities project focused on curating works that document the history and contemporary life of the city of Kunshan.</ul> 
+
+<ul><b>Zainab Farooqui (pronouns she/her)</b> is from Lahore, Pakistan. She is a rising junior and a Global Cultural Studies Major at Duke Kunshan University. In the past, she has written a literary article for a team based research project on Clarice Lispector’s “The Hour of the Star,” which is in press at a major Portuguese literature magazine. She is currently researching on Stephanie Anderson’s Project “An Archive of Spies in the Audience,” where she is focusing on project components regarding the elements of the publishing process and the necessity of community in producing a physical magazine.</ul> 
+
+<ul><b>Tess Redman (pronouns she/her)</b> is a rising sophomore at Duke Kunshan University, major undeclared. Her research experience consists of independent research project on islet transplantation as a method of treating or potentially curing Type 1 Diabetes. “An Archive of Spies in the Audience” is her first foray into team-based humanities research. Her personal academic interest aligns with the “Self-Publishing: Then & Now” section of the project: how the sharing of poetry and literature has evolved since the mid-20th century.</ul>
+
+<ul><b>Keywords:</b> archive; interview; poetry; publishing</ul>
