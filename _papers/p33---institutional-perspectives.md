@@ -2,11 +2,9 @@
 title: P3.3 – Institutional Perspectives
 permalink: /papers/p3c-institutional-perspectives
 ---
-
-
 <b>PAPER SESSION 3 - WEDNESDAY 25/8, 9–11am (UTC +8)</b>
 	
-<b>P3.3 – Institutional Perspectives</b>
+<b>P3.3 – Institutional Perspectives
 
 Kevin Khoo (Singapore)</b> ‘Are Oral History Professionals Needed?’: Operating an Oral History Centre in Singapore 2021
 
