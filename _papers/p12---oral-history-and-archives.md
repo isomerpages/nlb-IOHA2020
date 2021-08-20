@@ -1,7 +1,8 @@
 ---
 title: P1.2 – Oral History and Archives
-permalink: /papers/p1-2
+permalink: /papers/p1-2-oral-history-archives
 ---
+
 <b>PAPER SESSION 1 – TUESDAY 24/8, 9–11am (UTC +8)</b>
 
 <b>P1.2 – Oral History and Archives</b>

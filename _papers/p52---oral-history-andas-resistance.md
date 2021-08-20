@@ -1,7 +1,9 @@
 ---
 title: P5.2 – Oral History and/as Resistance
-permalink: /papers/p5-2
+permalink: /papers/p5-2-oral-history-andas-resistance
 ---
+
+
 <b>PAPER SESSION 5 - THURSDAY 26/8, 9–11pm (UTC +8)</b>
 	
 <b>P5.2 – Oral History and/as Resistance</b>

@@ -1,7 +1,8 @@
 ---
 title: P6.2 – A Life of Listening
-permalink: /papers/p-2
+permalink: /papers/p6-2-life-of-listening
 ---
+
 <b>PAPER SESSION 6 - FRIDAY 27/8, 9–11am (UTC +8)</b>
 	
 <b>P6.2 – A Life of Listening</b>

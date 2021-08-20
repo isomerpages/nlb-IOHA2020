@@ -1,7 +1,8 @@
 ---
 title: P3.2 – Migration and Refuge
-permalink: /papers/p-2
+permalink: /papers/p-2-migration-refuge
 ---
+
 <b>PAPER SESSION 3 - WEDNESDAY 25/8, 9–11am (UTC +8)</b>
 	
 <b>P3.2 – Migration and Refuge</b>

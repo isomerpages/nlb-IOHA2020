@@ -1,7 +1,8 @@
 ---
 title: P3.1 – Recording Community Experiences
-permalink: /papers/p3-1
+permalink: /papers/p3-1-recording-community-experiences
 ---
+
 <b>PAPER SESSION 3 - WEDNESDAY 25/8, 9–11am (UTC +8)</b>
 
 <b>P3.1 – Recording Community Experiences</b>

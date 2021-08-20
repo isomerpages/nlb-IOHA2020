@@ -1,7 +1,8 @@
 ---
 title: P4.3 – The Military and Experiences of War
-permalink: /papers/p-3
+permalink: /papers/p4-3-military-experiences-war
 ---
+
 <b>PAPER SESSION 4 - THURSDAY 26/8, 5–7pm (UTC +8)</b>
 	
 <b>P4.3 – The Military and Experiences of War</b>

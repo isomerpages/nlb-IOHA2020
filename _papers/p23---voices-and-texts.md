@@ -1,7 +1,8 @@
 ---
 title: P2.3 – Voices and Texts
-permalink: /papers/p2-3
+permalink: /papers/p2-3-voices-text
 ---
+
 <b>PAPER SESSION 2 - TUESDAY 24/8, 5–7pm (UTC +8)</b>
 
 <b>P2.3 – Voices and Texts</b>

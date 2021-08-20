@@ -1,7 +1,8 @@
 ---
 title: P4.4 – Women in Conflict
-permalink: /papers/p4-4
+permalink: /papers/p4-4-women-conflict
 ---
+
 <b>PAPER SESSION 4 - THURSDAY 26/8, 5–7pm (UTC +8)</b>
 	
 <b>P4.4 – Women in Conflict</b>

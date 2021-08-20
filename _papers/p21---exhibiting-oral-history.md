@@ -1,7 +1,8 @@
 ---
 title: "P2.1 – Exhibiting Oral History "
-permalink: /papers/p2-1
+permalink: /papers/p2-1-exhibiting-oral-history
 ---
+
 <b>PAPER SESSION 2 – TUESDAY 24/8, 5–7pm (UTC +8)</b>
 
 <b>P2.1 – Exhibiting Oral History</b>
