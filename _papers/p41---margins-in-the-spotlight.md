@@ -50,7 +50,7 @@ permalink: /papers/p4-1-margins-spotlight
 
 <ul><b>Keywords:</b> community; COVID-19; culture; South African Indian</ul>
 
-<b>David Beorlegui (Spain) </b>Investigación Colaborativa y Desarrollo Comunitario: El projecto Memorias del Futuro-Voces de Portobelo [Collaborative Research and Community Development: the project Memorias del Futuro-Voces de Portobelo] <b>[in Spanish]</b>
+<b>David Beorlegui (Spain) </b>Investigación Colaborativa y Desarrollo Comunitario: El projecto Memorias del Futuro-Voces de Portobelo [Collaborative Research and Community Development: the project Memorias del Futuro-Voces de Portobelo] <b><i>[in Spanish]</i></b>
 
 <ul>El objetivo de esta comunicación es abordar la construcción de un Archivo Digital de Memoria de Afrodescendientes en Portobelo, Panamá. El archivo forma parte de un proyecto más amplio denominado “Memorias del Futuro: Voces de Portobelo”, que tiene como principales objetivos el reconocimiento, empoderamiento y visibilidad de las personas afropanameñas y la inclusión de su experiencia histórica en el currículo escolar del país. El texto se detiene a analizar los principales hitos del proyecto y el modo de afrontar las tensiones inherentes a la realización de entrevistas, poniendo un énfasis especial en la buena práctica de la historia oral y los aprendizajes que se derivan de ella.</ul> 
 
