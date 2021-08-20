@@ -2,22 +2,22 @@ collections:
   papers:
     output: true
     order:
-      - p1a---concepts-and-practices-in-oral-history.md
-      - p1b---oral-history-and-archives.md
-      - p2a---exhibiting-oral-history.md
-      - p2b---folklore-and-the-forgotten.md
-      - p2c---voices-and-texts.md
-      - p3a---recording-community-experiences.md
-      - p3b---migration-and-refuge.md
-      - p3c---institutional-perspectives.md
-      - p4a---margins-in-the-spotlight.md
-      - p4b---space-and-place.md
-      - p4c---the-military-and-experiences-of-war.md
-      - p4d---women-in-conflict.md
-      - p5a---communal-identity-and-political-memory.md
-      - p5b---oral-history-andas-resistance.md
-      - p5c---disaster-and-trauma.md
-      - p6a---oral-history-and-education.md
-      - p6b---a-life-of-listening.md
+      - p1-1-concepts-and-practices-in-oral-history.md
+      - p1-2-oral-history-and-archives.md
       - p11---concepts-and-practices-in-oral-history.md
+      - p2-1-exhibiting-oral-history.md
+      - p2-2-folklore-and-the-forgotten.md
+      - p2-3-voices-and-texts.md
+      - p3-1-recording-community-experiences.md
+      - p3-2-migration-and-refuge.md
+      - p3-3-institutional-perspectives.md
+      - p4-1-margins-in-the-spotlight.md
+      - p4-2-space-and-place.md
+      - p4-3-the-military-and-experiences-of-war.md
+      - p4-4-women-in-conflict.md
+      - p5-1-communal-identity-and-political-memory.md
+      - p5-2-oral-history-andas-resistance.md
+      - p5-3-disaster-and-trauma.md
+      - p6-1-oral-history-and-education.md
+      - p6-2-a-life-of-listening.md
       - example-title.md
