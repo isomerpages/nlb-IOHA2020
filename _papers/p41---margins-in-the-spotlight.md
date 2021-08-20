@@ -2,7 +2,6 @@
 title: P4.1 – Margins in the Spotlight
 permalink: /papers/p4-1-margins-spotlight
 ---
-
 <b>PAPER SESSION 4 - THURSDAY 26/8, 5–7pm (UTC +8)</b>
 	
 <b>P4.1 – Margins in the Spotlight</b>
