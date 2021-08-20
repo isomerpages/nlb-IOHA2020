@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - p11---concepts-and-practices-in-oral-history.md
-      - p1-2-oral-history-and-archives.md
+      - p12---oral-history-and-archives.md
       - p2-1-exhibiting-oral-history.md
       - p22---folklore-and-the-forgotten.md
       - p2-3-voices-and-texts.md
