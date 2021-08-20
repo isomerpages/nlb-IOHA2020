@@ -50,12 +50,12 @@ permalink: /papers/p4-1-margins-spotlight
 
 <ul><b>Keywords:</b> community; COVID-19; culture; South African Indian</ul>
 
-<b>David Beorlegui (Spain) </b>Investigación Colaborativa y Desarrollo Comunitario: El projecto Memorias del Futuro-Voces de Portobelo [Collaborative Research and Community Development: the project Memorias del Futuro-Voces de Portobelo] <b>[in Spanish]</b>
+<b>David Beorlegui (Spain) </b>Investigación Colaborativa y Desarrollo Comunitario: El projecto Memorias del Futuro-Voces de Portobelo [Collaborative Research and Community Development: the project Memorias del Futuro-Voces de Portobelo] <b><i>[in Spanish]</i></b>
 
 <ul>El objetivo de esta comunicación es abordar la construcción de un Archivo Digital de Memoria de Afrodescendientes en Portobelo, Panamá. El archivo forma parte de un proyecto más amplio denominado “Memorias del Futuro: Voces de Portobelo”, que tiene como principales objetivos el reconocimiento, empoderamiento y visibilidad de las personas afropanameñas y la inclusión de su experiencia histórica en el currículo escolar del país. El texto se detiene a analizar los principales hitos del proyecto y el modo de afrontar las tensiones inherentes a la realización de entrevistas, poniendo un énfasis especial en la buena práctica de la historia oral y los aprendizajes que se derivan de ella.</ul> 
 
 <ul>The aim of this paper is to address the construction of a Digital Archive of Memory of People of African Descent in Portobelo, Panama. The archive is part of a larger project called “Memorias del Futuro.: Voces de Portobelo”, whose main objectives are the recognition, empowerment and visibility of Afro-Panamenian people and the inclusion of their historical experience in the country's school curriculum. The paper stops to analyze the main milestones of the project and how to deal with the tensions inherent in conducting interviews, placing special emphasis on the good practice of oral history and the lessons learned from it.</ul>
 
-<ul><b>David Beorlegui</b> is a post-doctoral researcher at the University of the Basque Country. He teaches oral history at postgraduate and graduate level. He has published three books and different articles in scientific journals. At the moment, he is the representative of the European Region in IOHA Council and also the co-editor of the bilingual electronic journal <i>Words and Silences-Palabras y Silencios</i>.</ul></ul>
+<ul><b>David Beorlegui</b> is a post-doctoral researcher at the University of the Basque Country. He teaches oral history at postgraduate and graduate level. He has published three books and different articles in scientific journals. At the moment, he is the representative of the European Region in IOHA Council and also the co-editor of the bilingual electronic journal <i>Words and Silences-Palabras y Silencios</i>.</ul>
 
 <ul><b>Keywords:</b> Afro-Panamenian; archive; interview</ul>

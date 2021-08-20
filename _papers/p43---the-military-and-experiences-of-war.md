@@ -2,7 +2,6 @@
 title: P4.3 – The Military and Experiences of War
 permalink: /papers/p4-3-military-experiences-war
 ---
-
 <b>PAPER SESSION 4 - THURSDAY 26/8, 5–7pm (UTC +8)</b>
 	
 <b>P4.3 – The Military and Experiences of War</b>
@@ -57,4 +56,4 @@ permalink: /papers/p4-3-military-experiences-war
 
 <ul><b>Masato Fukuda</b> is a PhD student majoring in Cultural Anthropology in Kyoto University. In MA course, Masato has done fieldwork in Okinawa (Japan), and now is planning to do a long fieldwork in Taiwan next year.</ul>
 
-<ul><b>Keywords:</b> farming; military base; Okinawa; US forces</ul></ul>
+<ul><b>Keywords:</b> farming; military base; Okinawa; US forces</ul>

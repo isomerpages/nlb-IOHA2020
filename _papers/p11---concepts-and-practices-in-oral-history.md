@@ -2,10 +2,6 @@
 title: P1.1 – Concepts and Practices in Oral History
 permalink: /papers/p1-1-concepts-practices-oral-history
 ---
-
-
-
-
 <b>PAPER SESSION 1 – TUESDAY 24 Aug, 9–11am (UTC +8)</b>
 
 <b>P1.1 – Concepts and Practices in Oral History</b>
@@ -52,7 +48,7 @@ permalink: /papers/p1-1-concepts-practices-oral-history
 
 <ul><b>Sumallya Mukhopadhyay</b> is doing his PhD from Indian Institute of Technology, Delhi. His area of interest includes, among other things, the politics of dispossession in narratives related to the Bengal Partition (1947-1970). He is a “student member” of International Oral History Association. He can be reached at <a href="mailto:mukhopadhyay.sumallya@gmail.com">mukhopadhyay.sumallya@gmail.com</a>.</ul>
 
-<ul><a>Keywords:</a> community; interview; memory; narration; oral history; partition; refugee; time</ul>
+<ul><b>Keywords:</b> community; interview; memory; narration; oral history; partition; refugee; time</ul>
 
 <b>Samir Ketf & Saeideh Mahrami (Iran)</b> Smart Interview, Technology, and Solving the Challenges in an Interview
 
