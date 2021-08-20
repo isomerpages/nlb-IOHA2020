@@ -2,7 +2,6 @@
 title: P3.1 – Recording Community Experiences
 permalink: /papers/p3-1-recording-community-experiences
 ---
-
 <b>PAPER SESSION 3 - WEDNESDAY 25/8, 9–11am (UTC +8)</b>
 
 <b>P3.1 – Recording Community Experiences</b>
@@ -37,7 +36,7 @@ permalink: /papers/p3-1-recording-community-experiences
 
 <ul><b>Keywords: </b>autobiographic narrative; community; oral history; Malayalee</ul>
 
-<b>Arlete Assumpção Monteiro (Brazil) Encajeras y oralidad: Playa del Sambaqui, Santa Catarina, Brasil [in Spanish]</b>
+<b>Arlete Assumpção Monteiro (Brazil) Encajeras y oralidad: Playa del Sambaqui, Santa Catarina, Brasil <i>[in Spanish]</i></b>
 
 <ul>El litoral atlántico del Estado de Santa Catarina, Brasil, fue poblado por portugueses continentales y de las Islas del Archipiélago de los Azores. En 1739, la Corona portuguesa creó la Capitanía de Santa Catarina, la separó de São Paulo. De 1747 a 1753 embarcaron cerca de 6 mil hombres, mujeres y niños de la Isla Tercera y otras del archipiélago con destino al sur de Brasil. Las familias fueron distribuidas en la Isla de Santa Catarina y en la parte continental do litoral catarinense. En 22 de enero de 1808, la Corte Portuguesa transfirió su sed para Brasil. Don João VI, preocupado con las fronteras brasileñas envió una expedición al sur de Brasil, con la misión de elegir un local para que se fundara una colonia de pescadores, según aquellas existentes en Portugal. La Enseada de las Garoupas fue este local elegido para la fundación de dicha Colonia. En 1818, la Galera Conde de Peniche aportó en Rio de Janeiro con varias familias portuguesas, acompañadas de un cura, un boticario y un calafate que fueron llevados a la Enseada, para la Fundación de la Colonia de Nova Ericeira, hoy Porto Belo, Bombiñas, Camboriú y otros municipios. La presente investigación está centrada en las mujeres que tejen hilos, pinchan alfileres, puntean bilros y transforman los hilos en rentas, en el distrito de Santo Antonio de Lisboa, en el Barrio y Playa del Sambaqui, en la Isla de Santa Catarina, litoral atlántico sur brasileño. La metodología utilizada privilegió los testimonios orales. Las encajeras hoy son guardianas de la cultura local, pues participan de la danza del Palo de Cinta, de la cantoría del Buey de Mamão, de la danza de la Peneira.  En Portugal, hacer rentas de bilros es una tradición mantenida en el Distrito de Peniche, localizado en el litoral portugués y próximo de la Ericeira. El saber de las encajeras de la Playa del Sambaqui y comunidades próximas, tuvo su origen en la región de Peniche, Portugal, tradición que se transformó en verdadera herencia social.</ul>
 
