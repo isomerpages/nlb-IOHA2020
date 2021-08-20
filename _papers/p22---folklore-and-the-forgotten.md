@@ -1,7 +1,8 @@
 ---
 title: P2.2 – Folklore and the Forgotten
-permalink: /papers/p2-2
+permalink: /papers/p2-2-folklore-forgotten
 ---
+
 
 <b>PAPER SESSION 2 – TUESDAY 24/8, 5–7pm (UTC +8)</b>
 
