@@ -2,7 +2,6 @@
 title: P4.2 – Space and Place
 permalink: /papers/p4-2-space-place
 ---
-
 <b>PAPER SESSION 4 - THURSDAY 26/8, 5–7pm (UTC +8)</b>
 	
 <b>P4.2 – Space and Place</b>
@@ -32,7 +31,7 @@ particular places and environmental objects? </ul>
 
 <ul>The exhibition and publication on “Our Home by the Kallang River, Singapore: Past, Present and Future” were produced by the Kolam Ayer Citizens’ Consultative Committee in conjunction the Singapore Bicentennial in 2019. The National Heritage Board, the People’s Association, the National Library Board and the National Archives of Singapore jointly supported this project. The exhibition and publication was launched at 8 June 2019 at the National Library Building.</ul>
 
-<ul>This paper describes how the project team using oral history methodology to select the interviewees, weaving their stories and memories into the eight chapters of the book and 24 exhibition panels. The team conducted oral history interviews with more than 30 elderly residents who reside at the Kallang River areas as well as historians and researchers, to create content of the exhibition and publication. </ul>
+<ul>This paper describes how the project team using oral history methodology to select the interviewees, weaving their stories and memories into the eight chapters of the book and 24 exhibition panels. The team conducted oral history interviews with more than 50 elderly residents who reside at the Kallang River areas as well as historians and researchers, to create content of the exhibition and publication. </ul>
 
 <ul>These eight chapters were Riveting River: The Story of the Singapore’s Longest River; Remembering the Beginning; Raffles: A turning Point in Singapore’s History; Reclamation: Paving the Way for Singapore’s Future; Republic: River of Independence; Repair & Recreation: Breathing New Life into the River; Residents: Hope Dreams and Memories; Rejuvenation: Making Waves for Years to Come.</ul>
 
@@ -54,7 +53,7 @@ particular places and environmental objects? </ul>
 
 <ul><b>Keywords:</b> architecture of Independence, the Emergency, and Cold War; engineering prowess; Kuala Lumpur; material scarcity; Merdeka</ul>
 
-<b>Madhulagna Halder (India/USA)</b> “Jail as Our University”: Remembering and Reimagining the Prison as a Site of ‘Affective Learning’
+<b>Madhulagna Halder (India/Canada)</b> “Jail as Our University”: Remembering and Reimagining the Prison as a Site of ‘Affective Learning’
 
 <ul>The paper is situated between the years of 1967-1977 in West Bengal and re- imagines the prison as a site of learning. In arguing for the “jail as University”, it uses the memories of everyday life of Naxal prisoners (political prisoners), who through new modalities of exchange (such as cooking, singing and addas) with Non Naxal prisoners that subsequently altered the space of the prison from that of a site of repression to a site of learning and affect. It uses oral interviews and autobiographical writings to corroborate and contrast the oral with written memory. The interviewees in their recall repeatedly mentioned the phrase, Jail amader biswavidyalay (Jail as our University), which then provides for a re-imagination of the prison. They also choose to gloss over their experiences of violence with an overbearing “narrative of love”, which is helps us understand the silences and distortion of individual memory.</ul> 
 
