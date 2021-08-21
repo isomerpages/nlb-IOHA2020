@@ -2,4 +2,4 @@ collections:
   registration1:
     output: true
     order:
-      - registration.md
+      - registration1.md
