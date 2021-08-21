@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - registration1.md
+      - registration.md
