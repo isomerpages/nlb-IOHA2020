@@ -1,5 +1,5 @@
 collections:
-  registration1:
+  registration:
     output: true
     order:
       - registration1.md
