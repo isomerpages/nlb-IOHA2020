@@ -14,7 +14,7 @@ Promote your products and services to oral history practitioners and institution
 
 <b>Exhibitor Fees</b>
 
-Contact <a href="Irene_LL_Lim@nlb.gov.sg"> Irene_LL_Lim@nlb.gov.sg</a> for details. Payment is required upon booking and must be received by 6 August to confirm your place. We recommend payment by telegraphic transfer.
+Contact <a href="mailto:Irene_LL_Lim@nlb.gov.sg"> Irene_LL_Lim@nlb.gov.sg</a> for details. Payment is required upon booking and must be received by 6 August to confirm your place. We recommend payment by telegraphic transfer.
 
 <b>What can tradeshow exhibitors do with their virtual booths?</b>
 
