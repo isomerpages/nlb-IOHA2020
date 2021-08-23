@@ -107,4 +107,4 @@ Please note that <a href="https://www.ioha2021.gov.sg/programme/posters">Posters
 
 Except workshops, all recorded sessions will be available within 24 hours in the Post-event section of the virtual conference platform.
 
-Programme content and schedule may be subject to changes. Please check conference site for the latest updates.
+Programme content and schedule may be subject to changes. Please check conference site for the latest updates. 
