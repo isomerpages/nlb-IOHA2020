@@ -2,7 +2,6 @@
 title: P2.3 – Voices and Texts
 permalink: /papers/p2-3-voices-text
 ---
-
 <b>PAPER SESSION 2 - TUESDAY 24/8, 5–7pm (UTC +8)</b>
 
 <b>P2.3 – Voices and Texts</b>
@@ -11,7 +10,7 @@ permalink: /papers/p2-3-voices-text
 
 <ul>Oral history teaches us that the past is constantly in flux. Through the medium of art forms, especially folk forms like folk music, folk dances and folk art, one can gauge at the politics of “orality” in detail. The very fact of it being oral makes it a form that can change with people’s perceptions such that one can locate the diverse ways people make sense of history itself. In this paper, by looking at Goalpariya folk music of Assam, India, and its various facets, I have tried to critically analyse how there is both a ‘political’ as well as an ‘aesthetic’ construction of the past through the folk form. This construction of the past deconstructs the conventional notion of “folk” as a neutral, static, historically continuous, and an unproblematic concept. The criticality with regards to folk music has been largely derived from the persistent discussions on the “authenticity question” that surfaced during my fieldwork. Basing my research on the methodological framework of ethnomusicology, my focus is both on the songs as well as the context from which the songs have originated (along with the myriad discussions surrounding the folk). Through in-depth interviews with several stakeholders associated with the folk form, I have made an attempt to draw the interconnections and linkages of folk music with the themes of identity assertion, tradition, authenticity, dissonance in oral history, and overall dynamism inherent within the concept of folk. Especially with the changing global cultural economy, the call for a “pure folk,” points towards an inherent politics that surrounds folk music. What is defined as “traditional” is therefore constantly in flux. The multiple positionalities that get constituted through oral history brings forth the politics of authenticity with respect to how, what, and who of the folk form.</ul> 
 
-<ul><b>Simona Sarma</b> is a PhD Research Scholar at the Advanced Centre for Women’s Studies, Tata Institute of Social Sciences (TISS), Mumbai. She may be reached at <a href="mailto:simona.sarma@gmail.com">simona.sarma@gmail.com</a>.</ul> 
+<ul><b>Simona Sarma</b> is a Ph.D. Research Scholar at the Advanced Centre for Women’s Studies under the School of Development Studies in Tata Institute of Social Sciences, Mumbai. She has completed her post-graduation in Sociology from the Delhi School of Economics, University of Delhi. She works in the area of performance studies, popular culture, folklore studies, and cultures in Northeast India. She has published papers in distinguished journals like Folklore (Routledge) and Economic and Political Weekly. In her free time, she likes to sing and cook!</ul> 
 
 <ul><b>Keywords:</b> Assam; folk music; globalisation; pastness; politics of authenticity</ul>
 
