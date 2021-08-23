@@ -14,19 +14,6 @@ permalink: /papers/p4-2-space-place
 
 <ul><b>Keywords:</b> audio; augmented reality; embodied; location; stories</ul>
 
-<b>Ieva Garda-Rozenberga (Latvia)</b> Environmental Oral History of the Daugava Delta
-
-<ul>Joining the emerging field of environmental humanities, the paper aims at studying the lives and narratives of urban communities neighboring the Riga port. Strongly attached to their places and historical identities, these communities constantly confront change that affects their lifestyle and environmental quality. The decline of Baltic fisheries and industrialization of the port over the past decades have substantially transformed what once were fishing suburbs, rural enclaves within a city, islands providing their inhabitants with access to natural resources and water in particular.</ul> 
-
-<ul>By using the oral history interviews of urban communities neighboring the Riga port members I will explore the reciprocal human-environment-narrative relationship: Which historical periods and / or events have been (or are regarded as) most crucial for the (trans)formation of environment-dependent lifestyles in the Daugava delta? How do people perceive and interpret transformation of their habitat? How is local past used in the evaluation of the present by local communities? What memories are linked to 
-particular places and environmental objects? </ul>
-
-<ul>The particular research is based on the framework of environmental oral history, which enables us to more fully and critically understand the ways cultural and individual memory and experience shapes human interactions with the more-than-human world, just as it enables us to identify the ways human memory, identity and experience is moulded by the landscapes and environments in which people live and work (Holmes and Goodall 2017). Life stories are seen as an important resource in the study of the people’s perceptions, experiences and beliefs about environments and constant changes over time. </ul>
-
-<ul><b>*Dr. philol.* Ieva Garda-Rozenberga</b>, researcher at the Institute of Literature, folklore and arts, University of Latvia; PhD in folkloristics – 2012, University of Latvia; author of approximately 40 scholarly articles; research interests include: oral history, environmental humanities, personal narrative, migration, narrative cartography.</ul>
-
-<ul><b>Keywords:</b> community; environmental oral history; living next to the port; narrative and memory</ul>
-
 <b>Kiang-Koh Lai Lin (Singapore)</b> Documenting a River’s History through Oral History
 
 <ul>The exhibition and publication on “Our Home by the Kallang River, Singapore: Past, Present and Future” were produced by the Kolam Ayer Citizens’ Consultative Committee in conjunction the Singapore Bicentennial in 2019. The National Heritage Board, the People’s Association, the National Library Board and the National Archives of Singapore jointly supported this project. The exhibition and publication was launched at 8 June 2019 at the National Library Building.</ul>
