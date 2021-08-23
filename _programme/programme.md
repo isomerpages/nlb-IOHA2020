@@ -5,7 +5,7 @@ breadcrumb: Programme
 ---
 The IOHA Conference 2021 is the first time the IOHA is holding a virtual conference.
 
-The virtual conference website for all registrants is located at https://event.ioha2021.sg
+The virtual conference website for all registrants is located at [https://event.ioha2021.sg](https://event.ioha2021.sg)
 
 To encourage maximum participation from our international audience, the organisers have scheduled three time slots per day so that participants will be able to attend at least one or two of the sessions. Those who cannot attend the sessions “live” can view the recorded sessions. All registered participants will have access to the conference website for one month.
 
