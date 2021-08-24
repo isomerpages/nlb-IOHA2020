@@ -2,7 +2,6 @@
 title: P6.1 – Oral History and Education
 permalink: /papers/p6-1-oral-history-education
 ---
-
 <b>PAPER SESSION 6 - FRIDAY 27/8, 9–11am (UTC +8)</b>
 
 <b>P6.1 – Oral History and Education</b>
