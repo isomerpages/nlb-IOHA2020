@@ -49,16 +49,6 @@ permalink: /papers/p6-1-oral-history-education
 
 <ul><b>Palabras clave:</b> experiencias escolares; sentido de la escuela; significado de la escuela; valoraciones de la escuela</ul>
 
-<b>Marieta de Moraes Ferreira (Brazil)</b> Universidad y Enseñanza de Historia en la Carrera de Historia del Instituto de Filosofia e Ciencias Sociais (IFCS/UFRJ) 1968-1980 <b>*[in Spanish]*</b>
-
-<ul>The purpose of this paper is to focus on the process and effects of repression triggered by the military dictatorship in Brazil from 1968 to 1982, at Universidade Federal do Rio de Janeiro, which strongly affected its teachers and students.</ul>
-
-<ul>During this period, considered as "lead years in Brazilian political history", the new regime promoted the dismissal of teachers and the expulsion of students and implemented educational reforms aimed not only to empty any possibility of political mobilization but also to impose strong censorship on historiographical debates excluding authors and themes from the curricula.</ul>
-
-<ul><b>Marieta de Moraes Ferreira</b> PHD in Social History. President of International Oral History Assocation (IOHA)-(2000-2002);  Publisher Director of FGV Press and Library System; Post-PHD at École des Hautes en Sciences Sociales (France); Emeritus Professor of Instituto de História of University  Federal of Rio de Janeiro; Associated  Reserched of Institut de l`Histoire du Temps Present (IHTP), Paris; former president of  Brazilian Oral History Association.</ul>
-
-<ul><b>Keywords:</b> teaching history; university; politics</ul>
-
 <b>Alex T. Primm (USA) Encouraging Oral History in Hebei, China</b>
 
 <ul>In November 2018 I visited an old friend who had recently received an invitation to come in one month to Shijiazhuang, the 30th biggest city on the mainland, to teach American literature. “I can’t do it, maybe you can,” my friend said.</ul>
