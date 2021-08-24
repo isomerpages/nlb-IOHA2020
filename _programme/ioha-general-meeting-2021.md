@@ -2,9 +2,9 @@
 title: IOHA General Meeting 2021
 permalink: /programme/iohageneralmeeting
 ---
-IOHA General Meeting 2021
+<b>IOHA General Meeting 2021</b>
 
-Overview
+<b>Overview</b>
 
 The IOHA General Meeting is chaired by the IOHA President and held at every IOHA Conference. 
 
@@ -13,25 +13,25 @@ The main agenda items are:
 1.	The confirmation of the host of the next IOHA Conference
 2.	The election of the next IOHA Council
 
-IOHA Election Procedure Summary
+<b>IOHA Election Procedure Summary</b>
 
 (agreed at IOHA General Meeting in Rio de Janeiro, June 1998, adapted for online election at Singapore General Meeting 2021)
 
-Voting and nomination eligibility
+<b>Voting and nomination eligibility</b>
 
 •	Only IOHA members may vote in IOHA elections.
 
 •	Only IOHA members may nominate for election to IOHA Council.
 
-Council positions
+<b>Council positions</b>
 
-President: if there is only one nominee for President, they are automatically elected. If there is more than one nominee for President there will be a vote and the candidate with the most votes is elected.
+<b>President:</b> if there is only one nominee for President, they are automatically elected. If there is more than one nominee for President there will be a vote and the candidate with the most votes is elected.
 
-Vice-Presidents (two posts): if there are only two nominees for Vice-President, they are both automatically elected. If there are more than two nominees for Vice-President there will be a vote and the two candidates with the most votes are elected.
+<b>Vice-Presidents (two posts):</b> if there are only two nominees for Vice-President, they are both automatically elected. If there are more than two nominees for Vice-President there will be a vote and the two candidates with the most votes are elected.
 
-Council Regional Representatives (ten positions): if there are ten or less nominees for Council, they are all elected. If there are more than ten nominees for Council there will be a vote. The nominee with the most votes from each of the following six regions (Africa, Asia, Europe, North America, Oceania and South America) will be elected. The four other candidates with the most votes are also elected.
+<b>Council Regional Representatives (ten positions):</b> if there are ten or less nominees for Council, they are all elected. If there are more than ten nominees for Council there will be a vote. The nominee with the most votes from each of the following six regions (Africa, Asia, Europe, North America, Oceania and South America) will be elected. The four other candidates with the most votes are also elected.
 
-Online voting procedure at IOHA General Meeting 2021
+<b>Online voting procedure at IOHA General Meeting 2021</b>
 
 The IOHA Nomination Committee Chair (Mark Cave) will present the names of candidates who have already agreed to be nominees for Council.
 
@@ -41,32 +41,34 @@ If necessary, nominations from the floor will be added to the list of nominees, 
 
 If voting is required, IOHA members will be invited to vote within the 24 hours following the General Meeting, with a voting deadline of midnight (12pm) on Thursday 26 August (timings are in UTC +8 – in other words, Singapore time).
 
-IOHA members must email their vote to the email address iohaelections2021@gmail.com. You should list one name for President, one or two names for Vice-President, and ten names for Council Regional Representatives (you do not need to specify their regions). You should include your name in the email so the returning officers can verify that you are an IOHA member.
+IOHA members must email their vote to the email address <a href="iohaelections2021@gmail.com">iohaelections2021@gmail.com</a>. You should list one name for President, one or two names for Vice-President, and ten names for Council Regional Representatives (you do not need to specify their regions). You should include your name in the email so the returning officers can verify that you are an IOHA member.
 
 The returning officers for the election will be the IOHA nomination committee, comprising former IOHA Presidents Mark Cave, Indira Chowdhury and Alistair Thomson. Only these three returning officers can access the election email address and see the votes, which will be confidential.
 
 The returning officers will count the votes and will announce the results of the election at the IOHA Closing Ceremony on Friday 27 August (5-7 pm Singapore time).
 
+<b>Nominations for President</b>
 
-Nominations for President
+<b>David Beorlegui (Spain)</b>
 
-David Beorlegui (Spain)
 Link to nomination speech (English)
 Link to nomination speech (Spanish)
 
-Nominations for Vice President
+<b>Nominations for Vice President</b>
 
-Martha Norkunas (USA)
+<b>Martha Norkunas (USA)</b>
+
 Link to nomination speech
 
-Mark Wong (Singapore)
+<b>Mark Wong (Singapore)</b>
+
 Link to nomination speech
 
-Nominations for Regional Representatives
+<b>Nominations for Regional Representatives</b>
 
-Lorina Barker (Oceania) is a descendant of the Wangkumara and Muruwari people from northwest NSW, Adnyamathanha (Flinders Rangers SA), the Kooma and Kunja (southwest QLD), and the Kurnu-Baarkandji (northwest NSW). Dr Barker is an oral historian (current Oceania representative for the International Oral History Association), filmmaker and artist. She uses multimedia as part of her community art-based research projects to transfer knowledge, history, stories and culture to the next generations, in mediums that they use and are familiar with, such as film, short stories and poetry. Dr Barker has published traditional and non-traditional research and presented numerous conference papers on her projects, writing and filmmaking at both national and international conferences. She is a member of the Indigenous Oral History Network and a senior Lecturer, Faculty of Humanities, Arts, Social Sciences and Education at the University of New England in the Australian state of New South Wales
+<b>Lorina Barker *(Oceania)*</b> is a descendant of the Wangkumara and Muruwari people from northwest NSW, Adnyamathanha (Flinders Rangers SA), the Kooma and Kunja (southwest QLD), and the Kurnu-Baarkandji (northwest NSW). Dr Barker is an oral historian (current Oceania representative for the International Oral History Association), filmmaker and artist. She uses multimedia as part of her community art-based research projects to transfer knowledge, history, stories and culture to the next generations, in mediums that they use and are familiar with, such as film, short stories and poetry. Dr Barker has published traditional and non-traditional research and presented numerous conference papers on her projects, writing and filmmaking at both national and international conferences. She is a member of the Indigenous Oral History Network and a senior Lecturer, Faculty of Humanities, Arts, Social Sciences and Education at the University of New England in the Australian state of New South Wales
 
-Bernardo Buarque (South America) holds a PhD in the Social History of Culture from the Pontifical Catholic University of Rio de Janeiro (PUC-Rio/2008). Since 2010, he is associate professor at the School of Social Sciences and researcher at the Center for Research and Documentation on Brazilian Contemporary History at the FGV Foundation (FGV CPDOC). He is currently secretary-general of the Oral History Brazilian Association (ABHO/2020-2022) 
+<b>Bernardo Buarque *(South America)*</b> holds a PhD in the Social History of Culture from the Pontifical Catholic University of Rio de Janeiro (PUC-Rio/2008). Since 2010, he is associate professor at the School of Social Sciences and researcher at the Center for Research and Documentation on Brazilian Contemporary History at the FGV Foundation (FGV CPDOC). He is currently secretary-general of the Oral History Brazilian Association (ABHO/2020-2022) 
 
 Anne Heimo (Europe) is Professor of Folkloristics at the School of History, Culture and Art Studies, University of Turku. She is founding member and former chair of the Finnish Oral History Network (FOHN) and currently co-chair of the European Social Science History Conference (ESSHC) Oral history and life stories network and council member of the International Oral History Association (IOHA). She has cooperated with oral historians from the Nordic and Baltic countries for two decades. She is specialised in oral history, memory studies, and life writing research. Her main research interests include everyday memory practices. Recently she has focused on the construction and sharing of family memories on social media.
 
