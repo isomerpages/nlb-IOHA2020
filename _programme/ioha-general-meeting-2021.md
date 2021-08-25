@@ -41,7 +41,7 @@ If necessary, nominations from the floor will be added to the list of nominees, 
 
 If voting is required, IOHA members will be invited to vote within the 24 hours following the General Meeting, with a voting deadline of midnight (12pm) on Thursday 26 August (timings are in UTC +8 – in other words, Singapore time).
 
-IOHA members must email their vote to the email address <a href="iohaelections2021@gmail.com">iohaelections2021@gmail.com</a>. You should list one name for President, one or two names for Vice-President, and ten names for Council Regional Representatives (you do not need to specify their regions). You should include your name in the email so the returning officers can verify that you are an IOHA member.
+IOHA members must email their vote to the email address <a href="mailto:iohaelections2021@gmail.com">iohaelections2021@gmail.com</a>. You should list one name for President, one or two names for Vice-President, and ten names for Council Regional Representatives (you do not need to specify their regions). You should include your name in the email so the returning officers can verify that you are an IOHA member.
 
 The returning officers for the election will be the IOHA nomination committee, comprising former IOHA Presidents Mark Cave, Indira Chowdhury and Alistair Thomson. Only these three returning officers can access the election email address and see the votes, which will be confidential.
 
