@@ -51,18 +51,46 @@ The returning officers will count the votes and will announce the results of the
 
 <b>David Beorlegui (Spain)</b>
 
-Link to nomination speech (English)
-Link to nomination speech (Spanish)
+Nomination speech (English): 
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1yed2fgoVmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+Nomination speech (Spanish): 
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2DhTDQxRzas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <b>Nominations for Vice President</b>
 
 <b>Martha Norkunas (USA)</b>
 
-Link to nomination speech
+Nomination speech (English):
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zsIJL4BvauA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Nomination speech (Spanish):
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WFYhMvcHRNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <b>Mark Wong (Singapore)</b>
 
-Link to nomination speech
+Nomination speech (English):
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XqQcU5TOn4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Nomination speech (Spanish): 
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rasnNx2Or2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <b>Nominations for Regional Representatives</b>
 
