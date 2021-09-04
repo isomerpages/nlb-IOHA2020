@@ -8,9 +8,7 @@ permalink: /registration/
 
 Registration is required for all persons attending the IOHA Virtual Conference 2021. Please read through the instructions carefully on this page before registering.
 
-For online payment via credit/debit card only, please click <a href="https://go.gov.sg/ioha2021regonline">here</a> to register.
-
-No other payment methods are available.
+**Registration has closed. Access to the conference recorded material will continue until 22 September and is available to those already registered. Thank you for your wonderful support.
 
 If you require an invoice/receipt, please email <a href="mailto:NLB_IOHA_Admin@nlb.gov.sg"> NLB_IOHA_Admin@nlb.gov.sg</a>  before you register or immediately after payment.
 
@@ -18,18 +16,20 @@ If you require an invoice/receipt, please email <a href="mailto:NLB_IOHA_Admin@n
 
 Early bird fee: Until 7 August 2021 (UTC +8) 
 
-Standard fee
+Standard fee: Until 27 August 2021 (UTC +8)
 
 <b> Registration Fees </b>
 
 All prices are in Singapore Dollars (SGD) and inclusive of 7% GST. You may check the approximate conversion rate [here](https://xe.com/currencyconverter/).
 
-| | <b>Early Bird (till 7 August 2021, UTC +8)</b> | <b>Standard</b> |
+
+
+| <b>Fee category</b> | <b>Early Bird (till 7 August 2021, UTC +8)</b> | <b>Standard</b>|
 | -------- | -------- | -------- |
-| <b>Non-member</b> | $133.75 | $160.50 |
-|<b>IOHA Member*</b> | $117.70 | $144.45 |
-| <b>Non-member (Student or ASEAN Resident)</b> | $69.55 | $85.60 |
-|<b> IOHA Member* (Student or ASEAN Resident)</b> | $53.50 | $69.55 |
+| <b>Non-member</b>     | $133.75      | $160.50     |
+| <b>IOHA Member*</b>     | $117.70     | $144.45     |
+| <b>Non-member (Student or ASEAN Resident)</b>     | $69.55     | $85.60     |
+| <b> IOHA Member* (Student or ASEAN Resident)</b>     | $53.50     | $69.55     |
 
 ** IOHA members will be asked to include the month and year of their last IOHA membership renewal on the registration form. Membership lasts for two years from the date of payment. To register as an IOHA member or renew your membership, please visit <a href="http://www.ioha.org/membership-account/membership-levels/">http://www.ioha.org/membership-account/membership-levels/</a>
 
